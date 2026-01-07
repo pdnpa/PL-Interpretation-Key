@@ -8,6 +8,10 @@ edit_uri: edit/main/docs/
 theme:
   name: material
 
+plugins:
+  - search
+  - git-revision-date-localized
+
 docs_dir: docs
 
 markdown_extensions:

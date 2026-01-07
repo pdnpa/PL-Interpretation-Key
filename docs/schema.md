@@ -150,6 +150,7 @@ Click any code to view detailed guidance and examples.
 | [f4](classes/f/f4.md) | Rushes | f2 | Areas with species from the Juncaceae family. |
 | [f4a](classes/f/f4.md) | Rushes in pasture | f2b | Clumps of rushes, in patches or following drainage (blocked) or where water accumulates in fields |
 | [f4b](classes/f/f4.md) | Upland rush pasture | g3c8 | Clumps of vegetation dominated by rushes in poorly draining areas that form distinct features |
+| [f5](classes/f/f4.md) | Reedbed | f2e | Swamp dominated by Common Reed |
 
 ---
 
