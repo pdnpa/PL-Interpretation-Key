@@ -1,8 +1,13 @@
 # PL Interpretation Key
 
-<div style="text-align: center; margin: 2rem 0;">
-  <img src="assets/images/main/org-logos.png" alt="Organisational logos" style="max-width: 600px; width: 100%;">
+<div style="text-align: center; margin: 3rem 0;">
+  <img
+    src="assets/images/main/org-logos.png"
+    alt="Organisational logos"
+    style="max-width: 900px; width: 100%;"
+  >
 </div>
+
 
 <div style="text-align: center; margin-bottom: 2rem;">
   <strong>Version:</strong> v0.1 (Public draft)  
@@ -47,8 +52,7 @@ This site is intended to be used alongside aerial imagery and GIS software durin
 
 ## Scope and limitations
 
-This key is designed for **remote interpretation** using aerial imagery.  
-It does not replace detailed field survey guidance and should not be used for statutory habitat condition assessment.
+This key is designed for **remote interpretation** using aerial imagery. It does not replace detailed field survey guidance and should not be used for statutory habitat condition assessment.
 
 Where habitats form **gradual transitions**, the key prioritises visual dominance and spatial coherence to support consistent digitisation.
 
@@ -70,9 +74,9 @@ This work has been developed to support protected landscape management and data 
 
 | Name | Organisation | Role |
 |------|--------------|------|
-| **David Alexander** | Landscape Observatory | Research Lead |
-| **Simon Geikie** | Landscape Observatory | Director |
-| **Sarah Rowley** | Landscape Observatory | Research & Strategic Development |
+| David Alexander | Landscape Observatory | Research Lead |
+| Simon Geikie | Landscape Observatory | Director |
+| Sarah Rowley | Landscape Observatory | Research & Strategic Development |
 | Dr Daniel Simms | Cranfield University | Senior Lecturer in Remote Sensing |
 | Dr Toby Waine | Cranfield University | Head of Applied Remote Sensing |
 | Andy Burn | Northumberland National Park | Data & Performance Analyst |
@@ -82,7 +86,7 @@ This work has been developed to support protected landscape management and data 
 | Henry Barrett | North Pennines National Landscape | Data, Monitoring and Citizen Science Officer |
 | Dr Peter Matthews | High Weald National Landscape | GIS Officer |
 | Dr Sally Marsh | High Weald National Landscape | Director |
-| Heather Cuthil | Peak District National Park Authority | Data Officer |
+| Heather Cuthill | Peak District National Park Authority | Data Officer |
 | Lynsey Robinson | South Downs National Park | Ecology Planning Lead |
 | Dr Jan Knowlson | South Downs National Park | Biodiversity Officer |
 | Natalie Singleton | Dedham Vale and Suffolk & Essex Coast Heaths National Landscape | National Landscape Officer |
