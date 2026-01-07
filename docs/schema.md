@@ -9,13 +9,13 @@ Click any code to view detailed guidance and examples.
 
 ### Primary class
 
-| Code | Name | UKHab | Definition |
+| Code | Name | Closest UKHab | Definition |
 |------|------|-------|------------|
 | [a](classes/a/index.md) | Artificial land | u | Buildings, roads, built-up areas, artificially sealed surfaces, and quarries |
 
 ### Subclasses
 
-| Code | Name | UKHab | Definition |
+| Code | Name | Closest UKHab | Definition |
 |------|------|-------|------------|
 | [a1](classes/a/a1.md) | Urban and transport | u1c | Built-up land, such as buildings and car parks. Includes major and minor roads, as well as any human-made infrastructure. |
 | [a2](classes/a/a2.md) | Quarries, mineral workings and derelict land | s1 | Includes both in use and decommissioned quarries and mineral workings, as well as derelict land – areas that previously had construction or developments on, but are now disused and abandoned. |
@@ -27,13 +27,13 @@ Click any code to view detailed guidance and examples.
 
 ### Primary class
 
-| Code | Name | UKHab | Definition |
+| Code | Name | Closest UKHab | Definition |
 |------|------|-------|------------|
 | [b](classes/b/index.md) | Cropland | c | Land used for growing crops |
 
 ### Subclasses
 
-| Code | Name | UKHab | Definition |
+| Code | Name | Closest UKHab | Definition |
 |------|------|-------|------------|
 | [b1](classes/b/b1.md) | Annual crops | c1c | Crops that complete their growing cycle within a year. |
 | [b2](classes/b/b2.md) | Permanent crops (vines, bushes, energy crops) | c1d | Crops from plants that produce harvests year on year, and so are not grown in rotation, but occupy the same area/field year on year. |
@@ -45,13 +45,13 @@ Click any code to view detailed guidance and examples.
 
 ### Primary class
 
-| Code | Name | UKHab | Definition |
+| Code | Name | Closest UKHab | Definition |
 |------|------|-------|------------|
 | [c](classes/c/index.md) | Woodland | w | Trees & woodland canopies |
 
 ### Subclasses
 
-| Code | Name | UKHab | Definition |
+| Code | Name | Closest UKHab | Definition |
 |------|------|-------|------------|
 | [c1](classes/c/c1.md) | Broadleaved woodland | w1 | Areas dominated by trees >5m tall. There must be a tree canopy cover of at least ???%, with ≥???% consisting of deciduous, broadleaved species. Includes ancient and recent woodland, with trees that have grown from seed or planted seedlings. Tends to have shades of green and appear full in the summer, with a more brown and sparse appearance in the winter when the leaves have been lost. |
 | [c1a](classes/c/c1.md) | Single trees (broadleaved) | w1 | Isolated, broadleaved trees outside woodland. Only includes individual trees; as soon as there are more than one it must be classed as c1. |
@@ -68,13 +68,13 @@ Click any code to view detailed guidance and examples.
 
 ### Primary class
 
-| Code | Name | UKHab | Definition |
+| Code | Name | Closest UKHab | Definition |
 |------|------|-------|------------|
 | [s](classes/s/index.md) | Scrubland | h3 | Woody scrub species, associated with woodland or transitions to woodland in grassland or heathland habitats. Either having a diffuse boundary with a mix of woody shrubs and trees <5 m in height (with grasses) or in dense patches. These areas can be found within woodland or on the edges of woodland, maintained by grazing or as part of a natural succession to woodland. Includes patches of dense scrub with clear boundaries on heathland, e.g. gorse. Mature tree canopies should be digitised out. This class is separated from the (woodland/heathland/grassland) hierarchy as distinct landscape features. |
 
 ### Subclasses
 
-| Code | Name | UKHab | Definition |
+| Code | Name | Closest UKHab | Definition |
 |------|------|-------|------------|
 | [s1](classes/s/s1.md) | Scrub | h3 | Areas of shrubs <5m in height with >???% cover. Species may include Blackthorn (Prunus spinosa), Hawthorn (Crataegus spp.), Hazel (Corylus avellana), Bramble (Rubus fruticosus agg.) and Willow (Salix spp.), amongst others. |
 | [s1a](classes/s/s1.md) | Mixed dense scrub | h3 | Areas of scrub which contain multiple different species, with no one species dominating. Alternatively, areas of scrub dominated by a single species which isn’t Gorse (s1b). |
@@ -88,22 +88,24 @@ Click any code to view detailed guidance and examples.
 
 ### Primary class
 
-| Code | Name | UKHab | Definition |
+| Code | Name | Closest UKHab | Definition |
 |------|------|-------|------------|
 | [d](classes/d/index.md) | Heathland | h1 | Land dominated by low (dwarf) shrub species, generally forming part of a succession from grassland to woodland but maintained through burning, cutting and grazing, e.g. moorlands. Includes grass moor as visually distinct from acid grassland and important as a transition between degraded (molinia dominated) landscapes and transition to blanket bog. Excludes seasonally and/or permanently wet areas, e.g. peat bogs. |
 
 ### Subclasses
 
-| Code | Name | UKHab | Definition |
+| Code | Name | Closest UKHab | Definition |
 |------|------|-------|------------|
-| [d1](classes/d/d1.md) | Upland heath | D1a | Typically found on acidic, low nutrient soils, these are areas consisting of >???% cover of Heather and heath species (Calluna vulgaris and Erica spp.) and/or Bilberry (Vaccinium myrtillus). Crowberry (Empetrum nigrum) may also be present. Management of upland heath can include regular patch burning, which can be easily identified aerially. |
+| [d1](classes/d/d1.md) | Upland heath | h1 | Typically found on acidic, low nutrient soils, these are areas consisting of >???% cover of Heather and heath species (Calluna vulgaris and Erica spp.) and/or Bilberry (Vaccinium myrtillus). Crowberry (Empetrum nigrum) may also be present. Management of upland heath can include regular patch burning, which can be easily identified aerially. |
 | [d1a](classes/d/d1.md) | Upland dry heath | h1b5 | Generally found in areas with low nutrient, acidic to circumneutral soils, which drain freely. Heather (Calluna vulgaris) and heath (Erica spp.) dominated, with other dwarf shrubs including Bilberry (Vaccinium spp.) and Crowberry (Empetrum nigrum). |
-| [d1b](classes/d/d1.md) | Dwarf shrub dominated blanket bog |  | Predominantly inactive bog areas. Dwarf shrub cover - including Heather and heath species (Calluna vulgaris and Erica spp.) – exceeds 75% of the canopy, and mosses (e.g. Sphagnum) are extremely rare if not completely absent. |
-| [d2](classes/d/d2.md) | Grass/sedge dominated blanket bog |  | Areas which have the potential to become active blanket bogs. Sphagnum mosses typical of active bogs are scarce, and the area is dominated by grass and sedge. Common species include: purple moor grass (Molinia caerulea), cotton grass (Eriophorum angustifolium) and deer grass (Trichophorum cespitosum). |
-| [d2a](classes/d/d2.md) | Dry grass/sedge dominated blanket bog |  | What is the difference between these two? Just more water present in wet one? ↓ |
-| [d2b](classes/d/d2.md) | Wet grass/sedge dominated blanket bog |  | Test test |
-| [d3](classes/d/d3.md) | Bracken | D3 | Areas are covered by at least ???% Bracken (Pteridium aquilinum). Variable in colour and appearance, it appears bright green and bushy in the summer, but russet-brown when the plant material has died. |
+| [d1b](classes/d/d1.md) | Dwarf shrub dominated blanket bog | h1b6 | Predominantly inactive bog areas. Dwarf shrub cover - including Heather and heath species (Calluna vulgaris and Erica spp.) – exceeds 75% of the canopy, and mosses (e.g. Sphagnum) are extremely rare if not completely absent. |
+| [d2](classes/d/d2.md) | Grass/sedge dominated blanket bog | b1 | Areas which have the potential to become active blanket bogs. Sphagnum mosses typical of active bogs are scarce, and the area is dominated by grass and sedge. Common species include: purple moor grass (Molinia caerulea), cotton grass (Eriophorum angustifolium) and deer grass (Trichophorum cespitosum). |
+| [d2a](classes/d/d2.md) | Dry grass/sedge dominated blanket bog | b1 (Blanket bog – degraded / modified) | Hydrological state captured as attribute |
+| [d2b](classes/d/d2.md) | Wet grass/sedge dominated blanket bog | b1 (Blanket bog – wetter expression)  | THydrological state captured as attribute |
+| [d3](classes/d/d3.md) | Bracken | glc | Areas are covered by at least ???% Bracken (Pteridium aquilinum). Variable in colour and appearance, it appears bright green and bushy in the summer, but russet-brown when the plant material has died. |
 | [d4](classes/d/d4.md) | Lowland heath | h1a | Typically found on acidic, low nutrient soils, these areas are made up of varying percentages of Heather and heath species (Calluna vulgaris and Erica spp.), dwarf gorse (Vaccinium myrtillus) and Crowberry (Empetrum nigrum). Grass species such as Bristle Bent (Agrostis curtisii) and Sheep’s Fescue (Festuca ovina) are also common. |
+
+* Where the interpretation key distinguishes habitat states (e.g. dry vs wet blanket bog) that are not formally separated in UKHab, all variants are mapped to the closest UKHab parent class, with condition captured through interpretation attributes.
 
 ---
 
@@ -111,13 +113,13 @@ Click any code to view detailed guidance and examples.
 
 ### Primary class
 
-| Code | Name | UKHab | Definition |
+| Code | Name | Closest UKHab | Definition |
 |------|------|-------|------------|
 | [e](classes/e/index.md) | Grassland | g | Permanent grasslands |
 
 ### Subclasses
 
-| Code | Name | UKHab | Definition |
+| Code | Name | Closest UKHab | Definition |
 |------|------|-------|------------|
 | [e1](classes/e/e1.md) | Acid grassland | g1 | Areas of acidic soils (pH <5.5) where primarily grasses and herbs grow. These soils are derived from sandstone and igneous rocks, or from deposits such as sands and gravels. |
 | [e1a](classes/e/e1.md) | Lowland acid grassland | g1a | Grassland that is found on acidic soils on top of sandstones and igneous rocks, typically below 300m in altitude. |
@@ -133,13 +135,13 @@ Click any code to view detailed guidance and examples.
 
 ### Primary class
 
-| Code | Name | UKHab | Definition |
+| Code | Name | Closest UKHab | Definition |
 |------|------|-------|------------|
 | [f](classes/f/index.md) | Wetland | f | Seasonally and/or permanently wet areas |
 
 ### Subclasses
 
-| Code | Name | UKHab | Definition |
+| Code | Name | Closest UKHab | Definition |
 |------|------|-------|------------|
 | [f1](classes/f/f1.md) | Freshwater fen, marsh and swamp | f2 | Areas that are waterlogged, either permanently or periodically, and are often peat-forming. Fens receive groundwater, rainfall and water from surface run-off, separating them from bogs where the peat forming vegetation is isolated from groundwater. Marshes are dominated by herbaceous plants; swamps are dominated by trees and tall, emergent vegetation. |
 | [f1a](classes/f/f1.md) | Upland mire | f2a8 | Spring fed upland wetland (+ detail) |
@@ -155,13 +157,13 @@ Click any code to view detailed guidance and examples.
 
 ### Primary class
 
-| Code | Name | UKHab | Definition |
+| Code | Name | Closest UKHab | Definition |
 |------|------|-------|------------|
 | [g](classes/g/index.md) | Bare land | NE0015 | Bare land and rock, including very sparse vegetation |
 
 ### Subclasses
 
-| Code | Name | UKHab | Definition |
+| Code | Name | Closest UKHab | Definition |
 |------|------|-------|------------|
 | [g1](classes/g/g1.md) | Bare ground | G1 | Areas of exposed, unvegetated land. |
 | [g2](classes/g/g2.md) | Bare rock | s1 | Areas of exposed, unvegetated rock, such as scree, cliffs and limestone pavements. Only planimetric area is mapped, so large but near vertical cliffs may cover a small area when mapped, or even be missed. |
@@ -179,13 +181,13 @@ Click any code to view detailed guidance and examples.
 
 ### Primary class
 
-| Code | Name | UKHab | Definition |
+| Code | Name | Closest UKHab | Definition |
 |------|------|-------|------------|
 | [r](classes/r/index.md) | Water | r | Rivers and lakes |
 
 ### Subclasses
 
-| Code | Name | UKHab | Definition |
+| Code | Name | Closest UKHab | Definition |
 |------|------|-------|------------|
 | [r1](classes/r/r1.md) | Inland open water | r1 | Natural and man-made bodies of water covering at least ???. Examples include lakes, pools, reservoirs and canals. Often appears very dark aerially. |
 | [r2](classes/r/r2.md) | Rivers and streams | r2 | Rivers and streams from bank top to bank top (see UKHabs, specifications?). Often appears very dark aerially. |
@@ -196,13 +198,13 @@ Click any code to view detailed guidance and examples.
 
 ### Primary class
 
-| Code | Name | UKHab | Definition |
+| Code | Name | Closest UKHab | Definition |
 |------|------|-------|------------|
 | [h](classes/h/index.md) | Coastland | s3a, 19, s3b | Sand dunes/coastal grazing marsh/vegetated shingle |
 
 ### Subclasses
 
-| Code | Name | UKHab | Definition |
+| Code | Name | Closest UKHab | Definition |
 |------|------|-------|------------|
 | [h1](classes/h/h1.md) | Sand dunes | s3a | Sand along a shoreline that has been shaped into mounds and ridges by the wind. Maritime grasses stabilise these structure, e.g. Marram grass (Ammophila arenaria). |
 | [h2](classes/h/h2.md) | Coastal grazing marsh | 19 | Pastures and meadows found near the coastline that are periodically covered by seawater. |
@@ -214,6 +216,6 @@ Click any code to view detailed guidance and examples.
 
 ### Primary class
 
-| Code | Name | UKHab | Definition |
+| Code | Name | Closest UKHab | Definition |
 |------|------|-------|------------|
 | [i](classes/i/index.md) | Unclassified | 0 | NODATA |
