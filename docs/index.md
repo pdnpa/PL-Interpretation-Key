@@ -79,6 +79,7 @@ This work has been developed to support protected landscape management and data 
 | Sarah Rowley | Landscape Observatory | Research & Strategic Development |
 | Dr Daniel Simms | Cranfield University | Senior Lecturer in Remote Sensing |
 | Dr Toby Waine | Cranfield University | Head of Applied Remote Sensing |
+| Dr Sam Hibdidge | Cranfield University | Postdoc Bioinformatics |
 | Andy Burn | Northumberland National Park | Data & Performance Analyst |
 | Emily Brazington | Forest of Bowland National Landscape | FiPL Farm Advisor |
 | Dom Hartley | Forest of Bowland National Landscape | Development & Funding Officer for Lancashire Peatlands |
@@ -87,8 +88,8 @@ This work has been developed to support protected landscape management and data 
 | Dr Peter Matthews | High Weald National Landscape | GIS Officer |
 | Dr Sally Marsh | High Weald National Landscape | Director |
 | Heather Cuthill | Peak District National Park Authority | Data Officer |
-| Lynsey Robinson | South Downs National Park | Ecology Planning Lead |
-| Dr Jan Knowlson | South Downs National Park | Biodiversity Officer |
+| Dr Lynsey Robinson | South Downs National Park | Ecology Planning Lead |
+| Jan Knowlson | South Downs National Park | Biodiversity Officer |
 | Natalie Singleton | Dedham Vale and Suffolk & Essex Coast Heaths National Landscape | National Landscape Officer |
 | Genny Calvert | Yorkshire Dales National Park Authority | Wildlife Conservation Officer |
 
