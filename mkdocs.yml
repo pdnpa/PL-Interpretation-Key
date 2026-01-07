@@ -1,5 +1,21 @@
 site_name: PL Interpretation Key
+site_url: https://pdnpa.github.io/PL-Interpretation-Key/
+use_directory_urls: true
+
+repo_url: https://github.com/pdnpa/PL-Interpretation-Key
+edit_uri: edit/main/docs/
+
+theme:
+  name: material
+
 docs_dir: docs
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - toc:
+      permalink: true
 
 nav:
   - Introduction: index.md
@@ -20,3 +36,4 @@ nav:
       - H Coastland: classes/h/index.md
       - I Unclassified: classes/i/index.md
   - Schema table: schema.md
+
