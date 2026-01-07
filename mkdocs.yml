@@ -1,0 +1,22 @@
+site_name: PL Interpretation Key
+docs_dir: docs
+
+nav:
+  - Introduction: index.md
+  - Guidance:
+      - Digitising rules: guidance/digitising-rules.md
+      - Thresholds: guidance/thresholds.md
+      - QA checks: guidance/qa.md
+  - Classes:
+      - A Artificial land: classes/a/index.md
+      - B Cropland: classes/b/index.md
+      - C Woodland: classes/c/index.md
+      - S Scrubland: classes/s/index.md
+      - D Heathland: classes/d/index.md
+      - E Grassland: classes/e/index.md
+      - F Wetland: classes/f/index.md
+      - G Bare land: classes/g/index.md
+      - R Water: classes/r/index.md
+      - H Coastland: classes/h/index.md
+      - I Unclassified: classes/i/index.md
+  - Schema table: schema.md
