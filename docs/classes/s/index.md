@@ -1,4 +1,11 @@
-# Page Title
+---
+title: Dense scrub
+code: s1
+parent: s
+ukhab: h3
+status: draft
+---
+
 
 ## Content
 jlihxwiw wqjhixwj xwhwxh
