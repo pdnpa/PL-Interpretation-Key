@@ -1,4 +1,4 @@
-# PL Interpretation Key
+# Protected Landscapes Interpretation Key
 
 <div style="text-align: center; margin: 3rem 0;">
   <img

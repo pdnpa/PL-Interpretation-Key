@@ -1,3 +1,9 @@
+<!--
+NOTE:
+This page is derived from schema/schema.csv.
+The CSV and generated JSON are the authoritative schema.
+-->
+
 # Habitat classes
 
 This page lists all habitat and land cover classes used in the interpretation key.  
