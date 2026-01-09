@@ -29,16 +29,92 @@ nav:
       - Thresholds: guidance/thresholds.md
       - QA checks: guidance/qa.md
   - Classes:
-      - A Artificial land: classes/a/index.md
-      - B Cropland: classes/b/index.md
-      - C Woodland: classes/c/index.md
-      - S Scrubland: classes/s/index.md
-      - D Heathland: classes/d/index.md
-      - E Grassland: classes/e/index.md
-      - F Wetland: classes/f/index.md
-      - G Bare land: classes/g/index.md
-      - R Water: classes/r/index.md
-      - H Coastland: classes/h/index.md
-      - I Unclassified: classes/i/index.md
-  - Schema table: schema.md
+    - A Artificial land:
+        - Overview: classes/artificial-land/index.md
+        - a1 Urban and transport: classes/artificial-land/urban.md
+        - a2 Quarries & derelict land: classes/artificial-land/quarries.md
+        - a3 Open mosaic: classes/artificial-land/open-mosaic.md
+
+    - B Cropland:
+        - Overview: classes/cropland/index.md
+        - b1 Annual crops: classes/cropland/annual.md
+        - b2 Permanent crops: classes/cropland/permanent.md
+        - b3 Orchards: classes/cropland/orchards.md
+
+    - C Woodland:
+        - Overview: classes/woodland/index.md
+        - c1 Broadleaved woodland: classes/woodland/broadleaved.md
+        - c1a Single trees (broadleaved): classes/woodland/broadleaved-single-trees.md
+        - c1b Hedgerow trees (broadleaved): classes/woodland/broadleaved-hedgerow-trees.md
+        - c2 Coniferous woodland: classes/woodland/coniferous.md
+        - c2a Single trees (coniferous): classes/woodland/coniferous-single-trees.md
+        - c2b Hedgerow trees (coniferous): classes/woodland/coniferous-hedgerow-trees.md
+        - c4 Traditional orchard: classes/woodland/traditional-orchard.md
+        - c5 Clear felled / newly planted: classes/woodland/clear-felled.md
+
+    - S Scrubland:
+        - Overview: classes/scrubland/index.md
+        - s1 Scrub: classes/scrubland/scrub.md
+        - s1a Mixed dense scrub: classes/scrubland/mixed-dense-scrub.md
+        - s1b Gorse: classes/scrubland/gorse.md
+        - s2 Hedgerows: classes/scrubland/hedgerows.md
+
+    - D Heathland:
+        - Overview: classes/heathland/index.md
+        - d1 Upland heath: classes/heathland/upland-heath.md
+        - d1a Upland dry heath: classes/heathland/upland-dry-heath.md
+        - d1b Dwarf shrub dominated blanket bog: classes/heathland/dwarf-shrub-dominated-blanket-bog.md
+        - d2 Grass / sedge dominated blanket bog: classes/heathland/grass-sedge-dominated-blanket-bog.md
+        - d2a Dry grass / sedge dominated blanket bog: classes/heathland/grass-sedge-dominated-blanket-bog-dry.md
+        - d2b Wet grass / sedge dominated blanket bog: classes/heathland/grass-sedge-dominated-blanket-bog-wet.md
+        - d3 Bracken: classes/heathland/bracken.md
+        - d4 Lowland heath: classes/heathland/lowland-heath.md
+
+    - E Grassland:
+        - Overview: classes/grassland/index.md
+        - e1 Acid grassland: classes/grassland/acid.md
+        - e1a Lowland acid grassland: classes/grassland/acid-lowland.md
+        - e1b Upland acid grassland: classes/grassland/acid-upland.md
+        - e2 Calcareous grassland: classes/grassland/calcareous.md
+        - e3 Neutral grassland: classes/grassland/neutral.md
+        - e4 Modified grassland: classes/grassland/modified.md
+        - e5 Arable field margins: classes/grassland/arable-field-margins.md
+
+    - F Wetland:
+        - Overview: classes/wetland/index.md
+        - f1 Freshwater fen, marsh and swamp: classes/wetland/fen.md
+        - f1a Upland mire: classes/wetland/mire.md
+        - f2 Saltmarsh: classes/wetland/saltmarsh.md
+        - f3 Peat bog: classes/wetland/peat-bog.md
+        - f4 Rushes: classes/wetland/rushes.md
+        - f4a Rushes in pasture: classes/wetland/rushes-in-pasture.md
+        - f4b Rushes in heathland: classes/wetland/rushes-in-heathland.md
+        - f5 Reedbeds: classes/wetland/reedbeds.md
+
+    - G Bare land:
+        - Overview: classes/bare-land/index.md
+        - g1 Bare ground: classes/bare-land/ground.md
+        - g2 Bare rock: classes/bare-land/rock.md
+        - g3 Unconsolidated bare ground: classes/bare-land/unconsolidated.md
+        - g3a Sand: classes/bare-land/sand.md
+        - g3b Mud: classes/bare-land/mud.md
+        - g3c Shingle: classes/bare-land/shingle.md
+        - g4 Walls: classes/bare-land/walls.md
+        - g4d Exposed peat: classes/bare-land/exposed-peat.md
+        - g5 Scree: classes/bare-land/scree.md
+
+    - R Water:
+        - Overview: classes/water/index.md
+        - r1 Inland open water: classes/water/open-water.md
+        - r2 Rivers and streams: classes/water/rivers-and-streams.md
+
+    - H Coastland:
+        - Overview: classes/coastland/index.md
+        - h1 Sand dunes: classes/coastland/sand-dunes.md
+        - h2 Coastal grazing marsh: classes/coastland/grazing-marsh.md
+        - h3 Vegetated shingle: classes/coastland/vegetated-shingle.md
+
+    - I Unclassified:
+        - Overview: classes/unclassified/index.md
+
 
