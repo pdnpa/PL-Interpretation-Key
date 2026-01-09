@@ -1,0 +1,5 @@
+/* Hide the ⓘ icon shown next to index pages in the nav */
+.md-nav__link--index .md-nav__icon,
+.md-nav__link--index svg {
+  display: none !important;
+}

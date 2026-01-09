@@ -37,9 +37,9 @@ This Countryside Commission report (1991) presents a comprehensive assessment of
 
 The project involved the manual digitisation of all National Parks in England and Wales over a four-year period. The resulting dataset formed a key evidence base informing the establishment of National Park Authorities under the Environment Act (1995).
 
-(http://publications.naturalengland.org.uk/publication/5216333889273856)[http://publications.naturalengland.org.uk/publication/5216333889273856]
+[http://publications.naturalengland.org.uk/publication/521633388927385](http://publications.naturalengland.org.uk/publication/5216333889273856)
 
 ### Multi-Stage Semantic Segmentation Quantifies Fragmentation of Small Habitats at a Landscape Scale
 This 2023 study demonstrates the application of deep learning methods to digitise high-resolution aerial photography. A pilot study in the Peak District National Park showed that multi-stage semantic segmentation can be used to quantify habitat fragmentation at landscape scale, demonstrating the feasibility of applying these methods to large protected areas.
 
-(https://www.mdpi.com/2072-4292/15/22/5277)[https://www.mdpi.com/2072-4292/15/22/5277]
+[https://www.mdpi.com/2072-4292/15/22/5277](https://www.mdpi.com/2072-4292/15/22/5277)

@@ -8,6 +8,13 @@ edit_uri: edit/main/docs/
 theme:
   name: material
 
+  features:
+    - navigation.sections
+
+extra_css:
+  - assets/stylesheets/extra.css
+
+
 plugins:
   - search
   - git-revision-date-localized
@@ -25,6 +32,7 @@ markdown_extensions:
 nav:
   - Introduction: index.md
   - Guidance:
+      - Overview: guidance/data.md
       - Digitising rules: guidance/digitising-rules.md
       - Thresholds: guidance/thresholds.md
       - QA checks: guidance/qa.md
@@ -50,7 +58,7 @@ nav:
         - c2a Single trees (coniferous): classes/woodland/coniferous-single-trees.md
         - c2b Hedgerow trees (coniferous): classes/woodland/coniferous-hedgerow-trees.md
         - c4 Traditional orchard: classes/woodland/traditional-orchard.md
-        - c5 Clear felled / newly planted: classes/woodland/clear-felled.md
+        - c5 Clear felled / newly planted: classes/woodland/felled.md
 
     - S Scrubland:
         - Overview: classes/scrubland/index.md
@@ -64,9 +72,9 @@ nav:
         - d1 Upland heath: classes/heathland/upland-heath.md
         - d1a Upland dry heath: classes/heathland/upland-dry-heath.md
         - d1b Dwarf shrub dominated blanket bog: classes/heathland/dwarf-shrub-dominated-blanket-bog.md
-        - d2 Grass / sedge dominated blanket bog: classes/heathland/grass-sedge-dominated-blanket-bog.md
-        - d2a Dry grass / sedge dominated blanket bog: classes/heathland/grass-sedge-dominated-blanket-bog-dry.md
-        - d2b Wet grass / sedge dominated blanket bog: classes/heathland/grass-sedge-dominated-blanket-bog-wet.md
+        - d2 Grass / sedge dominated blanket bog: classes/heathland/grass-sedge-blanket-bog.md
+        - d2a Dry grass / sedge dominated blanket bog: classes/heathland/grass-sedge-blanket-bog-dry.md
+        - d2b Wet grass / sedge dominated blanket bog: classes/heathland/grass-sedge-blanket-bog-wet.md
         - d3 Bracken: classes/heathland/bracken.md
         - d4 Lowland heath: classes/heathland/lowland-heath.md
 
@@ -78,7 +86,7 @@ nav:
         - e2 Calcareous grassland: classes/grassland/calcareous.md
         - e3 Neutral grassland: classes/grassland/neutral.md
         - e4 Modified grassland: classes/grassland/modified.md
-        - e5 Arable field margins: classes/grassland/arable-field-margins.md
+        - e5 Arable field margins: classes/grassland/field-margins.md
 
     - F Wetland:
         - Overview: classes/wetland/index.md
@@ -89,7 +97,7 @@ nav:
         - f4 Rushes: classes/wetland/rushes.md
         - f4a Rushes in pasture: classes/wetland/rushes-in-pasture.md
         - f4b Rushes in heathland: classes/wetland/rushes-in-heathland.md
-        - f5 Reedbeds: classes/wetland/reedbeds.md
+        - f5 Reedbeds: classes/wetland/reedbed.md
 
     - G Bare land:
         - Overview: classes/bare-land/index.md
@@ -106,7 +114,7 @@ nav:
     - R Water:
         - Overview: classes/water/index.md
         - r1 Inland open water: classes/water/open-water.md
-        - r2 Rivers and streams: classes/water/rivers-and-streams.md
+        - r2 Rivers and streams: classes/water/rivers.md
 
     - H Coastland:
         - Overview: classes/coastland/index.md
