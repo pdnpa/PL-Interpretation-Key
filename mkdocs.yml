@@ -12,7 +12,7 @@ theme:
     - navigation.sections
 
 extra_css:
-  - assets/stylesheets/extra.css
+  - /PL-Interpretation-Key/assets/stylesheets/extra.css
 
 
 plugins:
