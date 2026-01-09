@@ -11,8 +11,6 @@ theme:
   features:
     - navigation.sections
 
-extra_css:
-  - assets/stylesheets/extra.css
 
 plugins:
   - search
