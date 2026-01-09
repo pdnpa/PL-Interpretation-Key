@@ -11,6 +11,7 @@ theme:
 plugins:
   - search
   - git-revision-date-localized
+  - macros
 
 docs_dir: docs
 
