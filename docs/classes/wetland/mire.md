@@ -1,7 +1,7 @@
-#---
+---
 code: f1a
 title: Spring fed upland wetland (+ detail)
-parent: f
+parent: f1
 ukhab: f2a8
 status: draft
 description: >

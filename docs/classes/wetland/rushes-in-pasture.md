@@ -1,4 +1,4 @@
-#---
+---
 code: f4a
 title: Rushes in pasture
 parent: f4

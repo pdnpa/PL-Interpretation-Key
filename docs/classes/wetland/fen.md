@@ -1,4 +1,4 @@
-#---
+---
 code: f1
 title: Freshwater fen, marsh and swamp
 parent: f
@@ -6,7 +6,7 @@ ukhab: f2
 status: draft
 description: >
   Areas that are waterlogged, either permanently or periodically, and are often peat-forming. Fens receive groundwater, rainfall and water from surface run-off, separating them from bogs where the peat forming vegetation is isolated from groundwater. Marshes are dominated by herbaceous plants; swamps are dominated by trees and tall, emergent vegetation.
-subclasses: []
+subclasses: [f1a]
 ---
 
 # {{ title }} ({{ code }})

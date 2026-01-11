@@ -1,4 +1,4 @@
-#---
+---
 code: f4
 title: Rushes
 parent: f
