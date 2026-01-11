@@ -1,7 +1,7 @@
 ---
 code: c1b
 title: Single trees (broadleaved)
-parent: c
+parent: c1
 ukhab: w1g6
 status: draft
 description: >

@@ -1,7 +1,7 @@
 ---
 code: s1b
 title: Gorse
-parent: s
+parent: s1
 ukhab: h3e
 status: draft
 description: >

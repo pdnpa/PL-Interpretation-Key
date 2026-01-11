@@ -1,7 +1,7 @@
 ---
 code: d1a
 title: Upland dry heath
-parent: d
+parent: d1
 ukhab: h1b5
 status: draft
 description: >

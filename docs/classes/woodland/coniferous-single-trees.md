@@ -1,7 +1,7 @@
 ---
 code: c2a
 title: Single trees (coniferous)
-parent: c
+parent: c2
 ukhab: w2
 status: draft
 description: >

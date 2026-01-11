@@ -1,7 +1,7 @@
 ---
 code: c2b
 title: Hedgerow trees (coniferous)
-parent: c
+parent: c2
 ukhab: w2
 status: draft
 description: >

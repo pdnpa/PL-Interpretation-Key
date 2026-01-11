@@ -1,7 +1,7 @@
 ---
 code: d1b
 title: Dwarf shrub dominated blanket bog
-parent: d
+parent: d1
 ukhab: h1b6
 status: draft
 description: >

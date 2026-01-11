@@ -1,7 +1,7 @@
 ---
 code: d2b
 title: Wry grass/sedge dominated blanket bog
-parent: d
+parent: d2
 ukhab: b1 (Blanket bog – wetter expression)
 status: draft
 description: >

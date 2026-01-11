@@ -1,7 +1,7 @@
 ---
 code: s1a
 title: Mixed dense scrub
-parent: s
+parent: s1
 ukhab: h3
 status: draft
 description: >

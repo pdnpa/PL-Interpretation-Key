@@ -1,7 +1,7 @@
 ---
 code: d2a
 title: Dry grass/sedge dominated blanket bog
-parent: d
+parent: d2
 ukhab: b1 (Blanket bog – degraded / modified)
 status: draft
 description: >

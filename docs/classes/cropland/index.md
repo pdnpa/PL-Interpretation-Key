@@ -5,7 +5,7 @@ parent: b
 ukhab: u
 status: draft
 description: >
-  Land used for growing crops
+  Land used for growing crops.
 subclasses: [b1, b2, b3]
 ---
 
