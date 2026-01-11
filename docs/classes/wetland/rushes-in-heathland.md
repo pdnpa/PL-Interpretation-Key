@@ -1,11 +1,11 @@
 ---
 code: f4b
-title: Upland rush pasture
+title: Wet tussocky grassland – open moorland
 parent: f4
 ukhab: g3c8
 status: draft
 description: >
-  Clumps of vegetation dominated by rushes in poorly draining areas that form distinct features.
+  Wet tussocky grassland occurring in open or unenclosed upland landscapes, typically associated with commons, moorland fringes, or slopes adjacent to upland acid grassland, heath, or blanket bog.
 subclasses: []
 ---
 
@@ -22,11 +22,13 @@ subclasses: []
 {{ description }}
 
 ## Identification criteria
+In open upland contexts this class often aligns with habitats described as upland acid grassland and rush pasture and may include areas dominated by purple moor-grass, particularly where historic grazing and burning have influenced vegetation structure.
 
-*This class should be mapped when:*
-- XXX vegetation <5 m tall covers >XX% of the polygon
-- Vegetation has clearly defined edges
-- Dominated by XXX rather than tree canopy
+This class should be mapped when:
+- Occurs in unenclosed or weakly enclosed upland landscapes
+- Tussocky vegetation forms extensive or semi-continuous cover, rather than isolated patches
+- Internal field boundaries are absent or minimal
+- Commonly occurs along moorland fringes, slopes, or in association with damp ground and flushes
 
 ## Aerial Definition
 
@@ -46,4 +48,4 @@ subclasses: []
 
 ## Useful Links
 
-*useufl links to open data to help with interpretation e.g. FC Woodland Data or OS or CEH*
+* [Upland acid grassland and rush pasture definition Wildlife Trusts](https://www.wildlifetrusts.org/habitats/grassland/upland-acid-grassland-and-rush-pasture)
