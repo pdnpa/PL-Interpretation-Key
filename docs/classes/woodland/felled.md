@@ -5,7 +5,7 @@ parent: c
 ukhab: BNG53
 status: draft
 description: >
-  	Areas of woodland that have been recently felled or planted with new, young trees. Evidence of logging, rowing up of trash and drainage may be present. Newly planted trees can be identified by lines of uniform planting.
+  Areas of woodland that have been recently felled or planted with new, young trees. Evidence of logging, rowing up of trash and drainage may be present. Newly planted trees can be identified by lines of uniform planting.
 subclasses: []
 ---
 

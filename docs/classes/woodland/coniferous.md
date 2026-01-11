@@ -5,7 +5,7 @@ parent: c
 ukhab: w2
 status: draft
 description: >
-  	Areas dominated by trees >5m tall. There must be a tree canopy cover of at least ???%, with ≥???% consisting of coniferous species. The majority of coniferous woodlands in the UK are from planted seedlings. Easily recognisable in aerial imagery, as plantations consist of uniformly aged, coloured and spaced trees, often with defined borders.
+  Areas dominated by trees >5m tall. There must be a tree canopy cover of at least ???%, with ≥???% consisting of coniferous species. The majority of coniferous woodlands in the UK are from planted seedlings. Easily recognisable in aerial imagery, as plantations consist of uniformly aged, coloured and spaced trees, often with defined borders.
 subclasses: [c2a, c2b]
 ---
 

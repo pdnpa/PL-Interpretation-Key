@@ -6,7 +6,7 @@ Land cover refers to the physical elements occupying the Earth’s surface. It i
 Aerial photography can be challenging to interpret and analyse. Cartographic maps present features that have already been standardised to aid understanding, whereas aerial photographs contain raw visual information captured by a camera from thousands of feet above the Earth’s surface. Photographic interpreters and imagery analysts therefore apply a range of visual and analytical techniques to extract meaningful and consistent information from these images.
 
 ### Bluesky
-Bluesky’s catalogue of high-resolution orthophotography is accurate, up to date and GIS/CAD-ready. The imagery is produced to the highest technical standards and is accredited to Ordnance Survey Accuracy (±0.5 m RMSE).
+Bluesky’s catalogue of high-resolution orthophotography is accurate, up to date and GIS/CAD-ready. The imagery is produced to the highest technical standards and is accredited to Ordnance Survey Accuracy (±0.5 m RMSE). Data is captured at 12.5cm resolution aquired between 1st April and 31st October acquired with Vexcel UltraCams. 
 
 **Products used:**
 
@@ -21,13 +21,15 @@ While this is not unusual in landscape-scale aerial surveys, it introduces chall
 
 **Figure 1:** Protected Landscapes showing the year and season of aerial photography acquisition.
 
+*Figure 1 here*
+
 As shown in Figure 1, the imagery used was collected over a four-year period, spanning mid-meteorological spring to early summer. Surveying vegetation across this period introduces substantial phenological variation, including differences in flowering, leaf emergence, canopy development and chlorophyll content.
 
 In addition, much of the landscape is actively managed. Agricultural practices such as fertiliser application, grazing regimes and grass cutting for fodder can rapidly alter vegetation structure and appearance, further complicating classification.
 
 **Figure 2:** illustrates the range of visual differences observed across the imagery dataset. Additional land-cover-specific challenges are described in the relevant subclass sections below.
 
-Seasonal Differences
+*Figure 2 here*
 
 
 ## Background Reports

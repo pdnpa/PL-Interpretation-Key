@@ -5,7 +5,7 @@ parent: b
 ukhab: c1c
 status: draft
 description: >
-  	Crops that complete their growing cycle within a year.
+  Crops that complete their growing cycle within a year.
 subclasses: []
 ---
 

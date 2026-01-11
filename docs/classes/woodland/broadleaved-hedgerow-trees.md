@@ -5,7 +5,7 @@ parent: c
 ukhab: w1g6
 status: draft
 description: >
-  	Trees (broadleaved) within hedges, either single or lines.
+  Trees (broadleaved) within hedges, either single or lines.
 subclasses: []
 ---
 

@@ -5,7 +5,7 @@ parent: c
 ukhab: w2
 status: draft
 description: >
-  	Isolated, coniferous trees outside woodland. Only includes individual trees; as soon as there are more than one it must be classed as c1.
+  Isolated, coniferous trees outside woodland. Only includes individual trees; as soon as there are more than one it must be classed as c1.
 subclasses: []
 ---
 

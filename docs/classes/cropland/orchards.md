@@ -5,7 +5,7 @@ parent: b
 ukhab: c1
 status: draft
 description: >
-  	Collections of fruit and/or nut producing trees, currently managed for food production, with an intensely managed ground cover.
+  Collections of fruit and/or nut producing trees, currently managed for food production, with an intensely managed ground cover.
 subclasses: []
 ---
 

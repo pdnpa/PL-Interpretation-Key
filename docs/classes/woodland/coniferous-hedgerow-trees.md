@@ -5,7 +5,7 @@ parent: c
 ukhab: w2
 status: draft
 description: >
-  	Trees (coniferous) within hedges, either single or lines.
+  Trees (coniferous) within hedges, either single or lines.
 subclasses: []
 ---
 
