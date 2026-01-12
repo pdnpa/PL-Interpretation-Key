@@ -68,25 +68,23 @@ nav:
     - D Heathland:
         - Overview: classes/heathland/index.md
         - d1 Upland heath: classes/heathland/upland-heath.md
-        - d2 Grass / sedge dominated blanket bog: classes/heathland/grass-sedge-blanket-bog.md
+        - d2 Grass–sedge moorland: classes/heathland/grass-sedge.md
         - d3 Lowland heath: classes/heathland/lowland-heath.md
 
     - E Grassland:
         - Overview: classes/grassland/index.md
-        - e1 Acid grassland: classes/grassland/acid.md
-        - e1a Lowland acid grassland: classes/grassland/acid-lowland.md
-        - e1b Upland acid grassland: classes/grassland/acid-upland.md
-        - e2 Calcareous grassland: classes/grassland/calcareous.md
-        - e3 Neutral grassland: classes/grassland/neutral.md
-        - e4 Modified grassland: classes/grassland/modified.md
-        - e5 Arable field margins: classes/grassland/field-margins.md
+        - e1 Heavily Modified Improved grassland: classes/grassland/modified.md
+        - e2 Acid grassland: classes/grassland/acid.md
+        - e3 Calcareous grassland: classes/grassland/calcareous.md
+        - e4 Neutral grassland: classes/grassland/neutral.md
+        - e5 Meadow: classes/grassland/meadow.md
 
     - F Wetland:
         - Overview: classes/wetland/index.md
         - f1 Freshwater fen, marsh and swamp: classes/wetland/fen.md
         - f1a Upland mire: classes/wetland/mire.md
         - f2 Saltmarsh: classes/wetland/saltmarsh.md
-        - f3 Peat bog: classes/wetland/peat-bog.md
+        - f3 Raised bog: classes/wetland/raised-bog.md
         - f4 Rushes: classes/wetland/rushes.md
         - f5 Reedbeds: classes/wetland/reedbed.md
 
@@ -99,8 +97,8 @@ nav:
         - g3b Mud: classes/bare-land/mud.md
         - g3c Shingle: classes/bare-land/shingle.md
         - g4 Walls: classes/bare-land/walls.md
-        - g4d Exposed peat: classes/bare-land/exposed-peat.md
-        - g5 Scree: classes/bare-land/scree.md
+        - g5 Exposed peat: classes/bare-land/exposed-peat.md
+        - g6 Scree: classes/bare-land/scree.md
 
     - R Water:
         - Overview: classes/water/index.md
