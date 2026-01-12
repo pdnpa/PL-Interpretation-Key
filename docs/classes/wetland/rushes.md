@@ -36,6 +36,7 @@ This class should be mapped when the following apply:
 - Vegetation height is generally less than 5 m and not dominated by scrub or trees
 
 This class may occur as:
+
 - Extensive continuous areas
 - Patchy or irregular features
 - Linear bands following drainage lines or topographic features

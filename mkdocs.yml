@@ -63,17 +63,13 @@ nav:
         - s1a Mixed dense scrub: classes/scrubland/mixed-dense-scrub.md
         - s1b Gorse: classes/scrubland/gorse.md
         - s2 Hedgerows: classes/scrubland/hedgerows.md
+        - s3 Bracken: classes/scrubland/bracken.md
 
     - D Heathland:
         - Overview: classes/heathland/index.md
         - d1 Upland heath: classes/heathland/upland-heath.md
-        - d1a Upland dry heath: classes/heathland/upland-dry-heath.md
-        - d1b Dwarf shrub dominated blanket bog: classes/heathland/dwarf-shrub-dominated-blanket-bog.md
         - d2 Grass / sedge dominated blanket bog: classes/heathland/grass-sedge-blanket-bog.md
-        - d2a Dry grass / sedge dominated blanket bog: classes/heathland/grass-sedge-blanket-bog-dry.md
-        - d2b Wet grass / sedge dominated blanket bog: classes/heathland/grass-sedge-blanket-bog-wet.md
-        - d3 Bracken: classes/heathland/bracken.md
-        - d4 Lowland heath: classes/heathland/lowland-heath.md
+        - d3 Lowland heath: classes/heathland/lowland-heath.md
 
     - E Grassland:
         - Overview: classes/grassland/index.md
