@@ -49,11 +49,11 @@ nav:
     - C Woodland:
         - Overview: classes/woodland/index.md
         - c1 Broadleaved woodland: classes/woodland/broadleaved.md
-        - c1a Single trees (broadleaved): classes/woodland/broadleaved-single-trees.md
-        - c1b Hedgerow trees (broadleaved): classes/woodland/broadleaved-hedgerow-trees.md
+        - c1a Single trees: classes/woodland/broadleaved-single-trees.md
+        - c1b Hedgerow trees: classes/woodland/broadleaved-hedgerow-trees.md
         - c2 Coniferous woodland: classes/woodland/coniferous.md
-        - c2a Single trees (coniferous): classes/woodland/coniferous-single-trees.md
-        - c2b Hedgerow trees (coniferous): classes/woodland/coniferous-hedgerow-trees.md
+        - c2a Single trees: classes/woodland/coniferous-single-trees.md
+        - c2b Hedgerow trees: classes/woodland/coniferous-hedgerow-trees.md
         - c4 Traditional orchard: classes/woodland/traditional-orchard.md
         - c5 Clear felled / newly planted: classes/woodland/felled.md
 
@@ -73,7 +73,7 @@ nav:
 
     - E Grassland:
         - Overview: classes/grassland/index.md
-        - e1 Heavily Modified Improved grassland: classes/grassland/modified.md
+        - e1 Heavily modified or improved grassland: classes/grassland/modified.md
         - e2 Acid grassland: classes/grassland/acid.md
         - e3 Calcareous grassland: classes/grassland/calcareous.md
         - e4 Neutral grassland: classes/grassland/neutral.md
