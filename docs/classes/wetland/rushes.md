@@ -5,8 +5,12 @@ parent: f
 ukhab: f2
 status: draft
 description: >
-  Wet grassland habitats characterised by tussocky, coarse vegetation associated with poorly drained soils, seasonal waterlogging, or impeded drainage. Vegetation structure is typically dominated by rushes and/or coarse grasses, occurring in both enclosed agricultural landscapes and open upland contexts.
-subclasses: [f4a, f4b]
+  Wet grassland habitats characterised by tussocky, coarse vegetation associated with poorly drained soils, seasonal waterlogging, or impeded drainage. Vegetation structure is typically dominated by rushes and/or coarse grasses and is controlled primarily by local hydrology.
+subclasses: []
+associated_habitats:
+  - "Purple moor-grass and rush pasture"
+  - "Upland acid grassland and rush pasture"
+  - "Rush-dominated wet grassland / rush pasture"
 ---
 
 # {{ title }} ({{ code }})
@@ -21,39 +25,74 @@ subclasses: [f4a, f4b]
 
 {{ description }}
 
+Wet grassland and rush pasture includes a range of wet, tussocky vegetation types that develop where soils are permanently or seasonally waterlogged. These habitats occur primarily in response to local hydrological conditions rather than active management and may be found across both lowland and upland landscapes.
+
 ## Identification criteria
-Habitats within this class fall into two broad landscape contexts:
+This class should be mapped when the following apply:
 
-1. **Open upland settings**, where wet tussocky grassland often occurs within or adjacent to heath, blanket bog, or upland acid grassland and may reflect long-term grazing and burning impacts.
-2. **Enclosed or managed settings**, where similar vegetation structure occurs within fields, fens, or marginal areas of intensively farmed landscapes.
+- Vegetation forms a clearly tussocky, uneven sward
+- Texture is coarse and contrasts with surrounding grassland, heath, or moorland
+- Distribution and pattern indicate control by water availability (e.g. hollows, flushes, gullies, blocked drains)
+- Vegetation height is generally less than 5 m and not dominated by scrub or trees
 
-Ecological composition may vary (e.g. rush- or Molinia-dominated), but classification at this level ßis based on remotely observable vegetation structure and landscape context, rather than species-level certainty.
+This class may occur as:
+- Extensive continuous areas
+- Patchy or irregular features
+- Linear bands following drainage lines or topographic features
 
-Where wet tussocky grassland occurs in transitional or ambiguous settings, classification should prioritise landscape context (enclosed vs open) over inferred species dominance.
-
-This class should be mapped when:
-- There is presence of a thick tussocky sward of rushes and coarse grasses.
-- Tussocky vegetation may occur as discrete patches or as more extensive cover, depending on landscape context.
-- Vegetation has clearly defined edges compared with surrounding habitats.
-
+---
 
 ## Aerial Definition
-Please view:
+From aerial or satellite imagery, wet grassland and rush pasture typically appears as:
 
-1. [Wet tussocky grassland – enclosed](rushes-in-pasture.md)
-2. [Wet tussocky grassland – open moorland](rushes-in-heathland.md)
+- Darker or muted green or brown tones compared with grassland or grass moors
+- Rough or mottled texture caused by tussocks
+- Irregular boundaries that follow hydrological patterns rather than field edges
+- Persistent wetness signals relative to surrounding land
+
+Seasonal colour variation may be evident. Species composition cannot be reliably determined from imagery alone** and should not be inferred at the interpretation stage.
+
+---
+
+## Associated habitat concepts
+
+!!! info "Associated habitat concepts (not mapped separately)"
+    The habitat types listed below are commonly associated with wet grassland and rush pasture in ecological and conservation literature.  
+
+    These represent **interpretive or descriptive groupings**, not separate interpretation classes, and should **not** be mapped independently from imagery.
+
+{% for hab in associated_habitats %}
+- {{ hab }}
+{% endfor %}
+
+Associations depend on landscape context, management history, and underlying soils, and may vary considerably within this class and will be classified after interpretation.
+
+---
 
 ## In Protected Landscapes
 
-*where and which PL's this is likely found*
+Wet grassland and rush pasture occurs widely across Protected Landscapes, particularly:
 
-### Management and drivers
+- In marginal or poorly drained agricultural land
+- Along moorland fringes and upland slopes
+- Within fens, flushes, basins, and wet hollows
 
-*Dense scrub may be maintained by:*
-- Reduced grazing pressure
-- Woodland succession
-- We have no money!!!!!
-- Conservation management for species diversity
+Extent, condition, and ecological value vary substantially and should be assessed using field survey or ancillary datasets rather than imagery alone.
+
+---
+
+## Management and drivers
+
+The distribution and character of wet grassland and rush pasture are influenced by:
+
+- Hydrological modification (drainage, drain blocking)
+- Grazing pressure and livestock type
+- Nutrient enrichment
+- Historic land-use practices
+
+Both species-rich and species-poor expressions may occur within this class.
+
+---
 
 ## Useful Links
 
