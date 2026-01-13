@@ -1,11 +1,11 @@
 ---
-code: e4
-title: Modified grassland
+code: e2
+title: Rough grassland
 parent: e
-ukhab: g4
+ukhab: need to fill out
 status: draft
 description: >
-  Areas of fertile, neutral soils where species-poor vegetation dominates. Modified grassland is often found on agricultural land that is intensively managed for grazing and/or fodder production.
+  Enclosed areas subject to little or no management. Characterised by a high density of native grasses and often containing invasive species such as bracken, bramble, thistle, rushes and scattered trees. Tussocks may also be in evidence. Generally occurs on steep slopes, poorly drained sites and on soils of low fertility. Frequently includes areas that can be accessed by farm machinery indicating that it may have been managed in the past.
 subclasses: []
 ---
 

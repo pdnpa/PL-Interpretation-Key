@@ -1,11 +1,11 @@
 ---
-code: e2d
-title: Meadow
-parent: e1
-ukhab: g1b
+code: e1
+title: Improved grassland
+parent: e
+ukhab: need to fill out
 status: draft
 description: >
-  Grassland that is found on acidic soils on top of sandstones and igneous rocks, typically above 300m in altitude.
+  Areas of fertile, neutral soils where species-poor vegetation dominates. Modified grassland is often found on agricultural land that is intensively managed for grazing and/or fodder production.
 subclasses: []
 ---
 
