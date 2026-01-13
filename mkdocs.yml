@@ -73,11 +73,12 @@ nav:
 
     - E Grassland:
         - Overview: classes/grassland/index.md
-        - e1 Heavily modified or improved grassland: classes/grassland/modified.md
-        - e2 Acid grassland: classes/grassland/acid.md
-        - e3 Calcareous grassland: classes/grassland/calcareous.md
-        - e4 Neutral grassland: classes/grassland/neutral.md
-        - e5 Meadow: classes/grassland/meadow.md
+        - e1 Improved grassland: classes/grassland/improved.md
+        - e2 Rough grassland: classes/grassland/rough.md
+        - e2a Acid grassland: classes/grassland/acid.md
+        - e2b Calcareous grassland: classes/grassland/calcareous.md
+        - e2c Neutral grassland: classes/grassland/neutral.md
+        - e2d Meadow: classes/grassland/meadow.md
 
     - F Wetland:
         - Overview: classes/wetland/index.md
