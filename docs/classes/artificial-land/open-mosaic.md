@@ -32,6 +32,14 @@ subclasses: []
 
 *examples of aerial photography annotations etc....*
 
+## Overlap with other classes
+
+!!! warning "Potential confusion with related classes"
+    - [a2 Quarries & derelict land](quarries.md)
+    - [g1 Bare ground](../bare-land/ground.md)
+    - [e2 Rough grassland](../grassland/rough.md)
+
+
 ## In Protected Landscapes
 
 *where and which PL's this is likely found*

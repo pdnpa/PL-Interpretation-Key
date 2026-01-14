@@ -32,6 +32,13 @@ subclasses: []
 
 *examples of aerial photography annotations etc....*
 
+## Overlap with other classes
+
+!!! warning "Potential confusion with related classes"
+    - [a3 Open mosaic](open-mosaic.md)
+    - [g3 Unconsolidated bare ground](../bare-land/unconsolidated.md)
+
+
 ## In Protected Landscapes
 
 *where and which PL's this is likely found*

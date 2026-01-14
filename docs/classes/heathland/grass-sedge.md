@@ -74,23 +74,26 @@ Species composition (e.g. Molinia dominance) cannot be confirmed reliably from i
 
 ## Associated habitat concepts
 
-!!! info "Associated habitat concepts (not mapped separately)"
-    The habitat types listed below are commonly associated with grass and/or sedge dominated in ecological and conservation literature.  
+!!! info "Associated habitat concepts (not to be annotated separately)"
+    The habitat types listed below are commonly associated with **{{ title }} ({{ code }})** in ecological and conservation literature.  
 
     These represent **interpretive or descriptive groupings**, not separate interpretation classes, and should **not** be mapped independently from imagery.
 
     {% for hab in associated_habitats %}
-    - {{ hab }}
+    - **{{ hab }}**
     {% endfor %}
 
-    Associations depend on landscape context, management history, and underlying soils, and may vary considerably within this class and will be classified after interpretation.
+    Associations are **contextual characteristcis** and will be derived post-mapping.
 
 ---
 
 ## Overlap with other classes
-!!! warning "Overlap with following classes"
-    * Open, unenclosed moorland → **D2 Molinia–sedge moorland**  
-    * Enclosed or managed grazing land → **E2a Upland acid grassland**
+
+!!! warning "Potential confusion with related classes"
+    - [d1 Upland heath](upland-heath.md)
+    - [e2a Acid grassland](../grassland/acid.md)
+    - [f4 Rushes](../wetland/rushes.md)
+
 
 --- 
 ## In Protected Landscapes

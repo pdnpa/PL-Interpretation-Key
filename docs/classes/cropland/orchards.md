@@ -7,6 +7,9 @@ status: draft
 description: >
   Collections of fruit and/or nut producing trees, currently managed for food production, with an intensely managed ground cover.
 subclasses: []
+associated_habitats:
+  - "To be confirmed with Landscapes"
+
 ---
 
 # {{ title }} ({{ code }})
@@ -31,6 +34,31 @@ subclasses: []
 ## Aerial Definition
 
 *examples of aerial photography annotations etc....*
+
+---
+
+## Associated habitat concepts
+
+!!! info "Associated habitat concepts (not to be annotated separately)"
+    The habitat types listed below are commonly associated with **{{ title }} ({{ code }})** in ecological and conservation literature.  
+
+    These represent **interpretive or descriptive groupings**, not separate interpretation classes, and should **not** be mapped independently from imagery.
+
+    {% for hab in associated_habitats %}
+    - **{{ hab }}**
+    {% endfor %}
+
+    Associations are **contextual characteristcis** and will be derived post-mapping.
+
+---
+
+## Overlap with other classes
+
+!!! warning "Potential confusion with related classes"
+    - [c4 Traditional orchard](../woodland/traditional-orchard.md)
+    - [b2 Permanent crops](permanent.md)
+
+---
 
 ## In Protected Landscapes
 

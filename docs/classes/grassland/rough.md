@@ -7,6 +7,9 @@ status: draft
 description: >
   Enclosed areas subject to little or no management. Characterised by a high density of native grasses and often containing invasive species such as bracken, bramble, thistle, rushes and scattered trees. Tussocks may also be in evidence. Generally occurs on steep slopes, poorly drained sites and on soils of low fertility. Frequently includes areas that can be accessed by farm machinery indicating that it may have been managed in the past.
 subclasses: []
+associated_habitats:
+  - "To be confirmed with Landscapes"
+
 ---
 
 # {{ title }} ({{ code }})
@@ -31,6 +34,30 @@ subclasses: []
 ## Aerial Definition
 
 *examples of aerial photography annotations etc....*
+
+---
+
+## Associated habitat concepts
+
+!!! info "Associated habitat concepts (not to be annotated separately)"
+    The habitat types listed below are commonly associated with **{{ title }} ({{ code }})** in ecological and conservation literature.  
+
+    These represent **interpretive or descriptive groupings**, not separate interpretation classes, and should **not** be mapped independently from imagery.
+
+    {% for hab in associated_habitats %}
+    - **{{ hab }}**
+    {% endfor %}
+
+    Associations are **contextual characteristcis** and will be derived post-mapping.
+
+---
+
+## Overlap with other classes
+
+!!! warning "Potential confusion with related classes"
+    - [s1 Scrub](../scrubland/scrub.md)
+
+---
 
 ## In Protected Landscapes
 

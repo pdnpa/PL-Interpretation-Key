@@ -57,16 +57,24 @@ Seasonal colour variation may be evident. Species composition cannot be reliably
 
 ## Associated habitat concepts
 
-!!! info "Associated habitat concepts (not mapped separately)"
-    The habitat types listed below are commonly associated with wet grassland and rush pasture in ecological and conservation literature.  
+!!! info "Associated habitat concepts (not to be annotated separately)"
+    The habitat types listed below are commonly associated with **{{ title }} ({{ code }})** in ecological and conservation literature.  
 
     These represent **interpretive or descriptive groupings**, not separate interpretation classes, and should **not** be mapped independently from imagery.
 
-{% for hab in associated_habitats %}
-- {{ hab }}
-{% endfor %}
+    {% for hab in associated_habitats %}
+    - **{{ hab }}**
+    {% endfor %}
 
-Associations depend on landscape context, management history, and underlying soils, and may vary considerably within this class and will be classified after interpretation.
+    Associations are **contextual characteristcis** and will be derived post-mapping.
+
+---
+
+## Overlap with other classes
+
+!!! warning "Potential confusion with related classes"
+    - [d2 Grass–sedge moorland](../heathland/grass-sedge.md)
+    - [f1 Freshwater fen, marsh and swamp](fen.md)
 
 ---
 

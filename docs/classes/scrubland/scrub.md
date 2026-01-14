@@ -7,6 +7,9 @@ status: draft
 description: >
   Areas of woody scrub form a landscape feature with distinct edges.
 subclasses: [s1a, s1b]
+associated_habitats:
+  - "To be confirmed with Landscapes"
+
 ---
 
 # {{ title }} ({{ code }})
@@ -31,6 +34,31 @@ subclasses: [s1a, s1b]
 ## Aerial Definition
 
 *examples of aerial photography annotations etc....*
+
+---
+
+## Associated habitat concepts
+
+!!! info "Associated habitat concepts (not to be annotated separately)"
+    The habitat types listed below are commonly associated with **{{ title }} ({{ code }})** in ecological and conservation literature.  
+
+    These represent **interpretive or descriptive groupings**, not separate interpretation classes, and should **not** be mapped independently from imagery.
+
+    {% for hab in associated_habitats %}
+    - **{{ hab }}**
+    {% endfor %}
+
+    Associations are **contextual characteristcis** and will be derived post-mapping.
+
+---
+
+## Overlap with other classes
+
+!!! warning "Potential confusion with related classes"
+    - [c1 Broadleaved woodland](../woodland/broadleaved.md)
+    - [e2 Rough grassland](../grassland/rough.md)
+
+---
 
 ## In Protected Landscapes
 

@@ -7,6 +7,12 @@ status: draft
 description: >
   Rivers and streams from bank top to bank top (see UKHabs, specifications?). Often appears very dark aerially.
 subclasses: []
+associated_habitats:
+  - "Canal"
+  - "Fast-flowing river and stream"
+  - "Sluggish river and stream"
+  - "Chalk river and stream"
+
 ---
 
 # {{ title }} ({{ code }})
@@ -31,6 +37,30 @@ subclasses: []
 ## Aerial Definition
 
 *examples of aerial photography annotations etc....*
+
+---
+
+## Associated habitat concepts
+
+!!! info "Associated habitat concepts (not to be annotated separately)"
+    The habitat types listed below are commonly associated with **{{ title }} ({{ code }})** in ecological and conservation literature.  
+
+    These represent **interpretive or descriptive groupings**, not separate interpretation classes, and should **not** be mapped independently from imagery.
+
+    {% for hab in associated_habitats %}
+    - **{{ hab }}**
+    {% endfor %}
+
+    Associations are **contextual characteristcis** and will be derived post-mapping.
+
+---
+
+## Overlap with other classes
+
+!!! warning "Potential confusion with related classes"
+    - [r1 Inland open water](open-water.md)
+
+---
 
 ## In Protected Landscapes
 

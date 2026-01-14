@@ -88,8 +88,7 @@ nav:
         - e2 Rough grassland: classes/grassland/rough.md
         - e2a Acid grassland: classes/grassland/acid.md
         - e2b Calcareous grassland: classes/grassland/calcareous.md
-        - e2c Neutral grassland: classes/grassland/neutral.md
-        - e2d Meadow: classes/grassland/meadow.md
+        - e2c Neutral grassland and meadow: classes/grassland/meadow.md
 
     - F Wetland:
         - Overview: classes/wetland/index.md

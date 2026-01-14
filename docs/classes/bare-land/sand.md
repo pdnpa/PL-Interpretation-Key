@@ -7,6 +7,9 @@ status: draft
 description: >
   Fine grains of rocks and minerals. Typically found coastally or by water systems.
 subclasses: []
+associated_habitats:
+  - "To be confirmed with Landscapes"
+
 ---
 
 # {{ title }} ({{ code }})
@@ -31,6 +34,30 @@ subclasses: []
 ## Aerial Definition
 
 *examples of aerial photography annotations etc....*
+
+---
+
+## Associated habitat concepts
+
+!!! info "Associated habitat concepts (not to be annotated separately)"
+    The habitat types listed below are commonly associated with **{{ title }} ({{ code }})** in ecological and conservation literature.  
+
+    These represent **interpretive or descriptive groupings**, not separate interpretation classes, and should **not** be mapped independently from imagery.
+
+    {% for hab in associated_habitats %}
+    - **{{ hab }}**
+    {% endfor %}
+
+    Associations are **contextual characteristcis** and will be derived post-mapping.
+
+---
+
+## Overlap with other classes
+
+!!! warning "Potential confusion with related classes"
+    - [h1 Sand dunes](../coastland/sand-dunes.md)
+
+---
 
 ## In Protected Landscapes
 

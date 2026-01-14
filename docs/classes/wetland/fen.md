@@ -7,6 +7,9 @@ status: draft
 description: >
   Areas that are waterlogged, either permanently or periodically, and are often peat-forming. Fens receive groundwater, rainfall and water from surface run-off, separating them from bogs where the peat forming vegetation is isolated from groundwater. Marshes are dominated by herbaceous plants; swamps are dominated by trees and tall, emergent vegetation.
 subclasses: [f1a]
+associated_habitats:
+  - "To be confirmed with Landscapes"
+
 ---
 
 # {{ title }} ({{ code }})
@@ -31,6 +34,31 @@ subclasses: [f1a]
 ## Aerial Definition
 
 *examples of aerial photography annotations etc....*
+
+---
+
+## Associated habitat concepts
+
+!!! info "Associated habitat concepts (not to be annotated separately)"
+    The habitat types listed below are commonly associated with **{{ title }} ({{ code }})** in ecological and conservation literature.  
+
+    These represent **interpretive or descriptive groupings**, not separate interpretation classes, and should **not** be mapped independently from imagery.
+
+    {% for hab in associated_habitats %}
+    - **{{ hab }}**
+    {% endfor %}
+
+    Associations are **contextual characteristcis** and will be derived post-mapping.
+
+---
+
+## Overlap with other classes
+
+!!! warning "Potential confusion with related classes"
+    - [f4 Rushes](rushes.md)
+    - [f5 Reedbeds](reedbed.md)
+
+---
 
 ## In Protected Landscapes
 

@@ -7,6 +7,10 @@ status: draft
 description: >
   Natural and man-made bodies of water covering at least ???. Examples include lakes, pools, reservoirs and canals. Often appears very dark aerially.
 subclasses: []
+associated_habitats:
+  - "Upland lake, loch and tarn"
+  - "Pond"
+
 ---
 
 # {{ title }} ({{ code }})
@@ -31,6 +35,30 @@ subclasses: []
 ## Aerial Definition
 
 *examples of aerial photography annotations etc....*
+
+---
+
+## Associated habitat concepts
+
+!!! info "Associated habitat concepts (not to be annotated separately)"
+    The habitat types listed below are commonly associated with **{{ title }} ({{ code }})** in ecological and conservation literature.  
+
+    These represent **interpretive or descriptive groupings**, not separate interpretation classes, and should **not** be mapped independently from imagery.
+
+    {% for hab in associated_habitats %}
+    - **{{ hab }}**
+    {% endfor %}
+
+    Associations are **contextual characteristcis** and will be derived post-mapping.
+
+---
+
+## Overlap with other classes
+
+!!! warning "Potential confusion with related classes"
+    - [r2 Rivers and streams](rivers.md)
+
+---
 
 ## In Protected Landscapes
 

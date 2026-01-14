@@ -70,23 +70,24 @@ From aerial or satellite imagery, upland heath typically appears as:
 
 ## Associated habitat concepts
 
-!!! info "Associated habitat concepts (not mapped separately)"
-    The habitat types listed below are commonly associated with upland heath in ecological and conservation literature.  
+!!! info "Associated habitat concepts (not to be annotated separately)"
+    The habitat types listed below are commonly associated with **{{ title }} ({{ code }})** in ecological and conservation literature.  
 
     These represent **interpretive or descriptive groupings**, not separate interpretation classes, and should **not** be mapped independently from imagery.
 
     {% for hab in associated_habitats %}
-    - {{ hab }}
+    - **{{ hab }}**
     {% endfor %}
 
-    Associations depend on landscape context, management history, and underlying soils, and may vary considerably within this class and will be classified after interpretation.
+    Associations are **contextual characteristcis** and will be derived post-mapping.
 
 ---
 
 ## Overlap with other classes
 
-!!! warning "Overlap with Molinia-sedge moorland (D2)"
-    - Open, unenclosed moorland → **D2 Molinia–sedge moorland**  
+!!! warning "Potential confusion with related classes"
+    - [D2 Molinia–sedge moorland](grass-sedge.md)
+    - [S3 Bracken](../grassland/acid.md)
 
 --- 
 

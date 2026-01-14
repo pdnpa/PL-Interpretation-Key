@@ -78,35 +78,25 @@ Where imagery is ambiguous, use landscape context (lowland vs upland, enclosure 
 
 ## Associated habitat concepts
 
-!!! info "Associated habitat concepts (not mapped separately)"
-    The habitat types listed below are commonly associated with lowland heath in ecological and conservation literature.  
+!!! info "Associated habitat concepts (not to be annotated separately)"
+    The habitat types listed below are commonly associated with **{{ title }} ({{ code }})** in ecological and conservation literature.  
 
     These represent **interpretive or descriptive groupings**, not separate interpretation classes, and should **not** be mapped independently from imagery.
 
     {% for hab in associated_habitats %}
-    - {{ hab }}
+    - **{{ hab }}**
     {% endfor %}
 
-    Associations depend on landscape context, management history, and underlying soils, and may vary considerably within this class and will be classified after interpretation.
+    Associations are **contextual characteristcis** and will be derived post-mapping.
 
 ---
 
 ## Overlap with other classes
 
-!!! warning "Overlap with following classes"
-    Lowland heath can resemble upland heath in structure. Use landscape context as the primary cue:
-   
-    * Open upland moorland landscapes → **D1 Upland heath**
-    * Lowland heathy commons / lowland mosaics → **D3 Lowland heath**
+!!! warning "Potential confusion with related classes"
+    - [e2a Acid grassland](../grassland/acid.md)
+    - [s1 Scrub](../scrubland/scrub.md)
 
-!!! warning "Overlap with following classes"
-    Heath mosaics commonly contain acid grassland and bracken.
-    
-    * Where **dwarf shrubs** dominate → **D3 Lowland heath**
-    * Where **grass sward** dominates and dwarf shrubs are sparse → **E2a Upland acid grassland** (or lowland acid grassland if you have that class)
-    * Where **bracken** dominates the canopy/texture → **S3 Bracken**
-
----
 
 ## In Protected Landscapes
 
