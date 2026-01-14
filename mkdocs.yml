@@ -11,11 +11,13 @@ theme:
   features:
     - navigation.sections
 
-
 plugins:
   - search
   - git-revision-date-localized
   - macros
+
+extra_css:
+  - assets/stylesheets/extra.css
 
 docs_dir: docs
 
