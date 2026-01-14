@@ -55,7 +55,7 @@ associated_habitats:
 ## Overlap with other classes
 
 !!! warning "Potential confusion with related classes"
-    - [e2c Neutral grassland](neutral.md)
+    - [e2c Improved](improved.md)
 
 ---
 
