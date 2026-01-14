@@ -1,5 +1,5 @@
 ---
-code: d3
+code: s3
 title: Bracken
 parent: d
 ukhab: 	glc
@@ -18,7 +18,17 @@ associated_habitats:
 **Parent:** {{ parent }}  
 **Status:** {{ status }}
 
-*insert horizontal habitat image w: pix h: pix*
+---
+
+<figure class="interp-figure">
+  <img src="../../../assets/images/s/s3.png" alt="{{ title }} ({{ code }})">
+  <figcaption>
+    Bracken on a moorland slope displaying last years residue of dead plant material.  
+    <br><small>Image: CC-BY, Peak District National Park Chris Gilbert</small>
+  </figcaption>
+</figure>
+
+---
 
 ## Definition
 

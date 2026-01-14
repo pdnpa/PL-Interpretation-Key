@@ -19,7 +19,17 @@ associated_habitats:
 **Parent:** {{ parent }}  
 **Status:** {{ status }}
 
-*insert horizontal habitat image w: pix h: pix*
+---
+
+<figure class="interp-figure">
+  <img src="../../../assets/images/f/f4.png" alt="{{ title }} ({{ code }})">
+  <figcaption>
+    Large patch of rushes on marginal ground.
+    <br><small>Image: CC-BY, Peak District National Park</small>
+  </figcaption>
+</figure>
+
+---
 
 ## Definition
 

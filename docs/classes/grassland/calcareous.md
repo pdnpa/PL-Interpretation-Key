@@ -18,7 +18,17 @@ associated_habitats:
 **Parent:** {{ parent }}  
 **Status:** {{ status }}
 
-*insert horizontal habitat image w: pix h: pix*
+---
+
+<figure class="interp-figure">
+  <img src="../../../assets/images/e/e2b.jpg" alt="{{ title }} ({{ code }})">
+  <figcaption>
+    Calcium rich grassland over a thin soil and limestone rock.  
+    <br><small>Image: CC-BY, Peak District National Park</small>
+  </figcaption>
+</figure>
+
+---
 
 ## Definition
 

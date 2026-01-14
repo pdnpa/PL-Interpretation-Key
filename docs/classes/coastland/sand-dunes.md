@@ -18,7 +18,17 @@ associated_habitats:
 **Parent:** {{ parent }}  
 **Status:** {{ status }}
 
-*insert horizontal habitat image w: pix h: pix*
+---
+
+<figure class="interp-figure">
+  <img src="../../../assets/images/h/h1.jpg" alt="{{ title }} ({{ code }})">
+  <figcaption>
+    Accreting dunes showing  large volumes of fresh sand.
+    <br><small>Image: CC-BY, Philip Halling</small>
+  </figcaption>
+</figure>
+
+---
 
 ## Definition
 

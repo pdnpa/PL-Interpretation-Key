@@ -19,7 +19,19 @@ associated_habitats:
 **Parent:** {{ parent }}  
 **Status:** {{ status }}
 
-*insert horizontal habitat image w: pix h: pix*
+*insert horizontal habitat image w: pix h: pix* YDNP Malhamdale meadow Credit: Robyn Guppy
+
+---
+
+<figure class="interp-figure">
+  <img src="../../../assets/images/e/e2c.jpg" alt="{{ title }} ({{ code }})">
+  <figcaption>
+    Managed meadow with a rich herbaceous sward with diverse mix of grasses and wildflowers. 
+    <br><small>Image: CC-BY, Yorkshire Dales National Park Robyn Guppy</small>
+  </figcaption>
+</figure>
+
+---
 
 ---
 

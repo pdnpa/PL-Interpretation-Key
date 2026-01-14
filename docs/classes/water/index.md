@@ -15,7 +15,17 @@ subclasses: [r1, r2]
 **Parent:** {{ parent }}  
 **Status:** {{ status }}
 
-*insert horizontal habitat image w: pix h: pix*
+---
+
+<figure class="interp-figure">
+  <img src="../../../assets/images/r/r1.jpg" alt="{{ title }} ({{ code }})">
+  <figcaption>
+    Dew Pond.
+    <br><small>Image: CC-BY, South Downs National Park Authority</small>
+  </figcaption>
+</figure>
+
+---
 
 ## Definition
 

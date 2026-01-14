@@ -18,7 +18,17 @@ associated_habitats:
 **Parent:** {{ parent }}  
 **Status:** {{ status }}
 
-*insert horizontal habitat image w: pix h: pix*
+---
+
+<figure class="interp-figure">
+  <img src="../../../assets/images/f/f1.png" alt="{{ title }} ({{ code }})">
+  <figcaption>
+    Reclaimed marshland this needs updating.
+    <br><small>Image: CC-BY, Google maps</small>
+  </figcaption>
+</figure>
+
+---
 
 ## Definition
 

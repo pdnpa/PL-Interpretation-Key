@@ -18,7 +18,18 @@ associated_habitats:
 **Parent:** {{ parent }}  
 **Status:** {{ status }}
 
-*insert horizontal habitat image w: pix h: pix*
+---
+
+<figure class="interp-figure">
+  <img src="../../../assets/images/e/e2.png" alt="{{ title }} ({{ code }})">
+  <figcaption>
+    Displaying evidence of grazing but lower intensities. Tussocks can be seen. 
+    <br><small>Image: CC-BY, Peak District National Park Chris Gilbert</small>
+  </figcaption>
+</figure>
+
+---
+
 
 ## Definition
 

@@ -18,7 +18,17 @@ associated_habitats:
 **Parent:** {{ parent }}  
 **Status:** {{ status }}
 
-*insert horizontal habitat image w: pix h: pix*
+---
+
+<figure class="interp-figure">
+  <img src="../../../assets/images/b/b3.jpg" alt="{{ title }} ({{ code }})">
+  <figcaption>
+    Commercial orchard for fruit trees in a linear configuration.
+    <br><small>Image: CC-BY, Adam Hincks</small>
+  </figcaption>
+</figure>
+
+---
 
 ## Definition
 

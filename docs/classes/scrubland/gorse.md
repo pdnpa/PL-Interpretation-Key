@@ -18,7 +18,20 @@ associated_habitats:
 **Parent:** {{ parent }}  
 **Status:** {{ status }}
 
-*insert horizontal habitat image w: pix h: pix*
+
+---
+
+<figure class="interp-figure">
+  <img src="../../../assets/images/s/s1b.png" alt="{{ title }} ({{ code }})">
+  <figcaption>
+    Gorse vergreen shrub distinctive when in bright yellow flower.  
+    <br><small>Image: CC-BY, Woodlands.co.uk</small>
+  </figcaption>
+</figure>
+
+---
+
+#
 
 ## Definition
 

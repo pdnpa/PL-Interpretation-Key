@@ -21,7 +21,18 @@ associated_habitats:
 **Parent:** {{ parent }}  
 **Status:** {{ status }}
 
-*insert horizontal habitat image w: pix h: pix*
+---
+
+<figure class="interp-figure">
+  <img src="../../../assets/images/r/r2.jpg" alt="{{ title }} ({{ code }})">
+  <figcaption>
+    River acorss the chalk landscape in the South Downs.  
+    <br><small>Image: CC-BY, Clive Perrin</small>
+  </figcaption>
+</figure>
+
+---
+
 
 ## Definition
 

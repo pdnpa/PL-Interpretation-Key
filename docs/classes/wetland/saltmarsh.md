@@ -18,7 +18,19 @@ associated_habitats:
 **Parent:** {{ parent }}  
 **Status:** {{ status }}
 
-*insert horizontal habitat image w: pix h: pix*
+*insert horizontal habitat image w: pix h: pix* https://www.conservancy.co.uk/nature-recovery/saltmarsh/
+
+---
+
+<figure class="interp-figure">
+  <img src="../../../assets/images/f/f2.jpg" alt="{{ title }} ({{ code }})">
+  <figcaption>
+    Typical coastal wetlands dominated by salt-tolerant plants in sheltered, intertidal zones. 
+    <br><small>Image: CC-BY, Chichester Harbour Conservancy</small>
+  </figcaption>
+</figure>
+
+---
 
 ## Definition
 

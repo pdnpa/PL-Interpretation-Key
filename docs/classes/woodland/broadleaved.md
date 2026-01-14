@@ -18,7 +18,17 @@ associated_habitats:
 **Parent:** {{ parent }}  
 **Status:** {{ status }}
 
-*insert horizontal habitat image w: pix h: pix*
+---
+
+<figure class="interp-figure">
+  <img src="../../../assets/images/c/c1.png" alt="{{ title }} ({{ code }})">
+  <figcaption>
+    Broadleaved high forest with mixed species. 
+    <br><small>Image: CC-BY, Woodland Trust</small>
+  </figcaption>
+</figure>
+
+---
 
 ## Definition
 

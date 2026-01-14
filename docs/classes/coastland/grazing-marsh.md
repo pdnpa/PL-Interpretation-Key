@@ -17,7 +17,17 @@ associated_habitats:
 **Parent:** {{ parent }}  
 **Status:** {{ status }}
 
-*insert horizontal habitat image w: pix h: pix*
+---
+
+<figure class="interp-figure">
+  <img src="../../../assets/images/h/h2.jpg" alt="{{ title }} ({{ code }})">
+  <figcaption>
+    Pasture showing areas under water including ditches or hollows comtaining brackish water. 
+    <br><small>Image: CC-BY, Chichester Harbour Conservancy</small>
+  </figcaption>
+</figure>
+
+---
 
 ## Definition
 

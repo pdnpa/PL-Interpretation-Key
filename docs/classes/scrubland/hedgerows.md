@@ -18,7 +18,17 @@ associated_habitats:
 **Parent:** {{ parent }}  
 **Status:** {{ status }}
 
-*insert horizontal habitat image w: pix h: pix*
+---
+
+<figure class="interp-figure">
+  <img src="../../../assets/images/s/s2.jpg" alt="{{ title }} ({{ code }})">
+  <figcaption>
+    Hawthorne hedgerow in an agricultural field.   
+    <br><small>Image: CC-BY, 35mmMan</small>
+  </figcaption>
+</figure>
+
+---
 
 ## Definition
 

@@ -6,7 +6,10 @@ ukhab: g1
 status: draft
 description: >
   Areas of acidic soils (pH <5.5) where primarily grasses and herbs grow. These soils are derived from sandstone and igneous rocks, or from deposits such as sands and gravels.
-subclasses: [e1a, e1b]
+subclasses: []
+associated_habitats:
+  Lowland acid grassland
+  Upland acid grassland
 ---
 
 # {{ title }} ({{ code }})
@@ -15,7 +18,17 @@ subclasses: [e1a, e1b]
 **Parent:** {{ parent }}  
 **Status:** {{ status }}
 
-*insert horizontal habitat image w: pix h: pix*
+---
+
+<figure class="interp-figure">
+  <img src="../../../assets/images/e/e2a.png" alt="{{ title }} ({{ code }})">
+  <figcaption>
+    Grass dominated sward including Nardus stricta and other grasses has been grazed. 
+    <br><small>Image: CC-BY, Peak District National Park</small>
+  </figcaption>
+</figure>
+
+---
 
 ## Definition
 

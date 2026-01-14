@@ -18,7 +18,17 @@ associated_habitats:
 **Parent:** {{ parent }}  
 **Status:** {{ status }}
 
-*insert horizontal habitat image w: pix h: pix*
+---
+
+<figure class="interp-figure">
+  <img src="../../../assets/images/h/h3.jpg" alt="{{ title }} ({{ code }})">
+  <figcaption>
+    Clumps of fragile shingle vegetation across shingle. 
+    <br><small>Image: CC-BY, Colin Babb</small>
+  </figcaption>
+</figure>
+
+---
 
 ## Definition
 

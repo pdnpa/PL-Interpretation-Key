@@ -18,7 +18,17 @@ associated_habitats:
 **Parent:** {{ parent }}  
 **Status:** {{ status }}
 
-*insert horizontal habitat image w: pix h: pix*
+---
+
+<figure class="interp-figure">
+  <img src="../../../assets/images/c/c2.jpg" alt="{{ title }} ({{ code }})">
+  <figcaption>
+    Edge of a Coniferous woodland area in active management for forestry. 
+    <br><small>Image: CC-BY, Robin Webster</small>
+  </figcaption>
+</figure>
+
+---
 
 ## Definition
 

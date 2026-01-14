@@ -18,7 +18,9 @@ associated_habitats:
 **Parent:** {{ parent }}  
 **Status:** {{ status }}
 
-*insert horizontal habitat image w: pix h: pix*
+*insert horizontal habitat image w: pix h: pix* Photo: Woodland Trust
+
+#
 
 ## Definition
 

@@ -1,6 +1,6 @@
 ---
 code: f3
-title: Peat bog
+title: Raised bog
 parent: f
 ukhab: f1
 status: draft
@@ -9,7 +9,7 @@ description: >
 subclasses: []
 associated_habitats:
   - "To be confirmed with Landscapes"
-s
+
 ---
 
 # {{ title }} ({{ code }})
@@ -18,7 +18,18 @@ s
 **Parent:** {{ parent }}  
 **Status:** {{ status }}
 
-*insert horizontal habitat image w: pix h: pix*
+
+---
+
+<figure class="interp-figure">
+  <img src="../../../assets/images/f/f3.jpg" alt="{{ title }} ({{ code }})">
+  <figcaption>
+    Raised bog with cotton grass and some patches of rushes.   
+    <br><small>Image: CC-BY, Yorkshire Dales National Park Robyn Guppy</small>
+  </figcaption>
+</figure>
+
+---
 
 ## Definition
 
