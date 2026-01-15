@@ -2,3 +2,4 @@ data/
 
 *.tif
 *.vrt
+*.DS_Store
