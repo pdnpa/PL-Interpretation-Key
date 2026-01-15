@@ -23,8 +23,8 @@ associated_habitats:
 <figure class="interp-figure">
   <img src="../../../assets/images/h/h3.jpg" alt="{{ title }} ({{ code }})">
   <figcaption>
-    Shingle with Sea Pea and Sea Kale, Sizewell beach. 
-    <br><small>Image: CC-BY, Natalie Singleton</small>
+    Clumps of fragile shingle vegetation across shingle. 
+    <br><small>Image: CC-BY, Colin Babb</small>
   </figcaption>
 </figure>
 
