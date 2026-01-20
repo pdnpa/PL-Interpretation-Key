@@ -22,7 +22,7 @@ associated_habitats:
 ---
 
 <figure class="interp-figure">
-  <img src="../../../assets/images/r/r1.jpg" alt="{{ title }} ({{ code }})">
+  <img src="../../../assets/images/water/r1.jpg" alt="{{ title }} ({{ code }})">
   <figcaption>
     Mixed scrub edge with rough grassland.  
     <br><small>Image: CC-BY, Clive Perrin</small>

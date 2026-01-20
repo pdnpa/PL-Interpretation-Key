@@ -21,7 +21,7 @@ associated_habitats:
 ---
 
 <figure class="interp-figure">
-  <img src="../../../assets/images/h/h1.jpg" alt="{{ title }} ({{ code }})">
+  <img src="../../../assets/images/coastland/h1.jpg" alt="{{ title }} ({{ code }})">
   <figcaption>
     Accreting dunes showing  large volumes of fresh sand.
     <br><small>Image: CC-BY, Philip Halling</small>

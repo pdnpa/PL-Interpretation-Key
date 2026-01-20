@@ -18,7 +18,7 @@ subclasses: [r1, r2]
 ---
 
 <figure class="interp-figure">
-  <img src="../../../assets/images/r/r1.jpg" alt="{{ title }} ({{ code }})">
+  <img src="../../../assets/images/water/r1.jpg" alt="{{ title }} ({{ code }})">
   <figcaption>
     Dew Pond.
     <br><small>Image: CC-BY, South Downs National Park Authority</small>

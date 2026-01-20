@@ -23,7 +23,7 @@ associated_habitats:
 ---
 
 <figure class="interp-figure">
-  <img src="../../../assets/images/f/f2.jpg" alt="{{ title }} ({{ code }})">
+  <img src="../../../assets/images/wetland/f2.jpg" alt="{{ title }} ({{ code }})">
   <figcaption>
     Typical coastal wetlands dominated by salt-tolerant plants in sheltered, intertidal zones. 
     <br><small>Image: CC-BY, Chichester Harbour Conservancy</small>

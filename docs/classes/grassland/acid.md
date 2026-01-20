@@ -21,7 +21,7 @@ associated_habitats:
 ---
 
 <figure class="interp-figure">
-  <img src="../../../assets/images/e/e2a.png" alt="{{ title }} ({{ code }})">
+  <img src="../../../assets/images/grassland/e2a.png" alt="{{ title }} ({{ code }})">
   <figcaption>
     Grass dominated sward including Nardus stricta and other grasses has been grazed. 
     <br><small>Image: CC-BY, Peak District National Park</small>

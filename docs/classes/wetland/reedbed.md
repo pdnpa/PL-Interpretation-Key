@@ -21,7 +21,7 @@ associated_habitats:
 ---
 
 <figure class="interp-figure">
-  <img src="../../../assets/images/f/f5.jpg" alt="{{ title }} ({{ code }})">
+  <img src="../../../assets/images/wetland/f5.jpg" alt="{{ title }} ({{ code }})">
   <figcaption>
     Reedbeds dominated by common reed, almost to the exclusion of other species.
     <br><small>Image: CC-BY, Wildlife Trusts</small>

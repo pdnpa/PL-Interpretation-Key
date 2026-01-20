@@ -23,7 +23,7 @@ associated_habitats:
 --- 
 
 <figure class="interp-figure">
-  <img src="../../../assets/images/d/d2.png" alt="{{ title }} ({{ code }})">
+  <img src="../../../assets/images/heathland/d2.png" alt="{{ title }} ({{ code }})">
   <figcaption>
     Upland grass and sedge dominated moorland pruple moor grass dominance and uneven structure.
     <br><small>Image: CC-BY, Peak District National Park Authority</small>

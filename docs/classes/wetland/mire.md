@@ -21,7 +21,7 @@ associated_habitats:
 ---
 
 <figure class="interp-figure">
-  <img src="../../../assets/images/f/f1a.jpg" alt="{{ title }} ({{ code }})">
+  <img src="../../../assets/images/wetland/f1a.jpg" alt="{{ title }} ({{ code }})">
   <figcaption>
     Springhead on a moorland where green and yellowy-orange patches of the stiff, feather-like curled hook-moss or bright green cushions of upright fountain apple-moss.  
     <br><small>Image: CC-BY, Wildlife trusts</small>

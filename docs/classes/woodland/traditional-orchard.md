@@ -5,7 +5,7 @@ parent: c
 ukhab: BNG21
 status: draft
 description: >
-  	Collections of fruit and/or nut producing trees, with low intensity management. The trees are found in more herbaceous ground cover than in an intensive orchard, and this category includes historical or abandoned orchards that still retain their trees.
+  Collections of fruit and/or nut producing trees, with low intensity management. The trees are found in more herbaceous ground cover than in an intensive orchard, and this category includes historical or abandoned orchards that still retain their trees.
 subclasses: []
 associated_habitats:
   - "To be confirmed with Landscapes"

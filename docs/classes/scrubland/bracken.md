@@ -21,7 +21,7 @@ associated_habitats:
 ---
 
 <figure class="interp-figure">
-  <img src="../../../assets/images/s/s3.png" alt="{{ title }} ({{ code }})">
+  <img src="../../../assets/images/scrubland/s3.png" alt="{{ title }} ({{ code }})">
   <figcaption>
     Bracken on a moorland slope displaying last years residue of dead plant material.  
     <br><small>Image: CC-BY, Peak District National Park Chris Gilbert</small>

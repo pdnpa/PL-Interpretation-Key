@@ -21,7 +21,7 @@ associated_habitats:
 ---
 
 <figure class="interp-figure">
-  <img src="../../../assets/images/c/c5.png" alt="{{ title }} ({{ code }})">
+  <img src="../../../assets/images/woodland/c5.png" alt="{{ title }} ({{ code }})">
   <figcaption>
     Area recently forested of coniferous trees. 
     <br><small>Image: CC-BY, Peak District National Park</small>

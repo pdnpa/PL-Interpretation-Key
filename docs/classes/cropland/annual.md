@@ -21,7 +21,7 @@ associated_habitats:
 ---
 
 <figure class="interp-figure">
-  <img src="../../../assets/images/b/b1.jpg" alt="{{ title }} ({{ code }})">
+  <img src="../../../assets/images/cropland/b1.jpg" alt="{{ title }} ({{ code }})">
   <figcaption>
     Crops covering fields intersected with hedgerows and trees.
     <br><small>Image: CC-BY, Kent Downs National Landscape FiPL</small>

@@ -22,7 +22,7 @@ associated_habitats:
 ---
 
 <figure class="interp-figure">
-  <img src="../../../assets/images/f/f3.jpg" alt="{{ title }} ({{ code }})">
+  <img src="../../../assets/images/wetland/f3.jpg" alt="{{ title }} ({{ code }})">
   <figcaption>
     Raised bog with cotton grass and some patches of rushes.   
     <br><small>Image: CC-BY, Yorkshire Dales National Park Robyn Guppy</small>

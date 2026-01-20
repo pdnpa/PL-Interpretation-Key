@@ -21,7 +21,7 @@ associated_habitats:
 ---
 
 <figure class="interp-figure">
-  <img src="../../../assets/images/c/c1.png" alt="{{ title }} ({{ code }})">
+  <img src="../../../assets/images/woodland/c1.png" alt="{{ title }} ({{ code }})">
   <figcaption>
     Broadleaved high forest with mixed species. 
     <br><small>Image: CC-BY, Woodland Trust</small>

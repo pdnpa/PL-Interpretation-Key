@@ -24,7 +24,7 @@ associated_habitats:
 ---
 
 <figure class="interp-figure">
-  <img src="../../../assets/images/e/e2c.jpg" alt="{{ title }} ({{ code }})">
+  <img src="../../../assets/images/grassland/e2c.jpg" alt="{{ title }} ({{ code }})">
   <figcaption>
     Managed meadow with a rich herbaceous sward with diverse mix of grasses and wildflowers. 
     <br><small>Image: CC-BY, Yorkshire Dales National Park Robyn Guppy</small>

@@ -24,7 +24,7 @@ associated_habitats:
 ---
 
 <figure class="interp-figure">
-  <img src="../../../assets/images/r/r2.jpg" alt="{{ title }} ({{ code }})">
+  <img src="../../../assets/images/water/r2.jpg" alt="{{ title }} ({{ code }})">
   <figcaption>
     River acorss the chalk landscape in the South Downs.  
     <br><small>Image: CC-BY, Clive Perrin</small>

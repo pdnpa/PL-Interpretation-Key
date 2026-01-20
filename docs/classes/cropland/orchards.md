@@ -21,7 +21,7 @@ associated_habitats:
 ---
 
 <figure class="interp-figure">
-  <img src="../../../assets/images/b/b3.jpg" alt="{{ title }} ({{ code }})">
+  <img src="../../../assets/images/cropland/b3.jpg" alt="{{ title }} ({{ code }})">
   <figcaption>
     Commercial orchard for fruit trees in a linear configuration.
     <br><small>Image: CC-BY, Adam Hincks</small>
