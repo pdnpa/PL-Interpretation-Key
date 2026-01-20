@@ -51,7 +51,7 @@ def plot_plate_1x3(
         ctx = box(*bbox)
         ann_sub = annotations[annotations.intersects(ctx)]
         if not ann_sub.empty:
-            ann_sub.boundary.plot(ax=axes[2], linewidth=1.2)
+            ann_sub.boundary.plot(ax=axes[2], linewidth=1.2, color="yellow")
             if draw_labels and (label_col in ann_sub.columns):
                 for _, r in ann_sub.iterrows():
                     p = r.geometry.representative_point()
