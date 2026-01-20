@@ -47,7 +47,7 @@ associated_habitats:
   <img src="../../../assets/images/h/20012026-vegetated-shingle-01.png" alt="{{ title }} ({{ code }})">
   <figcaption>
     Thin bits of grassy stuff? With lumpos of sea kale. 
-    <br><small>Image: CC-BY, Colin Babb</small>
+    <br><small>Image: © Bluesky International Limited and Getmapping Plc [2026]</small>
   </figcaption>
 </figure>
 
@@ -55,7 +55,7 @@ associated_habitats:
   <img src="../../../assets/images/h/20012026-vegetated-shingle-02.png" alt="{{ title }} ({{ code }})">
   <figcaption>
     Lots of thin bits of grassy stuff. 
-    <br><small>Image: CC-BY, Colin Babb</small>
+    <br><small>Image: © Bluesky International Limited and Getmapping Plc [2026]</small>
   </figcaption>
 </figure>
 
@@ -63,7 +63,7 @@ associated_habitats:
   <img src="../../../assets/images/h/20012026-vegetated-shingle-01.png" alt="{{ title }} ({{ code }})">
   <figcaption>
     Clumps of fragile shingle vegetation across shingle probably sea kale. 
-    <br><small>Image: CC-BY, Colin Babb</small>
+    <br><small>Image: © Bluesky International Limited and Getmapping Plc [2026]</small>
   </figcaption>
 </figure>
 
@@ -71,7 +71,7 @@ associated_habitats:
   <img src="../../../assets/images/h/20012026-vegetated-shingle-04.png" alt="{{ title }} ({{ code }})">
   <figcaption>
     Here is some Gorse on some shingle! 
-    <br><small>Image: CC-BY, Colin Babb</small>
+    <br><small>Image: © Bluesky International Limited and Getmapping Plc [2026]</small>
   </figcaption>
 </figure>
 
