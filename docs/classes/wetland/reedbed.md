@@ -71,15 +71,18 @@ associated_habitats:
 
 ## In Protected Landscapes
 
-*where and which PL's this is likely found*
+Found where there are standing or slow-moving freshwater/brackish waters (lakes, fen systems, estuaries); can be quite localised but distinctive where present.
 
 ### Management and drivers
 
-*Dense scrub may be maintained by:*
-- Reduced grazing pressure
-- Woodland succession
-- We have no money!!!!!
-- Conservation management for species diversity
+The structure and extent are influenced by:
+
+* Water level management
+* Cutting/rotational harvest
+* Nutrient enrichment driving expansion or dieback depending on conditions
+* Succession to scrub if unmanaged on drier margins
+* Disturbance (boats, recreation)
+* Invasive species* pollution and sedimentation* coastal processes for brackish reedbeds
 
 ## Useful Links
 

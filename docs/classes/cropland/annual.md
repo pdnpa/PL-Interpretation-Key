@@ -71,15 +71,19 @@ associated_habitats:
 
 ## In Protected Landscapes
 
-*where and which PL's this is likely found*
+Found mainly in lowland protected landscapes and their fringes where arable farming is present; generally limited or patchy in more upland-dominated areas.
 
 ### Management and drivers
 
-*Dense scrub may be maintained by:*
-- Reduced grazing pressure
-- Woodland succession
-- We have no money!!!!!
-- Conservation management for species diversity
+The structure and extent are influenced by:
+
+* Crop rotation and timing (sowing/harvest)
+* Pesticide/herbicide/fertiliser regimes
+* Soil cultivation intensity
+* Agri-environment schemes
+* Commodity prices and farm economics
+* Irrigation/drainage where applicable
+* field boundary management (hedges/margins)
 
 ## Useful Links
 

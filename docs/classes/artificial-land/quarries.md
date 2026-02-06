@@ -41,15 +41,14 @@ subclasses: []
 
 ## In Protected Landscapes
 
-*where and which PL's this is likely found*
+Occurs where there has been mineral extraction or heavy industry, so present in many protected landscapes but clustered in places with a history of quarrying/mining. Often found as discrete pits/working faces, spoil heaps, and restored quarry sites.
 
 ### Management and drivers
 
-*Dense scrub may be maintained by:*
-- Reduced grazing pressure
-- Woodland succession
-- We have no money!!!!!
-- Conservation management for species diversity
+* Active extraction and site operations
+* Restoration requirements and planning conditions; safety works (grading, fencing)
+* Natural regeneration vs engineered restoration
+* After-use decisions (landfill, recreation, nature conservation, water storage); pollution/contamination legacies; erosion and slope instability; recreational pressure (off-path access).
 
 ## Useful Links
 

@@ -73,15 +73,17 @@ associated_habitats:
 
 ## In Protected Landscapes
 
-*where and which PL's this is likely found*
+Present only in coastal protected landscapes (estuaries, sheltered bays), typically as intertidal vegetation zones.
 
 ### Management and drivers
 
-*Dense scrub may be maintained by:*
-- Reduced grazing pressure
-- Woodland succession
-- We have no money!!!!!
-- Conservation management for species diversity
+The structure and extent are influenced by:
+
+* Coastal squeeze from sea-level rise plus fixed defences
+* Sediment supply and accretion/erosion balance
+* Managed realignment/defence policies* grazing (where practiced) and creek dynamics
+* Storm frequency/intensity
+* Invasive species* upstream land use affecting sediment/nutrients
 
 ## Useful Links
 

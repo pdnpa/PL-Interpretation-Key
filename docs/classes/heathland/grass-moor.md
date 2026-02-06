@@ -1,6 +1,6 @@
 ---
-code: d2a
-title: Grass/sedge moorland
+code: d2b
+title: Upland grass moor - unenclosed acid grassland
 parent: d
 ukhab: b1
 status: draft
@@ -100,7 +100,7 @@ Species composition (e.g. Molinia dominance) cannot be confirmed reliably from i
 
 Common in upland protected landscapes where heather is limited/absent or where moorland has shifted toward grass dominance; often extensive and contiguous. 
 
-Occurs where upland moorland has been heavily impacted (e.g., overgrazing, drainage, repeated burning), often on wetter ground with sedge/rush dominance or simplified swards.
+Widespread across upland protected landscapes, especially on acidic substrates; often intergrades with heath, bracken, and bog margins.
 
 ---
 
@@ -108,12 +108,15 @@ Occurs where upland moorland has been heavily impacted (e.g., overgrazing, drain
 
 The structure and extent are influenced by:
 
-* Overgrazing and trampling
-* Drainage and peat erosion
-* Frequent/intense burning
-* Past reseeding/liming in places
-* Restoration actions (re-wetting, grip blocking, re-vegetation)
-* Climate change effects on peat stability and water tables* wildfire events.
+* Grazing intensity/type (sheep/cattle/ponies) and undergrazing leading to scrub/bracken
+* Burning and cutting regimes
+* Drainage/gripping and peat condition
+* Historical management legacies
+* Atmospheric nitrogen deposition shifting composition
+* Climate-driven changes to growth and wetness
+* Reseeding/fertiliser in marginal cases near in-bye land.
+
+
 
 --- 
 

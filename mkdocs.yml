@@ -79,7 +79,8 @@ nav:
     - D Heathland:
         - Overview: classes/heathland/index.md
         - d1 Upland heath: classes/heathland/upland-heath.md
-        - d2 Grass–sedge moorland: classes/heathland/grass-sedge.md
+        - d2a Grass–sedge moorland: classes/heathland/grass-sedge.md
+        - d2b Upland grass moorland: classes/heathland/grass-moor.md
         - d3 Lowland heath: classes/heathland/lowland-heath.md
 
     - E Grassland:

@@ -51,15 +51,14 @@ subclasses: []
 
 ## In Protected Landscapes
 
-*where and which PL's this is likely found*
+Used where features don’t fit other classes, are too small/ambiguous to interpret confidently. Can occur in any protected landscape depending on imagery quality and state. 
 
 ### Management and drivers
 
-*Dense scrub may be maintained by:*
-- Reduced grazing pressure
-- Woodland succession
-- We have no money!!!!!
-- Conservation management for species diversity
+The structure and extent are influenced by:
+
+* Primarily driven by interpretation limits: image resolution, haze, or obstruction in imagery
+* Good QA/QC processes and clear “minimum mapping unit” rules reduce this category.
 
 ## Useful Links
 

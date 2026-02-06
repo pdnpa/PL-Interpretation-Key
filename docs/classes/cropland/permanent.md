@@ -61,15 +61,18 @@ associated_habitats:
 
 ## In Protected Landscapes
 
-*where and which PL's this is likely found*
+Occurs in sheltered lowland areas with horticulture/viticulture (where present), often in small blocks compared with annual arable. Can be present within or adjacent to protected landscapes where microclimate and access suit.
 
 ### Management and drivers
 
-*Dense scrub may be maintained by:*
-- Reduced grazing pressure
-- Woodland succession
-- We have no money!!!!!
-- Conservation management for species diversity
+The structure and extent are influenced by:
+
+* Long-term planting decisions; pruning/training systems
+* Pest and disease control; irrigation; frost protection
+* Plastic/mesh structures in some systems
+* Labour availability / market drivers
+* Planning controls for polytunnels/structures
+* Soil management and compaction from machinery
 
 ## Useful Links
 

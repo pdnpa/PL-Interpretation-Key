@@ -90,26 +90,21 @@ Seasonal colour variation may be evident. Species composition cannot be reliably
 
 ## In Protected Landscapes
 
-Wet grassland and rush pasture occurs widely across Protected Landscapes, particularly:
+The structure and extent are influenced by:
 
-- In marginal or poorly drained agricultural land
-- Along moorland fringes and upland slopes
-- Within fens, flushes, basins, and wet hollows
-
-Extent, condition, and ecological value vary substantially and should be assessed using field survey or ancillary datasets rather than imagery alone.
+Very common as patches/strips in damp grasslands, flushes, and poorly drained fields across many protected landscapes; often associated with grazing land and valley bottoms. Also found along moorland fringes and upland slopes and within fens, flushes, basins, and wet hollows
 
 ---
 
 ## Management and drivers
 
-The distribution and character of wet grassland and rush pasture are influenced by:
+The structure and extent are influenced by:
 
-- Hydrological modification (drainage, drain blocking)
-- Grazing pressure and livestock type
-- Nutrient enrichment
-- Historic land-use practices
-
-Both species-rich and species-poor expressions may occur within this class.
+* Grazing intensity (often increases/decreases rush dominance depending on regime)
+* Drainage and ditch maintenance* cutting/topping
+* Fertiliser inputs and enrichment
+* Targeted control (herbicide) in agricultural settings* wetter winters/drier summers shifting extent
+* Poaching/trampling around gateways and water points
 
 ---
 

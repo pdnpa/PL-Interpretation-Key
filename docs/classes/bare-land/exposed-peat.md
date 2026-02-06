@@ -61,15 +61,17 @@ associated_habitats:
 
 ## In Protected Landscapes
 
-*where and which PL's this is likely found*
+Occurs mainly in upland protected landscapes where peatlands have been damaged, especially on heavily used/eroding moors and peat plateaus.
 
 ### Management and drivers
 
-*Dense scrub may be maintained by:*
-- Reduced grazing pressure
-- Woodland succession
-- We have no money!!!!!
-- Conservation management for species diversity
+The structure and extent are influenced by:
+
+* Erosion drivers (wind, water, freeze-thaw)
+* Drainage/gripping* overgrazing and trampling
+* Fire/burning history and wildfire* restoration (re-wetting, geotextiles, re-vegetation, gully blocking)
+* Recreation pressure (paths, bikes, walkers)
+* Climate change increasing drought/erosive rainfall events
 
 ## Useful Links
 

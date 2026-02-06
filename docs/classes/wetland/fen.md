@@ -72,15 +72,20 @@ associated_habitats:
 
 ## In Protected Landscapes
 
-*where and which PL's this is likely found*
+Found wherever there are lowland wetlands, lake edges, floodplains, and groundwater-fed systems within protected landscapes; often linear or patchy along waterbodies and valley bottoms.
 
 ### Management and drivers
 
-*Dense scrub may be maintained by:*
-- Reduced grazing pressure
-- Woodland succession
-- We have no money!!!!!
-- Conservation management for species diversity
+The structure and extent are influenced by:
+
+* Water-level control and drainage
+* Grazing/cutting to prevent scrub takeover
+* Nutrient enrichment/eutrophication
+* Pollution and sediment inputs
+* River regulation and flood management
+* Reed/scrub succession
+* Invasive species
+* Climate change altering hydroperiods and drought/flood frequency
 
 ## Useful Links
 

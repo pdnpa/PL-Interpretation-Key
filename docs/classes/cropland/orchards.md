@@ -72,15 +72,18 @@ associated_habitats:
 
 ## In Protected Landscapes
 
-*where and which PL's this is likely found*
+Present in some protected landscapes (especially lowland pastoral/arable mosaics), often as small parcels; may overlap visually with scattered trees/parkland in imagery depending on spacing and understorey.
 
 ### Management and drivers
 
-*Dense scrub may be maintained by:*
-- Reduced grazing pressure
-- Woodland succession
-- We have no money!!!!!
-- Conservation management for species diversity
+The structure and extent are influenced by:
+
+Tree age/variety replacement cycles
+* Pruning, grazing or mowing understorey
+* Pesticide/fungicide use (or none, for traditional/low-input)
+* Nutrient inputs
+* Loss through conversion to pasture/arable or development
+* Sensitivity to spray drift and nutrient runoff from adjacent land.
 
 ## Useful Links
 

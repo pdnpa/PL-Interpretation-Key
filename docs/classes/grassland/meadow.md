@@ -103,20 +103,22 @@ Use vegetation structure and landscape context to guide interpretation.
 
 ## In Protected Landscapes
 
-Neutral grassland and meadow occur widely across Protected Landscapes, particularly where traditional low-intensity farming practices persist. Extent and condition vary considerably depending on management history and agricultural pressure.
+Occurs as scattered, often small parcels (traditional hay meadows, low-input pastures) across many protected landscapes, but typically rare and fragmented due to historic improvement and conversion.
 
 ---
 
 ### Management and drivers
 
-The structure and ecological value of neutral grassland and meadow are influenced by:
+The structure and extent are influenced by:
 
-- Timing and frequency of cutting
-- Grazing pressure and livestock type
-- Nutrient inputs
-- Scrub control or abandonment
-
-Ecological condition should not be inferred directly from imagery alone.
+* Cutting date/frequency (hay vs silage)
+* Aftermath grazing
+* Fertiliser/manure inputs (or restrictions)
+* Reseeding and drainage as threats
+* Scrub encroachment under low management
+* Agri-environment schemes supporting low-input management
+* Nutrient drift/runoff from adjacent improved land
+* Climate-driven shifts in growing season and flowering/cutting windows.
 
 ---
 

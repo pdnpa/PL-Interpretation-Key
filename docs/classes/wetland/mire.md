@@ -71,15 +71,19 @@ associated_habitats:
 
 ## In Protected Landscapes
 
-*where and which PL's this is likely found*
+Common in upland protected landscapes where peat-forming conditions occur; often extensive on plateaus, saddle areas, and gentle slopes with impeded drainage.
 
 ### Management and drivers
 
-*Dense scrub may be maintained by:*
-- Reduced grazing pressure
-- Woodland succession
-- We have no money!!!!!
-- Conservation management for species diversity
+The structure and extent are influenced by:
+
+Peat condition and hydrology (drainage grips, erosion gullies)
+* Restoration (re-wetting, revegetation)
+* Gazing and trampling
+* Burning history and wildfire risk
+* Atmospheric pollution and nitrogen deposition
+* Climate change affecting water tables and peat stability
+* Footpath erosion and recreation pressure
 
 ## Useful Links
 

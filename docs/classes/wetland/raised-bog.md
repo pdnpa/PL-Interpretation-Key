@@ -72,15 +72,18 @@ associated_habitats:
 
 ## In Protected Landscapes
 
-*where and which PL's this is likely found*
+Occurs in limited lowland areas where deep peat has formed; present in some protected landscapes but generally rare and highly protected/fragmented.
 
 ### Management and drivers
 
-*Dense scrub may be maintained by:*
-- Reduced grazing pressure
-- Woodland succession
-- We have no money!!!!!
-- Conservation management for species diversity
+The structure and extent are influenced by:
+
+* Drainage and historical peat cutting
+* Restoration (ditch blocking, re-wetting)
+* Surrounding land use affecting water balance
+* Nitrogen deposition* wildfire risk
+* Scrub/tree encroachment if drying
+* Climate change altering rainfall and evapotranspiration
 
 ## Useful Links
 

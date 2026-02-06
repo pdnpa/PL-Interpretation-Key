@@ -72,15 +72,19 @@ associated_habitats:
 
 ## In Protected Landscapes
 
-*where and which PL's this is likely found*
+Very widespread as a “buffer/mosaic” habitat across many protected landscapes: road verges, field edges, unenclosed land margins, less-intensively managed pastures, and transitions between improved grassland, heath, and scrub.
 
 ### Management and drivers
 
-*Dense scrub may be maintained by:*
-- Reduced grazing pressure
-- Woodland succession
-- We have no money!!!!!
-- Conservation management for species diversity
+The structure and extent are influenced by:
+
+* Reduced inputs relative to improved grassland
+* Variable grazing and cutting frequency
+* Neglect leading to scrub encroachment
+* Local mowing regimes (verges/amenity edges)
+* Nutrient enrichment from adjacent fields
+* Disturbance (recreation, vehicles)
+* Agri-environment options (field margins, low-input grass).
 
 ## Useful Links
 

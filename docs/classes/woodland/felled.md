@@ -72,15 +72,19 @@ associated_habitats:
 
 ## In Protected Landscapes
 
-*where and which PL's this is likely found*
+Found where commercial forestry operations occur within protected landscapes (often upland and moor/woodland fringes), appearing as geometric coupes or young plantation blocks.
 
 ### Management and drivers
 
-*Dense scrub may be maintained by:*
-- Reduced grazing pressure
-- Woodland succession
-- We have no money!!!!!
-- Conservation management for species diversity
+The structure and extent are influenced by:
+
+* Forestry harvesting cycles
+* Replanting/restocking policy
+* Species choice (native vs conifer)
+* Deer browsing and tree protection
+* Ground preparation (mounding/drainage) affecting hydrology
+* Landscape/visual constraints and design plans
+* Storm damage and windthrow* disease outbreaks influencing felling/replanting.
 
 ## Useful Links
 

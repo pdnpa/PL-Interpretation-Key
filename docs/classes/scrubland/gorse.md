@@ -75,15 +75,18 @@ associated_habitats:
 
 ## In Protected Landscapes
 
-*where and which PL's this is likely found*
+Common in many protected landscapes, especially on heathland, coastal slopes, and rough grass mosaics; often occurs as patchy scrub or dense blocks.
 
 ### Management and drivers
 
-*Dense scrub may be maintained by:*
-- Reduced grazing pressure
-- Woodland succession
-- We have no money!!!!!
-- Conservation management for species diversity
+The structure and extent are influenced by:
+
+* Grazing pressure (often controls spread)
+* Burning/cutting for heath management
+* Succession dynamics (can transition toward scrub/woodland if unmanaged)
+* Disturbance and soil conditions
+* Fire risk and fire history
+* Recreational trampling can open ground for regeneration.
 
 ## Useful Links
 
