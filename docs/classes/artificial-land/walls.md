@@ -1,11 +1,11 @@
 ---
-code: s2
-title: Hedgerows
-parent: s
-ukhab: h2
+code: a4
+title: Walls
+parent: g
+ukhab: s67
 status: draft
 description: >
-  Lines of shrubs <???m wide and <???m tall. Even though some species within the hedgerow may be capable of growing taller into trees, their shorter nature in this context results in the linear feature appearing as a ‘shrubby’ hedgerow. Often found at the boundaries of fields or bordering roads.
+  A wall consisting of stones without mortar or cement.
 subclasses: []
 associated_habitats:
   - "To be confirmed with Landscapes"
@@ -18,17 +18,7 @@ associated_habitats:
 **Parent:** {{ parent }}  
 **Status:** {{ status }}
 
----
-
-<figure class="interp-figure">
-  <img src="../../../assets/images/scrubland/s2.jpg" alt="{{ title }} ({{ code }})">
-  <figcaption>
-    Hawthorne hedgerow in an agricultural field.   
-    <br><small>Image: CC-BY, 35mmMan</small>
-  </figcaption>
-</figure>
-
----
+*insert horizontal habitat image w: pix h: pix*
 
 ## Definition
 
@@ -65,21 +55,25 @@ associated_habitats:
 ## Overlap with other classes
 
 !!! warning "Potential confusion with related classes"
-    - [c1b Hedgerow trees](../woodland/broadleaved-hedgerow-trees.md)
+    - [a1 Urban and transport](../artificial-land/urban.md)
 
 ---
 
 ## In Protected Landscapes
 
-*where and which PL's this is likely found*
+Extremely widespread in moorlands and grassland; includes field boundaries,drystone walls across many protected landscapes.
 
 ### Management and drivers
 
-*Dense scrub may be maintained by:*
-- Reduced grazing pressure
-- Woodland succession
-- We have no money!!!!!
-- Conservation management for species diversity
+The structure and extent are influenced by:
+
+* Maintenance and repair frequency (collapse vs rebuilding)
+* Stock pressure (rubbing, trampling) and livestock management
+* Land abandonment leading to deterioration
+* Vegetation growth and root damage (ivy, scrub encroachment)
+* Weathering, freeze-thaw, and storm damage
+* Access routes and recreational pressure (gateways, paths)
+* Funding and agri-environment support for boundary upkeep
 
 ## Useful Links
 

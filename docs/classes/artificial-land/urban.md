@@ -41,15 +41,19 @@ subclasses: []
 
 ## In Protected Landscapes
 
-*where and which PL's this is likely found*
+Extremely widespread and can occur in all protected landscapes. More abundant where there are towns/villages, major road/rail corridors, visitor hubs and car parks, and where protected landscapes border large settlements.
 
 ### Management and drivers
 
-*Dense scrub may be maintained by:*
-- Reduced grazing pressure
-- Woodland succession
-- We have no money!!!!!
-- Conservation management for species diversity
+The structure and extent are influenced by:
+
+* Local and national planning policy and legislation
+* Population density and settlement expansion pressure
+* Transport infrastructure upgrades (roads, rail, parking, widening)
+* New development, redevelopment, and land take
+* Surface sealing and drainage/urban runoff management
+* Lighting, noise, and air pollution levels
+* Greenspace creation/loss and verge management
 
 ## Useful Links
 

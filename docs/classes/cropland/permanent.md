@@ -67,8 +67,9 @@ Occurs in sheltered lowland areas with horticulture/viticulture (where present),
 
 The structure and extent are influenced by:
 
-* Long-term planting decisions; pruning/training systems
-* Pest and disease control; irrigation; frost protection
+* Long-term planting decisions
+* Pest and disease control
+* Irrigation
 * Plastic/mesh structures in some systems
 * Labour availability / market drivers
 * Planning controls for polytunnels/structures

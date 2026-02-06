@@ -61,15 +61,19 @@ associated_habitats:
 
 ## In Protected Landscapes
 
-*where and which PL's this is likely found*
+Typically found coastally (beaches, dunes) and also beside rivers and some lakes/reservoir margins. Therefore present mainly in coastal protected landscapes, but can also occur inland along sandy river systems or where geology and sediment supply create sandy substrates.
 
 ### Management and drivers
 
-*Dense scrub may be maintained by:*
-- Reduced grazing pressure
-- Woodland succession
-- We have no money!!!!!
-- Conservation management for species diversity
+The structure and extent are influenced by:
+
+* Sediment supply and transport (wind, tides, river inputs)
+* Coastal defences and development altering movement and deposition
+* Dredging and sediment management
+* Storm events and changing sea conditions (climate-driven)
+* Recreational pressure (trampling, vehicles) redistributing sediment
+* Stabilisation/planting in dune systems (where applicable)
+* Sea-level rise and shifting currents affecting accumulation/erosion
 
 ## Useful Links
 

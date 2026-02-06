@@ -72,15 +72,20 @@ associated_habitats:
 
 ## In Protected Landscapes
 
-*where and which PL's this is likely found*
+Found in protected landscapes where the underlying geology is calcareous (chalk, limestone and other base-rich substrates). Lowland calcareous grassland is most common across southern England (including chalk downlands and coastal slopes), while upland calcareous grassland occurs in limestone uplands such as parts of the Yorkshire Dales and other limestone areas. Often appears as small, fragmented parcels on thin soils, steep slopes, escarpments, and downs where improvement is difficult.
 
 ### Management and drivers
 
-*Dense scrub may be maintained by:*
-- Reduced grazing pressure
-- Woodland succession
-- We have no money!!!!!
-- Conservation management for species diversity
+The structure and extent are influenced by:
+
+* Grazing pressure and livestock type (and lack of grazing leading to scrub encroachment)
+* Cutting regimes (where used) and timing/frequency
+* Conversion to improved grassland (reseeding, fertiliser, liming)
+* Nutrient enrichment from adjacent land (runoff, drift, manure)
+* Nitrogen deposition reducing species richness and favouring coarse grasses
+* Scrub control (cutting, pulling, targeted grazing)
+* Recreation pressure on popular slopes/downs (trampling, erosion)
+* Climate change affecting drought stress, growing season length, and soil moisture
 
 ## Useful Links
 

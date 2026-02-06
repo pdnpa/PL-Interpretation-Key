@@ -1,11 +1,11 @@
 ---
-code: g4
-title: Walls
-parent: g
-ukhab: s67
+code: c6a
+title: Gorse
+parent: s1
+ukhab: h3e
 status: draft
 description: >
-  A wall consisting of stones without mortar or cement.
+  Areas are covered by at least ???% Gorse. European Gorse (Ulex europaeus) dominates; Dwarf Gorse (Ulex minor) and Western Gorse (Ulex gallii) may also be present. Appears dark green, or is a distinct bright yellow when flowering.
 subclasses: []
 associated_habitats:
   - "To be confirmed with Landscapes"
@@ -18,7 +18,20 @@ associated_habitats:
 **Parent:** {{ parent }}  
 **Status:** {{ status }}
 
-*insert horizontal habitat image w: pix h: pix*
+
+---
+
+<figure class="interp-figure">
+  <img src="../../../assets/images/scrubland/s1b.png" alt="{{ title }} ({{ code }})">
+  <figcaption>
+    Gorse vergreen shrub distinctive when in bright yellow flower.  
+    <br><small>Image: CC-BY, Woodlands.co.uk</small>
+  </figcaption>
+</figure>
+
+---
+
+#
 
 ## Definition
 
@@ -55,21 +68,25 @@ associated_habitats:
 ## Overlap with other classes
 
 !!! warning "Potential confusion with related classes"
-    - [a1 Urban and transport](../artificial-land/urban.md)
+    - [d1 Upland heath](../heathland/upland-heath.md)
+    - [d3 Lowland heath](../heathland/lowland-heath.md)
 
 ---
 
 ## In Protected Landscapes
 
-*where and which PL's this is likely found*
+Common in many protected landscapes, especially on heathland, coastal slopes, and rough grass mosaics; often occurs as patchy scrub or dense blocks.
 
 ### Management and drivers
 
-*Dense scrub may be maintained by:*
-- Reduced grazing pressure
-- Woodland succession
-- We have no money!!!!!
-- Conservation management for species diversity
+The structure and extent are influenced by:
+
+* Grazing pressure (often controls spread)
+* Burning/cutting for heath management
+* Succession dynamics (can transition toward scrub/woodland if unmanaged)
+* Disturbance and soil conditions
+* Fire risk and fire history
+* Recreational trampling can open ground for regeneration.
 
 ## Useful Links
 

@@ -70,15 +70,19 @@ associated_habitats:
 
 ## In Protected Landscapes
 
-*where and which PL's this is likely found*
+Found along low-lying coastlines and estuaries, therefore only present in protected landscapes with coastal sections. Typically occurs as reclaimed or managed marsh with ditches and water control, often behind sea defences or on estuarine floodplains.
 
 ### Management and drivers
 
-*Dense scrub may be maintained by:*
-- Reduced grazing pressure
-- Woodland succession
-- We have no money!!!!!
-- Conservation management for species diversity
+The structure and extent are influenced by:
+
+* Drainage and water-level control (ditches, sluices, pumps)
+* Grazing pressure and stocking density
+* Cutting regime (timing, frequency)
+* Salinity and tidal influence (breaches, overtopping)
+* Flood risk management and coastal defence policy
+* Nutrient inputs and soil fertility management
+* Climate-driven changes to flooding, drought, and water tables
 
 ## Useful Links
 

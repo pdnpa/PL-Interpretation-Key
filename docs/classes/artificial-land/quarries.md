@@ -45,10 +45,16 @@ Occurs where there has been mineral extraction or heavy industry, so present in 
 
 ### Management and drivers
 
-* Active extraction and site operations
-* Restoration requirements and planning conditions; safety works (grading, fencing)
-* Natural regeneration vs engineered restoration
-* After-use decisions (landfill, recreation, nature conservation, water storage); pollution/contamination legacies; erosion and slope instability; recreational pressure (off-path access).
+The structure and extent are influenced by:
+
+* Active extraction operations and permissions
+* Restoration requirements, planning conditions, and after-use decisions
+* Safety works (grading, fencing, stabilisation)
+* Natural regeneration vs engineered restoration planting
+* Substrate chemistry and contamination legacies
+* Hydrology (groundwater exposure, pit lakes, drainage)
+* Erosion, slope instability, and rockfall risk
+* Recreational access/pressure and disturbance
 
 ## Useful Links
 

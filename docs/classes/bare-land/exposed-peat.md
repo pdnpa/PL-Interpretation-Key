@@ -1,6 +1,6 @@
 ---
-code: g1
-title: Bare ground
+code: g5
+title: Exposed Peat
 parent: g
 ukhab: g1
 status: draft

@@ -63,15 +63,20 @@ associated_habitats:
 
 ## In Protected Landscapes
 
-*where and which PL's this is likely found*
+Found wherever hedgerows occur; more frequent in lowland farmed landscapes, often as “standards” within hedges.
 
 ### Management and drivers
 
-*Dense scrub may be maintained by:*
-- Reduced grazing pressure
-- Woodland succession
-- We have no money!!!!!
-- Conservation management for species diversity
+The structure and extent are influenced by:
+
+* Hedgerow cutting frequency and method (flail vs traditional)
+* Hedge laying/coppicing and long-term hedge cycles
+* Recruitment of new standards (sapling survival)
+* Browsing pressure (deer/livestock) and protection measures
+* Spray drift and fertiliser enrichment from adjacent fields
+* Removal/reinstatement of hedges through farm restructuring
+* Disease, storm damage, and age-related loss
+* Agri-environment scheme options and legal protections
 
 ## Useful Links
 

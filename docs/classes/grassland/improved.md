@@ -71,15 +71,19 @@ associated_habitats:
 
 ## In Protected Landscapes
 
-*where and which PL's this is likely found*
+Widespread and can occur in most protected landscapes wherever land is managed intensively for grazing or silage. Particularly abundant in and around farmed valleys, lowland fringes, and in-bye land, but can also occur as improved pastures within upland protected landscapes.
 
 ### Management and drivers
 
-*Dense scrub may be maintained by:*
-- Reduced grazing pressure
-- Woodland succession
-- We have no money!!!!!
-- Conservation management for species diversity
+The structure and extent are influenced by:
+
+* Reseeding and sward “improvement” practices
+* Fertiliser and slurry/manure inputs
+* Herbicide/pesticide use and weed control
+* High stocking rates and grazing rotation intensity
+* Frequent cutting (silage) and timing
+* Drainage and soil management (liming, compaction relief)
+* Agricultural policy, incentives, and farm economics
 
 ## Useful Links
 

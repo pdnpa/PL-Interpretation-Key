@@ -72,15 +72,20 @@ associated_habitats:
 
 ## In Protected Landscapes
 
-*where and which PL's this is likely found*
+Abundant across protected landscapes, with many containing smaller bodies of water of natural and man-made origin. Includes lakes, reservoirs, ponds, and flooded pits; larger reservoirs/lakes can occur within upland and lowland protected landscapes depending on catchment and topography.
 
 ### Management and drivers
 
-*Dense scrub may be maintained by:*
-- Reduced grazing pressure
-- Woodland succession
-- We have no money!!!!!
-- Conservation management for species diversity
+The structure and extent are influenced by:
+
+* Water level management (especially reservoirs and regulated lakes)
+* Catchment land use affecting inflows (runoff, sediment, nutrients)
+* Historic Dew Ponds
+* Droughts/flooding shifting water extent (climate-driven)
+* Eutrophication and algal blooms affecting water clarity/vegetation
+* Pollution inputs (agricultural, urban, industrial)
+* Shoreline management and recreation pressure
+* Aquatic vegetation management and invasive species
 
 ## Useful Links
 

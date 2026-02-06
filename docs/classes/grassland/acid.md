@@ -72,15 +72,19 @@ associated_habitats:
 
 ## In Protected Landscapes
 
-*where and which PL's this is likely found*
+Found in protected landscapes where acidic geology and soils occur (e.g., sandstone, gritstone, acidic drift). Occurs as lowland dry acid grassland in scattered patches (often within heathland mosaics) and as upland acid grassland across many northern and western protected landscapes as well as the South West Peninsula.
 
 ### Management and drivers
 
-*Dense scrub may be maintained by:*
-- Reduced grazing pressure
-- Woodland succession
-- We have no money!!!!!
-- Conservation management for species diversity
+The structure and extent are influenced by:
+
+* Grazing pressure (and lack of grazing leading to scrub encroachment)
+* Nitrogen deposition changing species composition
+* Atmospheric pollution increasing acidification
+* Hydrological change affecting wetness and community structure
+* Agricultural management and policy (improvement pressure)
+* Burning/cutting regimes on upland edges (where practiced)
+* Recreation and erosion on thin soils
 
 ## Useful Links
 

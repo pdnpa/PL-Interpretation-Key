@@ -1,5 +1,5 @@
 ---
-code: c2
+code: c4
 title: Traditional orchard
 parent: c
 ukhab: BNG21
@@ -61,15 +61,19 @@ associated_habitats:
 
 ## In Protected Landscapes
 
-*where and which PL's this is likely found*
+Located across the UK but unevenly distributed; most common in lowland farmed protected landscapes, especially in parts of western and southern England (e.g., areas with historic orchard regions). Often small and fragmented and may be hard to distinguish from fields with scattered trees.
 
 ### Management and drivers
 
-*Dense scrub may be maintained by:*
-- Reduced grazing pressure
-- Woodland succession
-- We have no money!!!!!
-- Conservation management for species diversity
+The structure and extent are influenced by:
+
+* Pruning and tree replacement/planting
+* Understorey management (grazing, mowing, hay cut)
+* Pesticide and fertiliser use (or lack thereof)
+* Adjacent land management (spray drift, nutrient runoff, leaching)
+* Neglect leading to scrub encroachment and tree decline
+* Disease and age structure (loss of veteran trees)
+* Conversion pressure (to pasture/arable/development)
 
 ## Useful Links
 

@@ -61,15 +61,20 @@ associated_habitats:
 
 ## In Protected Landscapes
 
-*where and which PL's this is likely found*
+Occurs throughout protected landscapes as parkland trees, field trees, street/settlement trees, and isolated boundary trees.
 
 ### Management and drivers
 
-*Dense scrub may be maintained by:*
-- Reduced grazing pressure
-- Woodland succession
-- We have no money!!!!!
-- Conservation management for species diversity
+The structure and extent are influenced by:
+
+* Veteran tree management and safety works
+* Loss/replacement rates and planting initiatives
+* Grazing pressure and browsing on saplings
+* Field boundary change (hedge removal/creation)
+* Disease and pests (e.g., ash dieback effects where relevant)
+* Storm damage, drought stress, and soil compaction
+* Agricultural operations (ploughing close to roots, spray drift)
+* Development and infrastructure pressures near settlements/roads
 
 ## Useful Links
 

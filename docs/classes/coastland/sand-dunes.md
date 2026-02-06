@@ -71,15 +71,19 @@ associated_habitats:
 
 ## In Protected Landscapes
 
-*where and which PL's this is likely found*
+Common around sections of the UK coastline, therefore only found in protected landscapes with coastal frontage. Often occur as dune systems behind sandy beaches, varying from small foredunes to extensive dune complexes.
 
 ### Management and drivers
 
-*Dense scrub may be maintained by:*
-- Reduced grazing pressure
-- Woodland succession
-- We have no money!!!!!
-- Conservation management for species diversity
+The structure and extent are influenced by:
+
+* Storm frequency/intensity and wind-driven sand movement
+* Coastal defences (sea walls, groynes) altering sediment supply
+* Stabilisation efforts (fencing, planting, marram management)
+* Recreational pressure (paths, trampling, off-road access)
+* Sand extraction or beach nourishment altering dune dynamics
+* Invasive species and scrub encroachment on fixed dunes
+* Sea-level rise and shoreline squeeze (climate-driven)
 
 ## Useful Links
 

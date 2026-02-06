@@ -78,7 +78,7 @@ Present in some protected landscapes (especially lowland pastoral/arable mosaics
 
 The structure and extent are influenced by:
 
-Tree age/variety replacement cycles
+* Tree age/variety replacement cycles
 * Pruning, grazing or mowing understorey
 * Pesticide/fungicide use (or none, for traditional/low-input)
 * Nutrient inputs

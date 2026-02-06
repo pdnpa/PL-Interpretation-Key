@@ -61,15 +61,19 @@ associated_habitats:
 
 ## In Protected Landscapes
 
-*where and which PL's this is likely found*
+Widespread but more common in uplands and coastal cliffs; also appears as outcrops, crags, and rock exposures in valleys.
 
 ### Management and drivers
 
-*Dense scrub may be maintained by:*
-- Reduced grazing pressure
-- Woodland succession
-- We have no money!!!!!
-- Conservation management for species diversity
+The structure and extent are influenced by:
+
+* Geology and natural exposure (outcrops, cliffs)
+* Weathering and freeze-thaw processes
+* Rockfalls and slope instability
+* Vegetation colonisation (lichen, moss, scrub) over time
+* Grazing pressure limiting soil build-up and plant cover
+* Recreational climbing/walking impacts on fragile ledges
+* Coastal erosion processes (where relevant)
 
 ## Useful Links
 

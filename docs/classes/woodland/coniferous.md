@@ -71,15 +71,20 @@ associated_habitats:
 
 ## In Protected Landscapes
 
-*where and which PL's this is likely found*
+Occurs across many protected landscapes, particularly uplands and areas with commercial forestry blocks.
 
 ### Management and drivers
 
-*Dense scrub may be maintained by:*
-- Reduced grazing pressure
-- Woodland succession
-- We have no money!!!!!
-- Conservation management for species diversity
+The structure and extent are influenced by:
+
+* Harvesting cycles (clearfell vs continuous cover)
+* Replanting/restocking rules and species selection
+* Ground preparation (mounding, drainage) affecting hydrology
+* Deer browsing and tree protection requirements
+* Windthrow risk and storm events
+* Pest/disease outbreaks and biosecurity measures
+* Landscape design constraints and visual impact guidance
+* Market economics for timber and policy incentives
 
 ## Useful Links
 

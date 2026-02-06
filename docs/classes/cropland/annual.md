@@ -83,7 +83,7 @@ The structure and extent are influenced by:
 * Agri-environment schemes
 * Commodity prices and farm economics
 * Irrigation/drainage where applicable
-* field boundary management (hedges/margins)
+* Field boundary management (hedges/margins)
 
 ## Useful Links
 

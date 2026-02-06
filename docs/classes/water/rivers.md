@@ -75,15 +75,19 @@ associated_habitats:
 
 ## In Protected Landscapes
 
-*where and which PL's this is likely found*
+Waterways are spread throughout the UK, with some form of flowing water present in all protected landscapes. Ranges from small headwater streams in uplands to larger lowland rivers and managed channels, often forming key landscape features and habitat corridors.
 
 ### Management and drivers
 
-*Dense scrub may be maintained by:*
-- Reduced grazing pressure
-- Woodland succession
-- We have no money!!!!!
-- Conservation management for species diversity
+The structure and extent are influenced by:
+
+* Flow regime changes (flooding, drought, climate-driven variability)
+* River engineering (channel straightening, culverts, embankments)
+* Riparian vegetation management (tree cover, shading, clearance)
+* Catchment grazing and soil management affecting sediment loads
+* Nutrient enrichment and pollution incidents
+* Barriers and connectivity (weirs, dams) affecting dynamics
+* Restoration works (re-meandering, bank stabilisation, buffer strips)
 
 ## Useful Links
 

@@ -93,19 +93,22 @@ From aerial or satellite imagery, upland heath typically appears as:
 
 ## In Protected Landscapes
 
-*where and which PL's this is likely found*
+Common throughout upland protected landscapes in the north and west of the UK, forming extensive areas on acidic, nutrient-poor soils. Particularly abundant in northern and western protected landscapes (e.g., large upland national parks and upland national landscapes), and also present in parts of the South West Peninsula uplands. Occurs as mosaics with acid grassland, blanket bog/upland mire, bracken, and upland grass moor, with extent varying strongly with land use and management history.
 
 ---
 
 ### Management and drivers
 
-The extent and structure of upland heath are influenced by:
-* Grazing pressure
-* Burning regimes
-* Atmospheric deposition
-* Historic land use
+The structure and extent are influenced by:
 
-Ecological condition should be assessed separately from structural interpretation.
+* Grazing pressure and livestock type (including under/overgrazing effects)
+* Burning regimes (frequency, season, intensity) and wildfire risk
+* Cutting/mowing and heather management (where practiced)
+* Moorland management objectives (grouse/moorland, livestock, conservation)
+* Nitrogen deposition and atmospheric pollution altering species composition
+* Hydrological change (drainage, drying/wetting) influencing heath–bog transitions
+* Bracken and scrub encroachment where management changes
+* Climate change affecting temperature, drought frequency, storms, and recovery dynamics
 
 ---
 

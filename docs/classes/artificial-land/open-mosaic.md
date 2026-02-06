@@ -42,15 +42,19 @@ subclasses: []
 
 ## In Protected Landscapes
 
-*where and which PL's this is likely found*
+Found in areas which were previously developed, industrial, or heavily disturbed, so can occur across a range of protected landscapes wherever there has been urban influence (including old works, sidings, tips, brownfield edges, and disturbed ground near settlements).
 
 ### Management and drivers
 
-*Dense scrub may be maintained by:*
-- Reduced grazing pressure
-- Woodland succession
-- We have no money!!!!!
-- Conservation management for species diversity
+The structure and extent are influenced by:
+
+* Past land use (industrial/urban legacy affecting soils, pH, contaminants)
+* Natural regeneration vs active remediation/restoration
+* Disturbance regime (scraping, vehicle use, footfall, dumping)
+* Planning status and redevelopment pressure
+* Invasive species colonisation and control
+* Soil movement/importation/capping and site clearance
+* Succession to scrub/woodland if unmanaged
 
 ## Useful Links
 

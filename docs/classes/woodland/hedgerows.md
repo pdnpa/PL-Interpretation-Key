@@ -1,11 +1,11 @@
 ---
-code: s1b
-title: Gorse
-parent: s1
-ukhab: h3e
+code: c7
+title: Hedgerows
+parent: s
+ukhab: h2
 status: draft
 description: >
-  Areas are covered by at least ???% Gorse. European Gorse (Ulex europaeus) dominates; Dwarf Gorse (Ulex minor) and Western Gorse (Ulex gallii) may also be present. Appears dark green, or is a distinct bright yellow when flowering.
+  Lines of shrubs <???m wide and <???m tall. Even though some species within the hedgerow may be capable of growing taller into trees, their shorter nature in this context results in the linear feature appearing as a ‘shrubby’ hedgerow. Often found at the boundaries of fields or bordering roads.
 subclasses: []
 associated_habitats:
   - "To be confirmed with Landscapes"
@@ -18,20 +18,17 @@ associated_habitats:
 **Parent:** {{ parent }}  
 **Status:** {{ status }}
 
-
 ---
 
 <figure class="interp-figure">
-  <img src="../../../assets/images/scrubland/s1b.png" alt="{{ title }} ({{ code }})">
+  <img src="../../../assets/images/scrubland/s2.jpg" alt="{{ title }} ({{ code }})">
   <figcaption>
-    Gorse vergreen shrub distinctive when in bright yellow flower.  
-    <br><small>Image: CC-BY, Woodlands.co.uk</small>
+    Hawthorne hedgerow in an agricultural field.   
+    <br><small>Image: CC-BY, 35mmMan</small>
   </figcaption>
 </figure>
 
 ---
-
-#
 
 ## Definition
 
@@ -68,25 +65,25 @@ associated_habitats:
 ## Overlap with other classes
 
 !!! warning "Potential confusion with related classes"
-    - [d1 Upland heath](../heathland/upland-heath.md)
-    - [d3 Lowland heath](../heathland/lowland-heath.md)
+    - [c1b Hedgerow trees](../woodland/broadleaved-hedgerow-trees.md)
 
 ---
 
 ## In Protected Landscapes
 
-Common in many protected landscapes, especially on heathland, coastal slopes, and rough grass mosaics; often occurs as patchy scrub or dense blocks.
+Abundant and widespread in lowland agricultural protected landscapes and their fringes, especially around arable land and pasture. Generally more extensive in southern and south-western protected landscapes (with the south west often notably species-rich), and less common in more open upland landscapes.
 
 ### Management and drivers
 
 The structure and extent are influenced by:
 
-* Grazing pressure (often controls spread)
-* Burning/cutting for heath management
-* Succession dynamics (can transition toward scrub/woodland if unmanaged)
-* Disturbance and soil conditions
-* Fire risk and fire history
-* Recreational trampling can open ground for regeneration.
+* Cutting/trimming frequency and timing
+* Hedge laying/coppicing and long-term rejuvenation cycles
+* Agricultural spray drift and nutrient enrichment from adjacent fields
+* Removal/reinstatement linked to farm restructuring
+* Browsing pressure on regeneration (livestock/deer)
+* Gaps from age, disease, storm damage, and neglect
+* Agri-environment schemes and legal protections
 
 ## Useful Links
 

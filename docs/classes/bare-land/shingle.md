@@ -61,15 +61,19 @@ associated_habitats:
 
 ## In Protected Landscapes
 
-*where and which PL's this is likely found*
+Typically found along the coastline or near dynamic water systems, therefore only present in protected landscapes with coastal/estuarine sections (or large river gravel bars in rarer cases). Often occurs as mobile beaches/banks where vegetation struggles to establish.
 
 ### Management and drivers
 
-*Dense scrub may be maintained by:*
-- Reduced grazing pressure
-- Woodland succession
-- We have no money!!!!!
-- Conservation management for species diversity
+The structure and extent are influenced by:
+
+* Storms, wave energy, and longshore drift
+* Coastal engineering/defences altering sediment movement
+* Dredging and sediment management
+* Shingle removal or reprofiling for coastal management
+* Human access (trampling, vehicle tracks) redistributing material
+* Sea-level rise and changing storm regimes (climate-driven)
+* Sediment supply from cliffs and offshore sources
 
 ## Useful Links
 

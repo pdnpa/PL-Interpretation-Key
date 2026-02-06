@@ -61,15 +61,19 @@ associated_habitats:
 
 ## In Protected Landscapes
 
-*where and which PL's this is likely found*
+Occurs across all protected landscapes as temporary/disturbed surfaces (tracks, construction, eroding paths, livestock poached ground, recently managed sites).
 
 ### Management and drivers
 
-*Dense scrub may be maintained by:*
-- Reduced grazing pressure
-- Woodland succession
-- We have no money!!!!!
-- Conservation management for species diversity
+The structure and extent are influenced by:
+
+* Disturbance intensity (recreation, livestock, vehicles)
+* Path/track creation and maintenance practices
+* Erosion and sediment movement by wind/water
+* Construction, restoration works, and extraction activities
+* Seasonal vegetation cover changes (drying, dieback)
+* Management to stabilise or re-vegetate exposed areas
+* Extreme weather events increasing bare patches
 
 ## Useful Links
 

@@ -1,6 +1,6 @@
 ---
-code: g5
-title: Bare ground
+code: g6
+title: Scree
 parent: g
 ukhab: s1a
 status: draft
@@ -61,15 +61,18 @@ associated_habitats:
 
 ## In Protected Landscapes
 
-*where and which PL's this is likely found*
+Found in upland protected landscapes where steep slopes and exposed rock produce unstable debris (talus), for example in mountainous or rugged terrain. Often occurs as discrete fans or aprons below crags, cliffs, and steep escarpments.
 
 ### Management and drivers
 
-*Dense scrub may be maintained by:*
-- Reduced grazing pressure
-- Woodland succession
-- We have no money!!!!!
-- Conservation management for species diversity
+The structure and extent are influenced by:
+
+* Natural instability (freeze-thaw, rockfall, slope processes)
+* Increased erosion linked to extreme rainfall and storms (climate-driven)
+* Atmospheric pollution effects on rock weathering
+* Footfall pressure (path lines, shortcuts) destabilising slopes
+* Grazing pressure affecting vegetation that might stabilise edges
+* Management of nearby land (burning/grazing) affecting erosion inputs
 
 ## Useful Links
 

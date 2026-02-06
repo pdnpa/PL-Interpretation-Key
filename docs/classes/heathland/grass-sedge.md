@@ -1,6 +1,6 @@
 ---
 code: d2a
-title: Grass/sedge moorland
+title: Grass/sedge moorland (Degraded)
 parent: d
 ukhab: b1
 status: draft

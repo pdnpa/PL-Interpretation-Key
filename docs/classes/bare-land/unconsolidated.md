@@ -62,15 +62,19 @@ associated_habitats:
 
 ## In Protected Landscapes
 
-*where and which PL's this is likely found*
+Occurs widely, especially near coasts, rivers, estuaries, and dynamic shorelines; includes sand/mud/shingle surfaces depending on location.
 
 ### Management and drivers
 
-*Dense scrub may be maintained by:*
-- Reduced grazing pressure
-- Woodland succession
-- We have no money!!!!!
-- Conservation management for species diversity
+The structure and extent are influenced by:
+
+* Sediment supply and transport by wind/water
+* Tidal and river flow dynamics
+* Storm events and extreme rainfall/flooding
+* Coastal and river engineering/defences altering movement
+* Dredging and sediment management
+* Recreational trampling and vehicle access
+
 
 ## Useful Links
 

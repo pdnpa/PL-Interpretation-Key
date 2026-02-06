@@ -1,12 +1,12 @@
 ---
-code: s3
-title: Bracken
-parent: d
-ukhab: 	glc
+code: c6
+title: Dense scrub
+parent: s
+ukhab: h3
 status: draft
 description: >
-  Areas are covered by at least ???% Bracken (Pteridium aquilinum). Variable in colour and appearance, it appears bright green and bushy in the summer, but russet-brown when the plant material has died.
-subclasses: []
+  reas of scrub which contain multiple different species, with no one species dominating. Alternatively, areas of scrub dominated by a single species which isn’t Gorse (c6a).
+subclasses: [c6a]
 associated_habitats:
   - "To be confirmed with Landscapes"
 
@@ -21,10 +21,10 @@ associated_habitats:
 ---
 
 <figure class="interp-figure">
-  <img src="../../../assets/images/scrubland/s3.png" alt="{{ title }} ({{ code }})">
+  <img src="../../../assets/images/scrubland/s1a.jpg" alt="{{ title }} ({{ code }})">
   <figcaption>
-    Bracken on a moorland slope displaying last years residue of dead plant material.  
-    <br><small>Image: CC-BY, Peak District National Park Chris Gilbert</small>
+    Mixed scrub edge with rough grassland.  
+    <br><small>Image: CC-BY, Clive Perrin</small>
   </figcaption>
 </figure>
 
@@ -65,22 +65,26 @@ associated_habitats:
 ## Overlap with other classes
 
 !!! warning "Potential confusion with related classes"
-    - [e2a Acid grassland](../grassland/acid.md)
-    - [d2 Grass–sedge moorland](../heathland/grass-sedge.md)
+    - [c1 Broadleaved woodland](../woodland/broadleaved.md)
+    - [e2 Rough grassland](../grassland/rough.md)
 
 ---
 
 ## In Protected Landscapes
 
-*where and which PL's this is likely found*
+Abundant across protected landscapes, typically occurring in small patches and as part of mosaics with heathland, grassland, dunes, woodland edges, and disturbed ground. Extent and species composition are highly variable between landscapes and even within sites.
 
 ### Management and drivers
 
-*Dense scrub may be maintained by:*
-- Reduced grazing pressure
-- Woodland succession
-- We have no money!!!!!
-- Conservation management for species diversity
+The structure and extent are influenced by:
+
+* Grazing pressure and livestock type
+* Cutting and rotational cutting regimes
+* Intensity of management vs natural succession to woodland
+* Disturbance creating regeneration opportunities
+* Fire history and control burning (where relevant)
+* Invasive species and competitive dominance
+* Recreation pressure (trampling can open patches or damage edges)
 
 ## Useful Links
 

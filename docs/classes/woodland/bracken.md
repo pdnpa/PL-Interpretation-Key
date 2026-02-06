@@ -1,11 +1,11 @@
 ---
-code: s1a
-title: Mixed dense scrub
-parent: s1
-ukhab: h3
+code: c8
+title: Bracken
+parent: d
+ukhab: 	glc
 status: draft
 description: >
-  Areas of scrub which contain multiple different species, with no one species dominating. Alternatively, areas of scrub dominated by a single species which isn’t Gorse (s1b).
+  Areas are covered by at least ???% Bracken (Pteridium aquilinum). Variable in colour and appearance, it appears bright green and bushy in the summer, but russet-brown when the plant material has died.
 subclasses: []
 associated_habitats:
   - "To be confirmed with Landscapes"
@@ -21,10 +21,10 @@ associated_habitats:
 ---
 
 <figure class="interp-figure">
-  <img src="../../../assets/images/scrubland/s1a.jpg" alt="{{ title }} ({{ code }})">
+  <img src="../../../assets/images/scrubland/s3.png" alt="{{ title }} ({{ code }})">
   <figcaption>
-    Mixed scrub edge with rough grassland.  
-    <br><small>Image: CC-BY, Clive Perrin</small>
+    Bracken on a moorland slope displaying last years residue of dead plant material.  
+    <br><small>Image: CC-BY, Peak District National Park Chris Gilbert</small>
   </figcaption>
 </figure>
 
@@ -65,21 +65,26 @@ associated_habitats:
 ## Overlap with other classes
 
 !!! warning "Potential confusion with related classes"
-    - [c1 Broadleaved woodland](../woodland/broadleaved.md)
+    - [e2a Acid grassland](../grassland/acid.md)
+    - [d2 Grass–sedge moorland](../heathland/grass-sedge.md)
 
 ---
 
 ## In Protected Landscapes
 
-*where and which PL's this is likely found*
+Widespread throughout the UK but tends to form larger, more continuous stands in upland and upland-fringe protected landscapes, particularly in Wales, Scotland, and parts of south-west England. Often intermingled with heath, rough grassland, and woodland edges, and can be prominent in some large protected landscapes.
 
 ### Management and drivers
 
-*Dense scrub may be maintained by:*
-- Reduced grazing pressure
-- Woodland succession
-- We have no money!!!!!
-- Conservation management for species diversity
+The structure and extent are influenced by:
+
+* Grazing pressure and livestock type (and undergrazing allowing spread)
+* Control methods (spraying, bruising/rolling, cutting)
+* Cutting frequency and timing over multiple years
+* Trampling by cattle and wildlife altering patch structure
+* Soil conditions and disturbance (rhizome spread)
+* Succession dynamics with scrub/woodland edges
+* Climate change effects on growing season and vigour
 
 ## Useful Links
 

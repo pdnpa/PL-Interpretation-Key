@@ -71,15 +71,20 @@ associated_habitats:
 
 ## In Protected Landscapes
 
-*where and which PL's this is likely found*
+Widespread across most protected landscapes; composition varies with region, soils, and management history.
 
 ### Management and drivers
 
-*Dense scrub may be maintained by:*
-- Reduced grazing pressure
-- Woodland succession
-- We have no money!!!!!
-- Conservation management for species diversity
+The structure and extent are influenced by:
+
+* Woodland management system (coppice, high forest, continuous cover)
+* Grazing/browsing pressure (deer, livestock) affecting regeneration
+* Planting vs natural regeneration and species choice
+* Invasive species and deer control measures
+* Tree disease and pest outbreaks
+* Storm damage and drought stress linked to climate
+* Forestry policy, permissions, and protected site constraints
+* Recreation pressure and path/edge disturbance
 
 ## Useful Links
 

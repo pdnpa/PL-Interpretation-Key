@@ -61,15 +61,19 @@ associated_habitats:
 
 ## In Protected Landscapes
 
-*where and which PL's this is likely found*
+Scattered across landscapes near plantations, shelterbelts, gardens, and occasional isolated plantings.
 
 ### Management and drivers
 
-*Dense scrub may be maintained by:*
-- Reduced grazing pressure
-- Woodland succession
-- We have no money!!!!!
-- Conservation management for species diversity
+The structure and extent are influenced by:
+
+* Planting and removal decisions (amenity/shelterbelt management)
+* Storm damage and wind exposure
+* Disease/pest pressure and preventative felling
+* Succession and natural regeneration near plantations
+* Fire risk in dry periods
+* Development/road safety management near infrastructure
+* Grazing/browsing impacts on regeneration
 
 ## Useful Links
 

@@ -72,7 +72,7 @@ associated_habitats:
 
 ## In Protected Landscapes
 
-Occurs in limited lowland areas where deep peat has formed; present in some protected landscapes but generally rare and highly protected/fragmented.
+Relatively rare and localised; present where deep lowland peat domes remain intact or under restoration.
 
 ### Management and drivers
 

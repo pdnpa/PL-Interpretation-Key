@@ -101,15 +101,19 @@ associated_habitats:
 
 ## In Protected Landscapes
 
-*where and which PL's this is likely found*
+A fairly rare and localised coastal habitat, therefore only found in protected landscapes with suitable shingle shorelines. Occurs where shingle is stable enough to support vegetation, often as narrow bands or patches above the strandline.
 
 ### Management and drivers
 
-*Dense scrub may be maintained by:*
-- Reduced grazing pressure
-- Woodland succession
-- We have no money!!!!!
-- Conservation management for species diversity
+The structure and extent are influenced by:
+
+* Storms, wave action, and currents moving shingle
+* Sediment supply and coastal geomorphology
+* Coastal defences and engineering altering mobility and deposition
+* Shingle extraction/removal for management or construction
+* Trampling/recreation pressure and access routes
+* Succession dynamics (often slow, easily disturbed)
+*  Sea-level rise and changing storm patterns (climate-driven)
 
 ## Useful Links
 

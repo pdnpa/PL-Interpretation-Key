@@ -48,3 +48,5 @@ subclasses: [c1, c1a, c1b, c2, c2a, c2b, c4, c5]
 
 *useufl links to open data to help with interpretation e.g. FC Woodland Data or OS or CEH*
 
+Woody scrub species, associated with woodland or transitions to woodland in grassland or heathland habitats. Either having a diffuse boundary with a mix of woody shrubs and trees <5 m in height (with grasses) or in dense patches. These areas can be found within woodland or on the edges of woodland, maintained by grazing or as part of a natural succession to woodland. Includes patches of dense scrub with clear boundaries on heathland, e.g. gorse. Mature tree canopies should be digitised out. This class is separated from the (woodland/heathland/grassland) hierarchy as distinct landscape features.
+subclasses: [s1, s1a, s1b, s2]

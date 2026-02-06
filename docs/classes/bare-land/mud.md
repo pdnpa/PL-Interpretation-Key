@@ -61,15 +61,19 @@ associated_habitats:
 
 ## In Protected Landscapes
 
-*where and which PL's this is likely found*
+Found near water in sheltered coastal/estuarine settings (mudflats) and along lowland rivers, lakes, and wetland margins where fine sediments settle. Therefore present in coastal protected landscapes and also in inland protected landscapes with slow-flowing waters, floodplains, and sediment-rich margins.
 
 ### Management and drivers
 
-*Dense scrub may be maintained by:*
-- Reduced grazing pressure
-- Woodland succession
-- We have no money!!!!!
-- Conservation management for species diversity
+The structure and extent are influenced by:
+
+* Tidal regime and river flow controlling deposition/erosion
+* Sediment supply from catchments and estuaries
+* Dredging and navigation/channel management
+* Coastal/river engineering and defences altering hydrodynamics
+* Nutrient enrichment affecting biofilms/vegetation colonisation
+* Trampling/disturbance (people, livestock, wildlife) resuspending sediment
+* Sea-level rise and storminess shifting mudflat extent (climate-driven)
 
 ## Useful Links
 

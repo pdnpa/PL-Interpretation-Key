@@ -61,15 +61,19 @@ associated_habitats:
 
 ## In Protected Landscapes
 
-*where and which PL's this is likely found*
+Less common than broadleaved hedgerow trees; occurs where conifers were planted as shelterbelts/standards.
 
 ### Management and drivers
 
-*Dense scrub may be maintained by:*
-- Reduced grazing pressure
-- Woodland succession
-- We have no money!!!!!
-- Conservation management for species diversity
+The structure and extent are influenced by:
+
+* Hedgerow cutting/laying impacts on young conifers
+* Shelterbelt planting and maintenance choices
+* Wind damage and exposure on boundaries
+* Removal for landscape character or agricultural access
+* Disease/pest outbreaks and biosecurity
+* Browsing pressure on regeneration
+* Development and infrastructure constraints on boundary trees
 
 ## Useful Links
 
