@@ -43,6 +43,7 @@ nav:
       - Overview: guidance/data.md
       - Digitising rules: guidance/digitising-rules.md
       - Thresholds: guidance/thresholds.md
+      - Shadow: guidance/shadow.md
       - QA checks: guidance/qa.md
   - Classes:
     - A Artificial land:
