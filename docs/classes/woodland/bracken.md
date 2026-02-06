@@ -36,14 +36,29 @@ associated_habitats:
 
 ## Identification criteria
 
-*This class should be mapped when:*
-- XXX vegetation <5 m tall covers >XX% of the polygon
-- Vegetation has clearly defined edges
-- Dominated by XXX rather than tree canopy
+This class should be mapped when:
+
+* Vegetation forms a dense, uniform fern-dominated canopy with a smooth/feathery texture
+* Patches often create large “blankets” with clear margins and minimal woody structure
+* Seasonal colour shifts may be visible (greener in summer, browner in senescence)
+* Bracken forms stands that differ from grass by texture and from scrub by lack of woody crowns
+
+This class commonly occurs:
+
+* On upland slopes and moorland edges
+* Intermixed with heathland, rough grassland, and woodland margins
+* On bracken-prone landscapes in western/northern areas and some southern heath systems
 
 ## Aerial Definition
 
-*examples of aerial photography annotations etc....*
+From aerial imagery, bracken typically appears as:
+
+* Dense, smooth-to-feathery vegetation surface forming large blankets on slopes/edges
+* Distinct texture from grass (less linear/short) and from scrub (less woody clumping)
+* Strong seasonal colour shift: bright green in summer; rusty-brown/tan in late season/winter
+* Patch margins often follow slope, disturbance, and grazing patterns rather than field boundaries
+
+
 
 ---
 

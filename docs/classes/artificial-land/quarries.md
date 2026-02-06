@@ -23,14 +23,27 @@ subclasses: []
 
 ## Identification criteria
 
-*This class should be mapped when:*
-- XXX vegetation <5 m tall covers >XX% of the polygon
-- Vegetation has clearly defined edges
-- Dominated by XXX rather than tree canopy
+This class should be mapped when:
+
+* There are exposed mineral surfaces or disturbed ground with benches/faces, spoil, or pits
+* The site has sharp-edged extraction geometry, tracks, and bare/partly revegetated substrates
+* Water-filled pits, settlement ponds, or quarry lakes occur within disturbed margins
+* Vegetation is patchy/early-successional rather than continuous grass/scrub
+
+This class commonly occurs:
+
+* In landscapes with known quarrying/mining history or active extraction
+* As discrete sites with access tracks and perimeter boundaries
+* Adjacent to bare rock, bare ground, or newly planted/managed restoration areas
 
 ## Aerial Definition
 
-*examples of aerial photography annotations etc....*
+From aerial imagery, quarries and derelict land typically appears as:
+
+* Exposed mineral/soil surfaces with benches, faces, spoil heaps, or irregular pits
+* Strong textural variation (bare ground, rubble, track marks, brash) and disturbed geometry
+* Pools/settlement ponds or flooded pits with irregular shorelines in disturbed settings
+* Seasonal variability mainly through partial revegetation: greener in summer, more bare/contrasty in winter
 
 ## Overlap with other classes
 

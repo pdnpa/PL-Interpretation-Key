@@ -23,14 +23,28 @@ subclasses: []
 
 ## Identification criteria
 
-*This class should be mapped when:*
-- XXX vegetation <5 m tall covers >XX% of the polygon
-- Vegetation has clearly defined edges
-- Dominated by XXX rather than tree canopy
+This class should be mapped when:
+
+* The surface is predominantly artificial (buildings, roads, hardstanding, rail, paved areas)
+* Features have sharp, geometric edges and high contrast boundaries
+* Linear transport corridors (roads/rail) are clearly visible with consistent width
+* Vegetation cover is minor or fragmented within the mapped patch
+
+This class commonly occurs:
+
+* Around settlements, visitor centres, car parks and large laybys
+* Along major road/rail corridors crossing protected landscapes
+* At quarries, reservoirs, and utility sites where hardstanding is present
 
 ## Aerial Definition
 
-*examples of aerial photography annotations etc....*
+From aerial imagery, urban and transport typically appears as:
+
+* High-contrast, hard-edged geometric features (buildings, roads, rail, paving)
+* Smooth or uniform surfaces (tarmac/concrete) with sharp boundaries to vegetation
+* Linear corridors with consistent width (roads/rail) and junction patterns
+* Strong shadow signatures from buildings/bridges; minimal seasonal change compared with vegetation
+
 
 ## Overlap with other classes
 

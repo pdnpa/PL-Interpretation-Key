@@ -37,14 +37,28 @@ associated_habitats:
 
 ## Identification criteria
 
-*This class should be mapped when:*
-- XXX vegetation <5 m tall covers >XX% of the polygon
-- Vegetation has clearly defined edges
-- Dominated by XXX rather than tree canopy
+This class should be mapped when:
+
+* A peatland dome-like or extensive peat feature occurs in a lowland setting (not upland plateau mire)
+* Surface texture shows hummock/pool patterns or wetness mottling in a discrete block
+* The patch is distinct from surrounding land uses (often surrounded by farmland/forestry/drained margins)
+* Drainage grips or restoration bunds may be visible at 12.5 cm resolution in places
+
+This class commonly occurs:
+
+* In lowland peatland basins where raised bog remnants persist
+* As discrete blocks within agricultural or forestry landscapes
+* Adjacent to drained peat margins, scrub edges, or restoration works
 
 ## Aerial Definition
 
-*examples of aerial photography annotations etc....*
+From aerial imagery, raised bog typically appears as:
+
+* Discrete peatland blocks in lowland settings with wetness mottling and occasional pool patterns
+* Subtle hummock/pool texture and irregular margins, sometimes with drainage grips visible
+* Often surrounded by contrasting land use (farmland/forestry/drained peat margins)
+* Seasonal change: wetter winter conditions can enhance pool visibility; summer may show drought stress and increased tonal contrast
+
 
 ---
 

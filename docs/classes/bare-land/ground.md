@@ -26,14 +26,27 @@ associated_habitats:
 
 ## Identification criteria
 
-*This class should be mapped when:*
-- XXX vegetation <5 m tall covers >XX% of the polygon
-- Vegetation has clearly defined edges
-- Dominated by XXX rather than tree canopy
+This class should be mapped when:
+
+* The ground surface is exposed soil/substrate with minimal vegetation cover
+* Texture shows disturbance (tracks, erosion scars, scraped areas, poaching)
+* Patch boundaries may be irregular (erosion/disturbance) or geometric (construction)
+* The surface is not clearly sand/mud/shingle (use those where identifiable)
+
+This class commonly occurs:
+
+* On paths, tracks, construction sites, and heavily trampled recreation areas
+* In disturbed field corners, gateways, and livestock congregation zones
+* Within quarries, forestry coupes, and erosion-prone upland areas
 
 ## Aerial Definition
 
-*examples of aerial photography annotations etc....*
+From aerial imagery, bare ground typically appears as:
+
+* Exposed soil/substrate with minimal vegetation, showing fine disturbance textures
+* Track scars, erosion patches, construction/disturbance geometry, or poaching marks
+* Rapid change potential between dates (vegetation regrowth or fresh disturbance)
+* Seasonal change: often more extensive after drought/management/disturbance; greener encroachment in spring/summer
 
 ---
 

@@ -26,14 +26,28 @@ associated_habitats:
 
 ## Identification criteria
 
-*This class should be mapped when:*
-- XXX vegetation <5 m tall covers >XX% of the polygon
-- Vegetation has clearly defined edges
-- Dominated by XXX rather than tree canopy
+This class should be mapped when:
+
+* The parcel contains scattered mature fruit trees with irregular spacing (less regimented than intensive orchards)
+* Tree crowns may be larger and more variable, often with gaps and uneven distribution
+* Understorey is typically grassland and the parcel is small and patchy in the landscape
+* The pattern is distinct from parkland by context (orchard-like parcel shape, proximity to farms/villages)
+
+This class commonly occurs:
+
+* In lowland landscapes, often near villages and farmsteads
+* As small parcels embedded in pasture/cropland mosaics
+* In regions with historic orchard presence (often western/southern England)
 
 ## Aerial Definition
 
-*examples of aerial photography annotations etc....*
+From aerial imagery, traditional orchard typically appears as:
+
+* Scattered mature tree crowns within a small parcel, often less regular than intensive orchards
+* Variable crown sizes and spacing, sometimes with gaps or irregular alignment
+* Grass understorey with subtle management patterns (mown strips or grazed appearance)
+* Seasonal canopy change (leaf-off makes spacing/irregularity clearer), while orchard parcel shape remains consistent
+
 
 ---
 

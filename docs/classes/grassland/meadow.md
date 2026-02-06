@@ -47,31 +47,30 @@ Meadows are distinguished not by soil type alone, but by **management**, typical
 
 ## Identification criteria
 
-This class should be mapped when **all** of the following apply:
+This class should be mapped when:
 
-- Vegetation forms a **closed grassland sward**
-- Grassland occurs on **lowland or upland fringe landscapes** (but not open moorland)
-- Sward texture is **more heterogeneous** than improved grassland
-- There is **no strong evidence** of calcareous or acidic grassland dominance
-- Scrub and trees do not form the dominant canopy
+* Grassland has a semi-natural, non-uniform texture but lacks strong acid/calcareous context clues
+* Fields may show hay meadow structure: taller sward with cut patterns later in season
+* The parcel often appears less intensively managed than improved grass but more coherent than rough grass
+* It is typically enclosed and field-based, sometimes with subtle ridge/furrow or traditional boundaries
 
 This class commonly occurs:
-- Within enclosed agricultural landscapes
-- As fields managed for grazing or hay
-- In mosaics with hedgerows, scrub, or wet grassland features
+
+* In traditional hay meadow landscapes and low-input pastures
+* In valley bottoms and gentle slopes within farmed mosaics
+* As small parcels near hedgerow networks and older field systems
 
 ---
 
 ## Aerial definition
 
-From aerial or satellite imagery, neutral grassland and meadow typically appears as:
+From aerial imagery, neutral grassland/meadow typically appears as:
 
-- Even to moderately uneven grassland texture
-- Variable colour tones reflecting mixed species composition
-- Clear field boundaries and agricultural context
-- Seasonal cut patterns may be visible, but are **not required** for classification
+* Semi-natural enclosed fields with more internal texture than improved grassland but less “coarse” than rough grass
+* Hay meadow cues: taller sward and later-season cut patterns (broad cut then aftermath)
+* Often embedded in older field systems with hedgerows and irregular parcel shapes
+* Seasonal change: strong differences between pre-cut (taller textured) and post-cut (smooth aftermath) phases
 
-Where meadow management is uncertain, grassland should still be mapped within this class.
 
 ---
 

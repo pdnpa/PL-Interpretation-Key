@@ -26,14 +26,28 @@ associated_habitats:
 
 ## Identification criteria
 
-*This class should be mapped when:*
-- XXX vegetation <5 m tall covers >XX% of the polygon
-- Vegetation has clearly defined edges
-- Dominated by XXX rather than tree canopy
+This class should be mapped when:
+
+* Exposed bedrock forms continuous surfaces or outcrops with little to no soil cover
+* The surface has hard, high-contrast texture with fissures, ledges, or cliff faces
+* Vegetation is sparse and limited to cracks/ledges (if present)
+* The feature is not loose material (scree) but solid rock exposure
+
+This class commonly occurs:
+
+* On upland crags, cliff lines, tors, and escarpments
+* Along coastal cliffs and rocky shorelines
+* In river gorges or steep valley sides with outcrops
 
 ## Aerial Definition
 
-*examples of aerial photography annotations etc....*
+From aerial imagery, bare rock typically appears as:
+
+* Hard, high-contrast surfaces with fractures, ledges, and consistent rock texture
+* Cliff faces and outcrops with sharp edges and strong shadowing on steep relief
+* Minimal seasonal change compared with vegetated habitats
+* Lichen/moss staining may subtly alter tone, but rock structure remains dominant
+
 
 ---
 

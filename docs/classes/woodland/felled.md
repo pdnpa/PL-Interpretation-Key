@@ -36,14 +36,28 @@ associated_habitats:
 
 ## Identification criteria
 
-*This class should be mapped when:*
-- XXX vegetation <5 m tall covers >XX% of the polygon
-- Vegetation has clearly defined edges
-- Dominated by XXX rather than tree canopy
+This class should be mapped when:
+
+* A former woodland compartment shows bare soil/brash, stumps, or strong ground texture from felling
+* Young trees appear as fine, evenly spaced dots/rows or very low uniform vegetation cover
+* Coupe boundaries are sharp and geometric, often matching forestry compartment edges
+* Forest tracks, loading bays, or brash lines are visible within the coupe
+
+This class commonly occurs:
+
+* Within commercial forestry blocks in upland and upland fringe landscapes
+* Adjacent to mature conifer compartments (strong contrast between coupe and standing forest)
+* Along forest road networks and compartment boundaries
 
 ## Aerial Definition
 
-*examples of aerial photography annotations etc....*
+From aerial imagery, clear felled/newly planted typically appears as:
+
+* Bare/brashy surfaces with high texture (brash lines, stumps, extraction tracks)
+* Sharp coupe boundaries matching forestry compartments
+* Newly planted areas may show faint dot/row planting patterns and very low vegetation height
+* Seasonal differences often show revegetation flush: greener ground cover in spring/summer; more visible brash/soil in winter
+
 
 ---
 

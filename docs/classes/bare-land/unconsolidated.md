@@ -26,14 +26,27 @@ associated_habitats:
 
 ## Identification criteria
 
-*This class should be mapped when:*
-- XXX vegetation <5 m tall covers >XX% of the polygon
-- Vegetation has clearly defined edges
-- Dominated by XXX rather than tree canopy
+This class should be mapped when:
+
+* The surface is bare, loose sediment (not solid rock), often with ripples/bars or smooth flats
+* The patch is associated with water or coastal processes (bars, flats, beaches)
+* Sediment texture is visible but not clearly classifiable as sand, mud, or shingle
+* Boundaries often shift with channels, tides, or seasonal flow changes
+
+This class commonly occurs:
+
+* Along river bars, lake margins, and estuarine flats
+* On dynamic coastal margins where sediment moves frequently
+* Adjacent to sand/mud/shingle zones in mixed sediment systems
 
 ## Aerial Definition
 
-*examples of aerial photography annotations etc....*
+From aerial imagery, unconsolidated bare ground typically appears as:
+
+* Bare sediment surfaces linked to water/coastal dynamics (bars, flats, margins)
+* Mixed textures that are neither clearly sand, mud, nor shingle at mapping confidence
+* Shapes that follow channels, tides, or deposition patterns rather than stable boundaries
+* Seasonal change: extent can shift with water levels, floods, tides, and storms
 
 ---
 

@@ -40,31 +40,32 @@ Upland heath is characterised by the dominance of dwarf shrubs such as heather (
 
 ## Identification criteria
 
-This class should be mapped when all of the following apply:
+This class should be mapped when:
 
-* Vegetation is dominated by dwarf shrubs
-* Habitat occurs within open or weakly enclosed moorland landscapes
-* Vegetation forms extensive or semi-continuous cover
-* Grass or sedge components are secondary to shrub cover
+* Dwarf shrubs (e.g., heather-type cover) form extensive or semi-continuous vegetation
+* Vegetation texture is fine and uniform compared with scrub, and less grassy than acid grass moor
+* Habitat occurs in open unenclosed upland settings (moorland context)
+* The patch forms larger blocks and mosaics with bog/acid grass rather than enclosed fields
 
-This class may occur:
+This class commonly occurs:
 
-* On slopes, plateaus, and ridges
-* In mosaics with blanket bog, grass–sedge moorland, or bracken
-* In both managed and unmanaged moorland systems
+* On upland plateaus and slopes within open moorland landscapes
+* In mosaics with blanket bog/upland mire, acid grassland, and bracken
+* Adjacent to upland grass moor or degraded moorland where management varies
 
 ---
 
 ## Aerial Definition
-From aerial or satellite imagery, upland heath typically appears as:
 
-* Mottled or textured vegetation with fine-grained patterning
-* Distinct tonal variation reflecting shrub dominance
-* Irregular boundaries aligned with topography rather than field systems
-* Seasonal colour variation, often browner or purpler outside peak growing season
+From aerial imagery, upland heath typically appears as:
 
+* Semi-continuous dwarf shrub cover with fine, even texture across open moorland
+* Broad blocks and mosaics rather than field-parcel patterns
+* Tonal variation linked to burn age/management: a patchwork of darker and lighter heath
+* Seasonal change: can look darker/browner outside peak growing season; structure remains consistent in open upland context
 
-*examples of aerial photography annotations etc....*
+Where imagery is ambiguous, use landscape context (open unenclosed moorland, adjacency to bog/acid grass, elevation) to support interpretation.
+
 
 ---
 

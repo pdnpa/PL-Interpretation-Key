@@ -36,14 +36,29 @@ associated_habitats:
 
 ## Identification criteria
 
-*This class should be mapped when:*
-- XXX vegetation <5 m tall covers >XX% of the polygon
-- Vegetation has clearly defined edges
-- Dominated by XXX rather than tree canopy
+This class should be mapped when:
+
+* Dune landforms are visible (ridges, blowouts, dune slacks) with sandy substrate context
+* Vegetation ranges from sparse (foredunes) to more fixed dunes, but landform structure is evident
+* The system lies landward of a sandy beach with clear coastal context
+* Patterns show wind-shaped forms rather than flat sand alone
+
+This class commonly occurs:
+
+* Behind sandy beaches on exposed or moderately sheltered coasts
+* In dune complexes with blowouts and dune slack hollows
+* Adjacent to beach sand, dune scrub, and coastal grass mosaics
 
 ## Aerial Definition
 
-*examples of aerial photography annotations etc....*
+From aerial imagery, sand dunes typically appears as:
+
+* Distinct dune landforms (ridges, hummocks, blowouts) with coastal sand context
+* A gradient from bare/patchy foredunes to more vegetated fixed dunes inland
+* Wind-shaped patterns and irregular boundaries that follow geomorphology rather than field edges
+* Seasonal change: vegetation greenness fluctuates, but dune landforms remain visible; storm events can create fresh blowouts
+
+
 
 ---
 

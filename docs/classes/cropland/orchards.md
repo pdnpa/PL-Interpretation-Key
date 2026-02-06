@@ -36,14 +36,28 @@ associated_habitats:
 
 ## Identification criteria
 
-*This class should be mapped when:*
-- XXX vegetation <5 m tall covers >XX% of the polygon
-- Vegetation has clearly defined edges
-- Dominated by XXX rather than tree canopy
+This class should be mapped when:
+
+* Trees are planted in regular spacing or rows within a defined parcel
+* Individual tree crowns are visible and repeated evenly across the field
+* Understorey is grass (often) with a consistent orchard grid pattern
+* The parcel is distinct from woodland (tree crowns separated, not continuous canopy)
+
+This class commonly occurs:
+
+* In lowland farmed landscapes and traditional orchard regions
+* As small parcels near villages and farmsteads
+* On valley sides or gentle slopes with access tracks
 
 ## Aerial Definition
 
-*examples of aerial photography annotations etc....*
+From aerial imagery, orchards typically appears as:
+
+* Repeated individual tree crowns in a regular grid or rows within a single parcel
+* Crown size fairly consistent; understorey often grass with visible mowing/grazing patterns
+* Distinct from woodland by visible spacing between crowns (not continuous canopy)
+* Seasonal change can be strong: blossom is not reliably visible, but canopy fullness peaks in summer and thins in winter (revealing spacing more clearly)
+
 
 ---
 

@@ -26,14 +26,27 @@ associated_habitats:
 
 ## Identification criteria
 
-*This class should be mapped when:*
-- XXX vegetation <5 m tall covers >XX% of the polygon
-- Vegetation has clearly defined edges
-- Dominated by XXX rather than tree canopy
+This class should be mapped when:
+
+* Conifer crowns occur as isolated individuals aligned with a boundary/hedge line
+* Trees sit within a hedgerow/shelterbelt context but remain distinct individuals
+* The boundary is linear and field-based (not a woodland edge)
+* Crown tone/shape is conifer-like and consistent with planted standards
+
+This class commonly occurs:
+
+* Along shelterbelts or windbreak boundaries in exposed farmland
+* Near plantations where conifers have been retained as standards
+* In mixed lowland/upland fringe mosaics with hedges and small blocks of planting
 
 ## Aerial Definition
 
-*examples of aerial photography annotations etc....*
+From aerial imagery, conifer hedgerow trees typically appears as:
+
+* Individual, darker evergreen crowns aligned along a boundary/hedge line
+* Discrete tree points rather than a continuous woodland strip
+* Year-round canopy presence (less seasonal change than broadleaved standards)
+* Often associated with shelterbelt boundaries in exposed farmland or upland fringes
 
 ---
 

@@ -35,14 +35,28 @@ associated_habitats:
 
 ## Identification criteria
 
-*This class should be mapped when:*
-- XXX vegetation <5 m tall covers >XX% of the polygon
-- Vegetation has clearly defined edges
-- Dominated by XXX rather than tree canopy
+This class should be mapped when:
+
+* Low-lying coastal fields show ditch networks and water management structure
+* The landscape is highly managed and parcelled, often behind sea defences
+* Grassland dominates, often with wet patches, but field pattern and drainage are key cues
+* The setting is coastal/estuarine with tidal influence nearby
+
+This class commonly occurs:
+
+* Behind sea walls or embankments on reclaimed marshland
+* Around estuaries and coastal floodplains with ditch grids
+* Adjacent to saltmarsh, tidal creeks, and coastal settlements/roads
 
 ## Aerial Definition
 
-*examples of aerial photography annotations etc....*
+From aerial imagery, coastal grazing marsh typically appears as:
+
+* Enclosed, low-lying coastal fields with visible ditch networks and water control patterns
+* A managed grassland matrix (often uniform at field scale) but with strong drainage geometry
+* Proximity to sea defences/embankments and estuarine/coastal setting is a key cue
+* Seasonal change: winter wetness can highlight ditches and waterlogging; summer shows drier fields and mowing/grazing signatures
+
 
 ---
 

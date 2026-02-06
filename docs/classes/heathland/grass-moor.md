@@ -50,6 +50,7 @@ This class should be mapped when:
 * Dwarf shrubs are sparse or absent
 * Habitat occurs within open or weakly enclosed moorland landscapes
 * Vegetation forms extensive or semi-continuous cover
+* The patch intergrades with heath/bog but remains predominantly grassy/segde
 
 This class commonly occurs:
 
@@ -59,14 +60,13 @@ This class commonly occurs:
 
 ## Aerial Definition
 
-From aerial imagery, Molinia–sedge moorland typically appears as:
+From aerial imagery, upland acid grass/tussock moor typically appears as:
 
-* Smooth or softly textured vegetation relative to heath
-* Broad, continuous swards with limited fine-scale patterning
-* Seasonal colour change, often showing pale or straw tones outside the growing season
-* Boundaries aligned with moisture gradients or topography
+* Tussocky, uneven grass texture with patchy tones across unenclosed upland areas
+* Less uniform and “short” than improved pasture; less shrubby than heath
+* Often interwoven with bracken patches, bog margins, and heath fragments
+* Seasonal change: tussock pattern persists; colour shifts from green (growing season) to straw/brown (winter)
 
-Species composition (e.g. Molinia dominance) cannot be confirmed reliably from imagery alone.
 
 *examples of aerial photography annotations etc....*
 

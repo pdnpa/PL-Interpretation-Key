@@ -23,10 +23,16 @@ subclasses: []
 
 ## Identification criteria
 
-*This class should be mapped when:*
-- XXX vegetation <5 m tall covers >XX% of the polygon
-- Vegetation has clearly defined edges
-- Dominated by XXX rather than tree canopy
+This class should be mapped when:
+
+* The land cover cannot be confidently assigned to another class at 12.5 cm resolution
+* The image is affected by shadow, glare, haze, water reflection, or occlusion
+* The feature is temporary/ambiguous (e.g., recent disturbance, partial flooding) without clear cues
+
+This class commonly occurs:
+
+* Along boundaries between habitats where mixed pixels/edge effects dominate
+* In areas of rapid change (construction, ploughing, storm impacts) between image dates
 
 ## Aerial Definition
 

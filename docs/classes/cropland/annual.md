@@ -36,14 +36,27 @@ associated_habitats:
 
 ## Identification criteria
 
-*This class should be mapped when:*
-- XXX vegetation <5 m tall covers >XX% of the polygon
-- Vegetation has clearly defined edges
-- Dominated by XXX rather than tree canopy
+This class should be mapped when:
+
+* Large fields show visible crop rows, drilling lines, or stubble patterns
+* The surface texture is uniform within a field, often with strong directional lineation
+* Seasonal signatures occur (bare soil, emerging crop, mature crop, harvested stubble)
+* Field boundaries are well-defined and typically rectilinear in lowlands
+
+This class commonly occurs:
+
+* In lowland protected landscapes and their fringes with arable farming
+* On flatter or gently rolling ground with large field units
+* Adjacent to improved grassland, hedgerows, and farm infrastructure
 
 ## Aerial Definition
 
-*examples of aerial photography annotations etc....*
+From aerial imagery, annual crops typically appears as:
+
+* Large fields with uniform texture and strong directional lineation (drill rows, tramlines, stubble)
+* Marked seasonal change: bare soil (winter/spring), green crop (spring/summer), golden/patchy harvest (late summer), stubble (autumn)
+* Sharp field boundaries, often rectilinear in lowlands
+* Visible machinery patterns (tramlines, headlands) at 12.5 cm resolution
 
 ---
 

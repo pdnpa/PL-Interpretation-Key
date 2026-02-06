@@ -40,14 +40,28 @@ associated_habitats:
 
 ## Identification criteria
 
-*This class should be mapped when:*
-- XXX vegetation <5 m tall covers >XX% of the polygon
-- Vegetation has clearly defined edges
-- Dominated by XXX rather than tree canopy
+This class should be mapped when:
+
+* A linear water channel is visible with continuous flow path (meanders, riffles, pools)
+* Banks and channel margins are distinct from surrounding land cover
+* The feature connects through the landscape (network continuity) rather than isolated water
+* Gravel bars, riffles, or shaded corridors may indicate watercourse presence
+
+This class commonly occurs:
+
+* As headwater streams in upland landscapes and larger rivers in valleys
+* Along floodplains with meanders, side channels, or managed banks
+* Adjacent to wetland margins, riparian woodland, and grazing marsh
 
 ## Aerial Definition
 
-*examples of aerial photography annotations etc....*
+From aerial imagery, rivers and streams typically appears as:
+
+* Linear water channels with continuous connectivity through the landscape
+* Meanders, riffles/pools, and bank lines visible; gravel bars may be present
+* Variable width with shaded corridors (riparian trees) affecting visibility
+* Seasonal change: high flows may widen channels and increase turbidity; low flows can expose bars and margins
+
 
 ---
 

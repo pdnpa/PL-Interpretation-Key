@@ -28,14 +28,27 @@ associated_habitats:
 
 ## Identification criteria
 
-*This class should be mapped when:*
-- XXX vegetation <5 m tall covers >XX% of the polygon
-- Vegetation has clearly defined edges
-- Dominated by XXX rather than tree canopy
+This class should be mapped when:
+
+* Individual tree crowns are aligned along a hedge/boundary line at intervals
+* Trees sit within or immediately adjacent to a linear hedgerow feature
+* The crown line is discontinuous (trees as “standards”) rather than a continuous canopy
+* The boundary network context is obvious (field pattern with hedges)
+
+This class commonly occurs:
+
+* In lowland arable and pastoral landscapes with intact hedgerows
+* Along roadsides and field boundaries where hedge standards were retained
+* Around villages and mixed farming mosaics
 
 ## Aerial Definition
 
-*examples of aerial photography annotations etc....*
+From aerial imagery, broadleaved hedgerow trees typically appears as:
+
+* Individual tree crowns spaced along a hedgerow line (tree “standards” within boundaries)
+* Discontinuous crown pattern aligned with field edges or lanes
+* Seasonal change similar to broadleaved trees: leaf-on fuller/continuous feel; leaf-off more separated crowns
+* Often embedded in enclosed lowland field patterns with hedgerow networks
 
 ---
 

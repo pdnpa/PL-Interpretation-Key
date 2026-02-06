@@ -36,14 +36,29 @@ associated_habitats:
 
 ## Identification criteria
 
-*This class should be mapped when:*
-- XXX vegetation <5 m tall covers >XX% of the polygon
-- Vegetation has clearly defined edges
-- Dominated by XXX rather than tree canopy
+This class should be mapped when:
+
+* Tree canopy is continuous and forms a cohesive block (woodland patch)
+* Crown texture is “lumpy”/irregular and often more varied than conifers
+* Canopy edges are sinuous and naturalistic rather than strongly geometric
+* Internal canopy shows mixed tones and gaps typical of broadleaf structure
+
+This class commonly occurs:
+
+* On valley sides, riparian corridors, and estate woodlands
+* Around ancient woodland fragments and mixed farmland mosaics
+* In sheltered slopes and lower elevations within protected landscapes
 
 ## Aerial Definition
 
-*examples of aerial photography annotations etc....*
+From aerial imagery, broadleaved woodland typically appears as:
+
+* Continuous canopy with irregular, “lumpy” crown texture and varied tones
+* Edges often sinuous and naturalistic rather than strictly geometric
+* Strong seasonal signal: leaf-on canopy is fuller/darker in summer; leaf-off can look lighter and more open with visible gaps
+* Woodland rides, glades, and edge transitions often visible as internal lines/openings
+
+
 
 ---
 

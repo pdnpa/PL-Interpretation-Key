@@ -36,14 +36,28 @@ associated_habitats:
 
 ## Identification criteria
 
-*This class should be mapped when:*
-- XXX vegetation <5 m tall covers >XX% of the polygon
-- Vegetation has clearly defined edges
-- Dominated by XXX rather than tree canopy
+This class should be mapped when:
+
+* Grassland occurs on acidic substrates with a relatively fine-to-tussocky texture
+* The patch is semi-natural in character (not uniform reseeded improved pasture)
+* It commonly forms mosaics with heath, bracken, and scrub rather than arable rotation
+* Overall tone may be varied, with patchiness reflecting microtopography and grazing
+
+This class commonly occurs:
+
+* On sandstone/gritstone/acidic drift landscapes and sandy lowlands
+* As lowland patches intermingled with heathland
+* In upland fringes as acid grass mosaics adjacent to heath and bog
 
 ## Aerial Definition
 
-*examples of aerial photography annotations etc....*
+From aerial imagery, acid grassland typically appears as:
+
+* Semi-natural grassland with variable tone and texture, often in mosaic with heath/bracken
+* Less uniform than improved grassland and lacking the strong scrubby texture of woody habitats
+* Patch shapes often follow soil/geology and topography rather than field boundaries (especially unenclosed areas)
+* Seasonal change: spring/summer greening with persistent patchiness; winter reveals tussock structure and thin soils more clearly
+
 
 ---
 

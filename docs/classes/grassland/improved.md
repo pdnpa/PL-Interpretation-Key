@@ -36,14 +36,28 @@ associated_habitats:
 
 ## Identification criteria
 
-*This class should be mapped when:*
-- XXX vegetation <5 m tall covers >XX% of the polygon
-- Vegetation has clearly defined edges
-- Dominated by XXX rather than tree canopy
+This class should be mapped when:
+
+* Grassland appears uniform, smooth, and bright/consistent in tone across a field parcel
+* Field boundaries are clearly enclosed and agricultural (hedges/walls/fences)
+* Management signatures are visible (silage cut patterns, tractor tramlines, grazing short sward)
+* There is little internal botanical/structural variation compared with rough or semi-natural grassland
+
+This class commonly occurs:
+
+* In farmed valleys, in-bye land, and lowland fringes
+* Around livestock units and silage-producing fields
+* Adjacent to arable, farmsteads, and improved pasture networks
 
 ## Aerial Definition
 
-*examples of aerial photography annotations etc....*
+From aerial imagery, improved grassland typically appears as:
+
+* Uniform, smooth sward texture within enclosed field parcels
+* Consistent tone across the field, often brighter green in growing season
+* Clear management signatures (silage cut stripes, grazing shortness, tramlines, poached gateways)
+* Strong seasonal change in cut patterns: visible mowing/harvest cycles and regrowth flushes
+
 
 ---
 

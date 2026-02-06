@@ -37,14 +37,29 @@ associated_habitats:
 
 ## Identification criteria
 
-*This class should be mapped when:*
-- XXX vegetation <5 m tall covers >XX% of the polygon
-- Vegetation has clearly defined edges
-- Dominated by XXX rather than tree canopy
+This class should be mapped when:
+
+* Standing water bodies are clearly visible (lakes, reservoirs, ponds, flooded pits)
+* Water surface appears smooth/dark with specular highlights depending on sun angle
+* Shorelines are distinct and separate from emergent wetland vegetation
+* The feature is not linear/flowing (use rivers and streams for channels)
+
+This class commonly occurs:
+
+* In reservoirs, upland tarns, lowland lakes and ponds
+* As quarry lakes and flooded pits within extraction landscapes
+* Adjacent to reedbeds, marsh/fen margins, and inflow/outflow channels
 
 ## Aerial Definition
 
-*examples of aerial photography annotations etc....*
+From aerial imagery, inland open water typically appears as:
+
+* Smooth, dark surfaces (or reflective highlights) with clear shorelines
+* Sharp contrast to surrounding vegetation, with wave texture occasionally visible
+* Seasonal change in extent for reservoirs and some lakes (drawdown margins, exposed banks)
+* Can occur in small pools a few meters across on Moorlands
+* Algal blooms/turbidity can change colour (green/brown) and reduce “dark water” appearance in summer
+
 
 ---
 

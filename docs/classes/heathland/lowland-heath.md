@@ -47,16 +47,16 @@ Lowland heath typically occurs in lowland landscapes where acidic soils, low nut
 
 This class should be mapped when:
 
-* Vegetation is dominated by dwarf shrubs (heather/heath-type structure)
-* Habitat occurs in a lowland setting (generally below the moorland zone and not within open upland moorland landscapes)
-* Heath forms patches or mosaics that are not simply small field-edge strips
-* Scrub and trees are not the dominant canopy (if scrub dominates, map as scrub class; if trees dominate, map as woodland)
+* Dwarf shrub heath forms semi-continuous cover in a lowland setting (often enclosed or partly enclosed)
+* Patches show a fine textured heath canopy distinct from grassland and scrub
+* Mosaic patterns include bare sand, acid grass, gorse, and scattered scrub typical of heath systems
+* The patch is not upland moor context (lower elevation, closer to lowland landscapes)
 
-Lowland heath commonly occurs:
+This class commonly occurs:
 
-* On heathy commons, sandy or gravelly soils, and lowland plateaus
-* As mosaics with acid grassland, bracken, wet heath and scrub
-* Adjacent to tracks, rides and disturbed ground where bare patches may occur
+* In lowland heathland complexes and on sandy/acidic soils
+* Adjacent to conifer plantations, acid grassland, and gorse scrub
+* In mosaics with tracks, firebreaks, and bare ground patches
 
 ---
 

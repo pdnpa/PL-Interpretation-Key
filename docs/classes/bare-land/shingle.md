@@ -26,14 +26,28 @@ associated_habitats:
 
 ## Identification criteria
 
-*This class should be mapped when:*
-- XXX vegetation <5 m tall covers >XX% of the polygon
-- Vegetation has clearly defined edges
-- Dominated by XXX rather than tree canopy
+This class should be mapped when:
+
+* The surface is coarse, stony material with a speckled/highly textured appearance
+* Individual stones/cobbles may be visible as granular texture at 12.5 cm
+* The patch forms ridges/banks/beaches typical of shingle structures
+* Vegetation is absent or minimal (if clear vegetation on stable shingle, map as vegetated shingle)
+
+This class commonly occurs:
+
+* On shingle beaches, bars, and ridges along the coast
+* At river gravel bars (where coarse gravel dominates)
+* Adjacent to sand/mud zones and coastal defence structures
 
 ## Aerial Definition
 
-*examples of aerial photography annotations etc....*
+From aerial imagery, shingle typically appears as:
+
+* Coarse, speckled/granular texture with visible stone/cobble patterning at 12.5 cm
+* Ridge-and-bank forms (storm berms, shingle spits) and sharply textured beaches
+* Distinct from sand by coarser grain and higher “salt-and-pepper” appearance
+* Seasonal change: storms can rework ridge shapes; wet shingle may darken but retains coarse texture
+
 
 ---
 

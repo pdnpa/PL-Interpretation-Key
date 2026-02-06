@@ -26,14 +26,27 @@ associated_habitats:
 
 ## Identification criteria
 
-*This class should be mapped when:*
-- XXX vegetation <5 m tall covers >XX% of the polygon
-- Vegetation has clearly defined edges
-- Dominated by XXX rather than tree canopy
+This class should be mapped when:
+
+* Regular row structures persist and are clearly “perennial” in layout (not seasonal)
+* Rows may include visible supports/trellises, bare strips, or grass alleys between lines
+* The block is consistent in geometry and often smaller than broad arable fields
+* The pattern repeats at high resolution (12.5 cm) as parallel lines across the parcel
+
+This class commonly occurs:
+
+* In sheltered lowland areas and horticultural zones
+* Near farm complexes and access tracks suitable for machinery
+* In blocks that remain consistent between image dates compared with annual arable
 
 ## Aerial Definition
 
-*examples of aerial photography annotations etc....*
+From aerial imagery, permanent crops typically appears as:
+
+* Persistent parallel row structure across years (vine/horticultural rows, cane fruit, etc.)
+* Regular spacing with bare strips or grass alleys between rows
+* Block geometry with consistent management patterns (access tracks, turning areas)
+* Seasonal change in greenness but row structure remains visible outside peak growth
 
 ---
 

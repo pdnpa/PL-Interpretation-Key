@@ -46,29 +46,30 @@ This class captures a range of grass–sedge dominated moorland expressions, inc
 
 This class should be mapped when:
 
-* Vegetation is dominated by grasses and/or sedges
-* Dwarf shrubs are sparse or absent
-* Habitat occurs within open or weakly enclosed moorland landscapes
-* Vegetation forms extensive or semi-continuous cover
+* Grassy cover shows tussocky texture and variable tones typical of upland acid grass mosaics
+* Dwarf shrubs are absent, but the setting remains unenclosed upland
+* The patch is not obviously improved (no field-scale uniform reseed appearance)
+* The area forms broad upland grass expanses rather than narrow rushy strips
+* The patch intergrades with heath/bog but remains predominantly grassy
 
 This class commonly occurs:
 
-* Along moorland slopes and plateaus
-* In association with flushes, damp ground, or degraded peat surfaces
-* Adjacent to upland heath or blanket bog
+* On unenclosed upland slopes, ridges, and plateaus on acidic substrates
+* In mosaics with upland heath, bracken, and bog margins
+* Around moorland edges where grazing/management shifts dominance to grasses
 
 ## Aerial Definition
 
-From aerial imagery, Molinia–sedge moorland typically appears as:
+From aerial imagery, degraded grass/sedge moor typically appears as:
 
-* Smooth or softly textured vegetation relative to heath
-* Broad, continuous swards with limited fine-scale patterning
-* Seasonal colour change, often showing pale or straw tones outside the growing season
-* Boundaries aligned with moisture gradients or topography
+* Predominantly grassy/sedge cover with limited dwarf shrub signal
+* More uniform than open mosaic, but often more mottled than improved grassland
+* Associated with wetness cues (dark patches, flush lines) and/or peat degradation nearby
+* Seasonal change: wet patches and sedge structure often clearer in winter; greener flush in summer
 
 Species composition (e.g. Molinia dominance) cannot be confirmed reliably from imagery alone.
 
-*examples of aerial photography annotations etc....*
+
 
 ---
 

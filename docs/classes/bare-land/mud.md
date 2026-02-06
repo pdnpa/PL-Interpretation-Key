@@ -26,14 +26,28 @@ associated_habitats:
 
 ## Identification criteria
 
-*This class should be mapped when:*
-- XXX vegetation <5 m tall covers >XX% of the polygon
-- Vegetation has clearly defined edges
-- Dominated by XXX rather than tree canopy
+This class should be mapped when:
+
+* The surface is smooth, dark, fine sediment with a flat appearance and minimal texture
+* Tidal creek patterns or drainage lines may be visible in intertidal settings
+* The patch is typically unvegetated (if vegetated in tidal zone, consider saltmarsh)
+* The setting is sheltered and low-energy (estuaries, backwaters, floodplain margins)
+
+This class commonly occurs:
+
+* On intertidal mudflats in estuaries and sheltered coasts
+* Along slow-flowing river edges and floodplain deposits
+* Adjacent to saltmarsh, tidal creeks, and shallow estuarine water
 
 ## Aerial Definition
 
-*examples of aerial photography annotations etc....*
+From aerial imagery, mud typically appears as:
+
+* Smooth, dark, fine sediment surfaces with low relief and subtle drainage textures
+* Creek networks and shallow channels in intertidal settings
+* Often appears glossy or streaked when wet; may show footprints/vehicle marks at high resolution
+* Seasonal change: extent shifts with tides, floods, and sediment deposition; wetness strongly affects tone
+
 
 ---
 

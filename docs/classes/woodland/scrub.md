@@ -36,14 +36,28 @@ associated_habitats:
 
 ## Identification criteria
 
-*This class should be mapped when:*
-- XXX vegetation <5 m tall covers >XX% of the polygon
-- Vegetation has clearly defined edges
-- Dominated by XXX rather than tree canopy
+This class should be mapped when:
+
+* Vegetation forms dense, low woody cover with irregular “bushy” texture (below woodland canopy height)
+* The patch is more textured and darker than grassland, but lacks continuous tree canopy
+* Edges are irregular and patchy, often forming transitional zones
+* Individual shrubs are not easily separable as trees; cover appears continuous at shrub height
+
+This class commonly occurs:
+
+* Along woodland edges, on abandoned land, and within heath/grass mosaics
+* On slopes, gullies, and field corners where management is light
+* In coastal systems, dunes, and disturbed ground where succession is occurring
 
 ## Aerial Definition
 
-*examples of aerial photography annotations etc....*
+From aerial imagery, scrub typically appears as:
+
+* Dense, low woody cover with a rough, bushy texture (not tall continuous canopy)
+* Irregular patch shapes and fuzzy edges, often forming transitional belts
+* Tonally darker and more textured than grassland, but not the coherent canopy of woodland
+* Seasonal change varies: some scrub leaf-off opens the texture; evergreen elements maintain darker patches year-round
+
 
 ---
 

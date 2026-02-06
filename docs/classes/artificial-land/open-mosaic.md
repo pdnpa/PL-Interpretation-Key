@@ -23,14 +23,26 @@ subclasses: []
 
 ## Identification criteria
 
-*This class should be mapped when:*
-- XXX vegetation <5 m tall covers >XX% of the polygon
-- Vegetation has clearly defined edges
-- Dominated by XXX rather than tree canopy
+* The patch shows a fine-grained “mosaic” of bare ground, sparse herb/grass, and scrub seedlings
+* Vegetation cover is discontinuous with mixed tones and textures (not uniform sward)
+* Ground disturbance features (rubble, track scars, scraped ground) are visible
+* The area is clearly previously developed/industrial or heavily disturbed (contextual clue)
+
+This class commonly occurs:
+
+* On brownfield land, former industrial sites, disused yards, tips, and edges of settlements
+* Along disturbed corridors (old rail sidings, utility works, construction spoil)
+* Near urban fringes where land is awaiting redevelopment or in regeneration
 
 ## Aerial Definition
 
-*examples of aerial photography annotations etc....*
+From aerial imagery, open mosaic typically appears as:
+
+* A fine-grained patchwork of bare ground, sparse herb/grass and scattered scrub seedlings
+* Mixed tones and textures within small areas (not a uniform sward or continuous scrub)
+* Disturbance features such as scraped ground, rubble texture, or track scars
+* Strong seasonal contrast: more green cover in spring/summer; barer and more heterogeneous in autumn/winter
+
 
 ## Overlap with other classes
 

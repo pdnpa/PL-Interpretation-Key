@@ -26,14 +26,28 @@ associated_habitats:
 
 ## Identification criteria
 
-*This class should be mapped when:*
-- XXX vegetation <5 m tall covers >XX% of the polygon
-- Vegetation has clearly defined edges
-- Dominated by XXX rather than tree canopy
+This class should be mapped when:
+
+* Dark peat surfaces are exposed with little vegetation cover, often with erosion scars or hags
+* Linear gullies, hag edges, and bare peat patches are visible in upland contexts
+* The patch occurs within peatland landscapes (mire/blanket bog context)
+* Surface shows instability/erosion rather than uniform vegetation cover
+
+This class commonly occurs:
+
+* On degraded upland peat plateaus and moor tops
+* Along eroding gullies, hag margins, and heavily used paths
+* Adjacent to upland mire/blanket bog and degraded grass/sedge moor areas
 
 ## Aerial Definition
 
-*examples of aerial photography annotations etc....*
+From aerial imagery, exposed peat typically appears as:
+
+* Dark brown/black bare surfaces within peatland landscapes, often with erosional hags and gullies
+* Sharp-edged scars, linear gully systems, and patchy bare zones among mire vegetation
+* Often associated with path erosion lines and degraded moor tops
+* Seasonal change: winter wetness can darken surfaces and highlight gullies; summer drought can expand bare areas and increase contrast
+
 
 ---
 

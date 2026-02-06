@@ -38,14 +38,28 @@ associated_habitats:
 
 ## Identification criteria
 
-*This class should be mapped when:*
-- XXX vegetation <5 m tall covers >XX% of the polygon
-- Vegetation has clearly defined edges
-- Dominated by XXX rather than tree canopy
+This class should be mapped when:
+
+* Intertidal vegetated surfaces occur within estuaries/sheltered coasts above mudflat zones
+* The patch shows creek networks and zonation bands typical of saltmarsh
+* Vegetation has a smooth-to-finely textured marsh surface (not dunes/scrub)
+* The area is clearly tidal, with regular inundation context and adjacent mud/sand flats
+
+This class commonly occurs:
+
+* In estuaries, sheltered bays, and behind barrier features
+* Adjacent to intertidal mudflats and tidal creeks
+* Landward of saltmarsh edges near sea walls or grazing marsh
 
 ## Aerial Definition
 
-*examples of aerial photography annotations etc....*
+From aerial imagery, saltmarsh typically appears as:
+
+* Intertidal vegetated plains with obvious creek networks and drainage patterns
+* Zonation bands or tonal gradation from seaward edge to landward edge
+* Smooth-to-finely textured vegetated surface distinct from dunes and from bare mudflats
+* Seasonal change: tone can shift with inundation/sediment and plant phenology; creek structure remains consistent
+
 
 ---
 

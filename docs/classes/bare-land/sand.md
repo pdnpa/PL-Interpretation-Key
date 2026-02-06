@@ -26,14 +26,28 @@ associated_habitats:
 
 ## Identification criteria
 
-*This class should be mapped when:*
-- XXX vegetation <5 m tall covers >XX% of the polygon
-- Vegetation has clearly defined edges
-- Dominated by XXX rather than tree canopy
+This class should be mapped when:
+
+* The surface is light-toned, fine-grained sediment forming beaches, dunes, or bars
+* Ripple marks, wind streaks, or smooth sandy texture is visible at 12.5 cm
+* Vegetation is absent or very sparse (if vegetated dune, map as sand dunes where relevant)
+* The patch is clearly sandy rather than stony (shingle) or smooth dark silt (mud)
+
+This class commonly occurs:
+
+* On beaches, dune systems, and sand flats along the coast
+* As river point bars or exposed sandy margins inland
+* Adjacent to dunes, intertidal zones, or shallow water edges
 
 ## Aerial Definition
 
-*examples of aerial photography annotations etc....*
+From aerial imagery, sand typically appears as:
+
+* Light-toned, fine-textured surfaces, often smooth with ripples or wind streaking
+* Beach/dune/bar forms with flowing edges and wind-shaped patterns
+* Distinct from mud (darker, smoother) and shingle (speckled/coarse)
+* Seasonal change: storm reshaping and water level changes can shift margins; wet sand may appear darker after rain/tides
+
 
 ---
 

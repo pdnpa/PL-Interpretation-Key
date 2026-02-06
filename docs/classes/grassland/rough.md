@@ -37,14 +37,28 @@ associated_habitats:
 
 ## Identification criteria
 
-*This class should be mapped when:*
-- XXX vegetation <5 m tall covers >XX% of the polygon
-- Vegetation has clearly defined edges
-- Dominated by XXX rather than tree canopy
+This class should be mapped when:
+
+* Grassland is structurally variable with mixed tones and a “coarser” texture than improved pasture
+* The sward appears taller/less intensively managed, often with patchiness
+* The parcel may be irregular and transitional (edges with scrub/bracken encroachment)
+* It is not clearly dwarf-shrub heath and not clearly rush-dominated wet grass
+
+This class commonly occurs:
+
+* As buffer or transition zones between improved pasture and heath/scrub/woodland
+* On slopes, field corners, unenclosed margins, and less-managed pastures
+* Along track margins and rough grazing land within protected landscapes
 
 ## Aerial Definition
 
-*examples of aerial photography annotations etc....*
+From aerial imagery, rough grassland typically appears as:
+
+* Coarser, more variable grass texture than improved pasture, with patchy tones
+* Taller/less intensively managed appearance, often with encroaching scrub/bracken edges
+* Irregular patches and transitional zones rather than uniform field-wide management
+* Seasonal change: becomes more straw/brown in winter and may show stronger tuft structure; summer shows mixed-height texture
+
 
 ---
 

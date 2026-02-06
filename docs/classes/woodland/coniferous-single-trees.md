@@ -26,14 +26,27 @@ associated_habitats:
 
 ## Identification criteria
 
-*This class should be mapped when:*
-- XXX vegetation <5 m tall covers >XX% of the polygon
-- Vegetation has clearly defined edges
-- Dominated by XXX rather than tree canopy
+This class should be mapped when:
+
+* Individual conifer crowns are isolated (often triangular/pointed crown form in imagery)
+* Trees are clearly separated from woodland blocks and not forming dense shelterbelts
+* Crown tone is typically darker and more uniform than broadleaf single trees
+* The surrounding land cover is dominant (grass/crop/heath) with trees as features
+
+This class commonly occurs:
+
+* Near plantations, farm shelterbelts, and amenity plantings
+* Around buildings, reservoirs, or trackside plantings
+* As occasional individuals in mixed landscapes
 
 ## Aerial Definition
 
-*examples of aerial photography annotations etc....*
+From aerial imagery, single conifer trees typically appears as:
+
+* Isolated, compact crowns (often more conical/pointed in texture) with strong shadows
+* Darker, more uniform tone than many broadleaved single crowns
+* Minimal seasonal change compared with broadleaf (evergreen signature)
+* Often near plantations, shelterbelts, buildings, or amenity plantings
 
 ---
 

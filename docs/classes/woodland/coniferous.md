@@ -36,14 +36,28 @@ associated_habitats:
 
 ## Identification criteria
 
-*This class should be mapped when:*
-- XXX vegetation <5 m tall covers >XX% of the polygon
-- Vegetation has clearly defined edges
-- Dominated by XXX rather than tree canopy
+This class should be mapped when:
+
+* Canopy block has a uniform texture and tone, often darker and more even than broadleaf
+* Stands may show plantation geometry (straight edges, blocks, internal ride grid)
+* Crowns appear tightly packed with less visible internal variation
+* Compartments/age classes may appear as adjacent blocks of slightly different tone
+
+This class commonly occurs:
+
+* In upland and upland-fringe protected landscapes with commercial forestry
+* On slopes/plateaus with clear compartment boundaries and forest roads
+* Adjacent to clearfell/new planting coupes and moorland margins
 
 ## Aerial Definition
 
-*examples of aerial photography annotations etc....*
+From aerial imagery, coniferous woodland typically appears as:
+
+* Uniform, dense canopy texture with consistent tone (often darker than broadleaf)
+* Straight-edged compartments and geometric blocks; forest road/ride grids may be visible
+* Less seasonal change than broadleaf: canopy remains comparatively consistent year-round
+* Adjacent age classes may appear as blocks of different texture/height (subtle tonal shifts)
+
 
 ---
 

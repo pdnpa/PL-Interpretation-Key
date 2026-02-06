@@ -26,14 +26,26 @@ associated_habitats:
 
 ## Identification criteria
 
-*This class should be mapped when:*
-- XXX vegetation <5 m tall covers >XX% of the polygon
-- Vegetation has clearly defined edges
-- Dominated by XXX rather than tree canopy
+* Narrow, linear stone/brick features form field boundaries or enclosures
+* Lines cast consistent thin shadows and create a clear boundary between land parcels
+* The structure is continuous and distinct from hedgerows (no broad green canopy line)
+* Wall lines follow field patterns, contour lines, or historic boundary networks
+
+This class commonly occurs:
+
+* In upland pastoral landscapes (e.g., drystone wall networks)
+* Around in-bye fields, farmsteads, and settlement edges
+* Along tracks and rights of way as boundary features
+
 
 ## Aerial Definition
 
-*examples of aerial photography annotations etc....*
+From aerial imagery, wall typically appears as:
+
+* Thin, linear boundary lines that are narrower than hedgerows and often grey/buff in tone
+* Consistent narrow shadows (depending on sun angle) and crisp, continuous alignment
+* A field-enclosure pattern, often contour-following in uplands (drystone) or parcel edges in lowlands
+* Minimal seasonal change (except where vegetation grows along the wall line)
 
 ---
 

@@ -39,14 +39,29 @@ associated_habitats:
 
 ## Identification criteria
 
-*This class should be mapped when:*
-- XXX vegetation <5 m tall covers >XX% of the polygon
-- Vegetation has clearly defined edges
-- Dominated by XXX rather than tree canopy
+This class should be mapped when:
+
+* Scrub patches have a dense, spiky texture and often a distinctive bright/yellowing tone in flowering season
+* Patches occur as discrete blocks within heath/rough grass mosaics
+* Structure is low scrub (not tall woodland) and often forms rounded or irregular clumps
+* The patch is clearly scrubby rather than grassy or bracken-dominated
+
+This class commonly occurs:
+
+* On heathland and acid grassland mosaics
+* On coastal slopes and dunes where scrub establishes
+* Along disturbed ground and track margins in open landscapes
 
 ## Aerial Definition
 
-*examples of aerial photography annotations etc....*
+From aerial imagery, gorse typically appears as:
+
+* Dense, rounded scrub clumps with spiky texture and strong structural definition
+* Often brightening/yellowing in flowering periods (not always consistent, but can be noticeable)
+* Distinct patchiness within heath/acid grass mosaics; edges can be abrupt where managed
+* Seasonal change: greener in peak growth; darker/rougher texture persists across seasons compared with grasses
+
+
 
 ---
 

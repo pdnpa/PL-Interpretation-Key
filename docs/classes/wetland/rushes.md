@@ -38,30 +38,32 @@ associated_habitats:
 Wet grassland and rush pasture includes a range of wet, tussocky vegetation types that develop where soils are permanently or seasonally waterlogged. These habitats occur primarily in response to local hydrological conditions rather than active management and may be found across both lowland and upland landscapes.
 
 ## Identification criteria
-This class should be mapped when the following apply:
 
-- Vegetation forms a clearly tussocky, uneven sward
-- Texture is coarse and contrasts with surrounding grassland, heath, or moorland
-- Distribution and pattern indicate control by water availability (e.g. hollows, flushes, gullies, blocked drains)
-- Vegetation height is generally less than 5 m and not dominated by scrub or trees
+This class should be mapped when:
 
-This class may occur as:
+* Vegetation forms dense, dark green clumps/stands in wet grassland, creating a “tufty” patch pattern
+* Patches are often linear or irregular along damp hollows, drains, or poached areas
+* The feature is clearly wetter than surrounding grassland and lacks woody shrub texture
+* Rush patches form repeated mottled tufts rather than a uniform meadow sward
 
-- Extensive continuous areas
-- Patchy or irregular features
-- Linear bands following drainage lines or topographic features
+This class commonly occurs:
+
+* In valley bottoms, flushes, damp fields, and poorly drained pastures
+* Along ditch lines, springs, and wet gateways/tracks
+* In mosaics with wet grassland, fen/marsh, and scrub edges
 
 ---
 
 ## Aerial Definition
-From aerial or satellite imagery, wet grassland and rush pasture typically appears as:
 
-- Darker or muted green or brown tones compared with grassland or grass moors
-- Rough or mottled texture caused by tussocks
-- Irregular boundaries that follow hydrological patterns rather than field edges
-- Persistent wetness signals relative to surrounding land
 
-Seasonal colour variation may be evident. Species composition cannot be reliably determined from imagery alone** and should not be inferred at the interpretation stage.
+From aerial imagery, rushes typically appears as:
+
+* Darker or muted green or brown tones compared with grassland or grass moors
+* Rough or mottled texture caused by tussocks
+* Irregular boundaries that follow hydrological patterns rather than field edges
+* Persistent wetness signals relative to surrounding land
+* Seasonal colour variation may be evident. Species composition cannot be reliably determined from imagery alone and should not be inferred at the interpretation stage.
 
 ---
 

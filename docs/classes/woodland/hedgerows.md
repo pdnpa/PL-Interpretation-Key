@@ -36,14 +36,29 @@ associated_habitats:
 
 ## Identification criteria
 
-*This class should be mapped when:*
-- XXX vegetation <5 m tall covers >XX% of the polygon
-- Vegetation has clearly defined edges
-- Dominated by XXX rather than tree canopy
+This class should be mapped when:
+
+* Linear woody features form field boundaries with a consistent “green line” canopy
+* The feature is wider and more vegetated than a wall, but narrower than woodland strips
+* Hedgerow networks create a clear field pattern (enclosed lowland landscape)
+* Gaps, junctions, and hedge banks may be visible at 12.5 cm resolution
+
+This class commonly occurs:
+
+* In lowland arable and pasture landscapes
+* Along roads and lanes as boundary features
+* Around villages and farmed valley bottoms within protected landscapes
 
 ## Aerial Definition
 
-*examples of aerial photography annotations etc....*
+From aerial imagery, hedgerows typically appears as:
+
+* Linear woody features forming field boundaries, wider than walls and narrower than woodland strips
+* A continuous “green line” (leaf-on) or a more broken/branchy line (leaf-off) depending on species
+* Junctions, gaps, and hedge banks often visible at 12.5 cm
+* Seasonal variation: denser and more continuous in summer; more transparent with visible ground beneath in winter (where deciduous)
+
+
 
 ---
 

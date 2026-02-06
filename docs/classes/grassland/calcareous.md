@@ -36,14 +36,28 @@ associated_habitats:
 
 ## Identification criteria
 
-*This class should be mapped when:*
-- XXX vegetation <5 m tall covers >XX% of the polygon
-- Vegetation has clearly defined edges
-- Dominated by XXX rather than tree canopy
+This class should be mapped when:
+
+* Grassland occurs on thin, pale/bright soils over chalk/limestone with a short, fine sward texture
+* The patch often has sharp boundaries along steep slopes, escarpments, or downland ridges
+* The parcel is semi-natural (not uniform improved pasture) and often shows subtle internal variation
+* It commonly occurs on slopes/edges where agricultural improvement is limited
+
+This class commonly occurs:
+
+* On chalk downlands, limestone escarpments, and coastal slopes in calcareous regions
+* As small fragments within farmed landscapes, often on steep or stony ground
+* Adjacent to scrub patches and woodland edges where succession pressures occur
 
 ## Aerial Definition
 
-*examples of aerial photography annotations etc....*
+From aerial imagery, calcareous grassland typically appears as:
+
+* Short, fine-textured sward on thin soils, often on slopes/escarpments or downland ridges
+* Subtle internal variation and occasional pale/chalky ground hints compared with surrounding fields
+* Patch boundaries often align with steepness/soil depth rather than neat parcel edges
+* Seasonal change: can look pale or “dry” in summer drought; winter may show more exposed soil/short turf character
+
 
 ---
 

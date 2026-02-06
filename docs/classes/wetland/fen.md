@@ -36,14 +36,28 @@ associated_habitats:
 
 ## Identification criteria
 
-*This class should be mapped when:*
-- XXX vegetation <5 m tall covers >XX% of the polygon
-- Vegetation has clearly defined edges
-- Dominated by XXX rather than tree canopy
+This class should be mapped when:
+
+* Wetland vegetation forms dense, textured cover adjacent to water or in low-lying saturated ground
+* The patch shows irregular wetland edge shapes, pools, channels, or saturated zones
+* Vegetation is taller and more heterogeneous than grassland, without a continuous tree canopy
+* Hydrological context is clear (floodplain, lake edge, reed/fen structure)
+
+This class commonly occurs:
+
+* Along lake edges, floodplains, valley bottoms, and groundwater-fed hollows
+* Adjacent to rivers, open water, or ditches with wet margins
+* In mosaics with reedbeds, rushes, wet grassland, and scrub edges
 
 ## Aerial Definition
 
-*examples of aerial photography annotations etc....*
+From aerial imagery, fen/marsh/swamp typically appears as:
+
+* Dense, heterogeneous wetland vegetation with irregular edges and wetness cues
+* Patchwork of tall herb/reed-like textures, pools, and saturated zones
+* Often adjacent to open water, ditches, or floodplain features
+* Seasonal change: water extent and saturation patterns are often clearer in winter; summer shows denser green biomass
+
 
 ---
 

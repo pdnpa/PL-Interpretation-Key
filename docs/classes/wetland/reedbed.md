@@ -36,14 +36,27 @@ associated_habitats:
 
 ## Identification criteria
 
-*This class should be mapped when:*
-- XXX vegetation <5 m tall covers >XX% of the polygon
-- Vegetation has clearly defined edges
-- Dominated by XXX rather than tree canopy
+This class should be mapped when:
+
+* Tall emergent vegetation forms dense, uniform blocks at water margins or shallow water
+* The surface texture appears “bristly”/vertical and consistent across the patch
+* Reedbeds form clear boundaries along ponds, lakes, ditches, or slow rivers
+* The habitat is wetter than scrub/grass and often associated with standing water
+
+This class commonly occurs:
+
+* Along lake edges, fens, and ditch networks in lowland wetlands
+* In sheltered estuarine/brackish margins where reeds establish
+* Adjacent to open water, marsh/fen vegetation, and wet woodland/scrub transitions
 
 ## Aerial Definition
 
-*examples of aerial photography annotations etc....*
+From aerial imagery, reedbeds typically appears as:
+
+* Dense, tall emergent vegetation forming coherent blocks along water margins
+* A fairly uniform “bristly” texture compared with mixed marsh/fen vegetation
+* Clear boundary with open water and often with ditch/lagoon edges
+* Seasonal change: summer is typically greener and denser; winter can appear straw-coloured but block structure remains obvious
 
 ---
 

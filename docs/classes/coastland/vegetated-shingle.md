@@ -36,12 +36,28 @@ associated_habitats:
 
 ## Identification criteria
 
-*This class should be mapped when:*
-- XXX vegetation <5 m tall covers >XX% of the polygon
-- Vegetation has clearly defined edges
-- Dominated by XXX rather than tree canopy
+This class should be mapped when:
+
+* Shingle substrate (speckled/coarse texture) is clearly present with visible vegetation cover
+* Vegetation appears patchy/striped on stable ridges or upper beach zones
+* The patch is coastal and not simply dune grass or saltmarsh
+* The vegetated area is distinct from bare shingle and from scrub (low coastal herbs/grass)
+
+This class commonly occurs:
+
+* On upper shingle ridges and storm berms where movement is limited
+* In sheltered shingle structures and cuspate forelands
+* Adjacent to bare shingle, coastal grassland, and coastal scrub edges
 
 ## Aerial Definition
+
+From aerial imagery, vegetated shingle typically appears as:
+
+* Shingle substrate texture (coarse speckling) combined with visible vegetation cover (patchy green/brown)
+* Vegetation often forms bands or patches on stable ridges above the strandline
+* Clear contrast with bare shingle (no vegetation) and with dunes (smoother sand texture/landforms)
+* Seasonal change: vegetation greenness varies, but underlying shingle texture remains apparent through the year
+
 
 <figure class="interp-figure">
   <img src="../../../assets/images/coastland/20012026-vegetated-shingle-01.png" alt="{{ title }} ({{ code }})">

@@ -26,14 +26,27 @@ associated_habitats:
 
 ## Identification criteria
 
-*This class should be mapped when:*
-- XXX vegetation <5 m tall covers >XX% of the polygon
-- Vegetation has clearly defined edges
-- Dominated by XXX rather than tree canopy
+This class should be mapped when:
+
+* Individual broadleaved crowns are isolated or in very small numbers
+* Trees are clearly separated from woodland canopy and not forming a hedge line
+* Crown shape is rounded/irregular, often with visible shadow and branching texture
+* The surrounding land cover (grass/crop) is dominant, with trees as scattered features
+
+This class commonly occurs:
+
+* In parkland, pasture fields, and along field corners
+* Near farmsteads, lanes, and settlement edges
+* As veteran trees within grazed landscapes or amenity grounds
 
 ## Aerial Definition
 
-*examples of aerial photography annotations etc....*
+From aerial imagery, single broadleaved trees typically appears as:
+
+* Isolated rounded/irregular crowns casting distinct shadows on surrounding grass/crops
+* Clearly separated from woodland blocks and not forming linear boundary features
+* Seasonal change is pronounced: dense summer canopy vs sparse winter crown structure (shadows often sharper in leaf-off)
+* Often associated with grazing fields, parkland, or field corners
 
 ---
 

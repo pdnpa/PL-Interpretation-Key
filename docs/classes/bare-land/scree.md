@@ -26,14 +26,28 @@ associated_habitats:
 
 ## Identification criteria
 
-*This class should be mapped when:*
-- XXX vegetation <5 m tall covers >XX% of the polygon
-- Vegetation has clearly defined edges
-- Dominated by XXX rather than tree canopy
+This class should be mapped when:
+
+* Loose rock debris forms fans/aprons below cliffs or steep slopes
+* The surface is highly textured and granular but in sloping talus formations
+* Vegetation is sparse and patchy, often confined to more stable margins
+* The feature is clearly mobile/unstable debris rather than bedrock outcrop
+
+This class commonly occurs:
+
+* Below crags and cliff lines in upland protected landscapes
+* On steep mountain valley sides and corrie margins
+* Adjacent to bare rock and upland grass/heath mosaics
 
 ## Aerial Definition
 
-*examples of aerial photography annotations etc....*
+From aerial imagery, scree typically appears as:
+
+* Coarse, rocky debris fans/aprons below cliffs with highly textured granular appearance
+* Sloping talus shapes with clear upslope source (crag/cliff) and downslope spread
+* Sparse vegetation on unstable areas, with more vegetation on stabilised margins
+* Seasonal change is limited; snow/shadow can mask texture in winter but landform remains diagnostic
+
 
 ---
 

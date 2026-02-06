@@ -36,14 +36,27 @@ associated_habitats:
 
 ## Identification criteria
 
-*This class should be mapped when:*
-- XXX vegetation <5 m tall covers >XX% of the polygon
-- Vegetation has clearly defined edges
-- Dominated by XXX rather than tree canopy
+This class should be mapped when:
+
+* Extensive wet, peat-forming vegetation occurs in open upland settings
+* Surface shows a mottled, hummocky texture or patterned wetness (pools/flush lines)
+* The patch is not enclosed agricultural field and not dominated by dwarf shrub heath alone
+* Wetness features (dark saturated zones, pool systems) are visible or strongly implied by context
+
+This class commonly occurs:
+
+* On upland plateaus and gentle slopes with impeded drainage
+* Adjacent to upland heath and acid grass moor mosaics
+* Around headwater areas, flush networks, and peatland complexes
 
 ## Aerial Definition
 
-*examples of aerial photography annotations etc....*
+From aerial imagery, upland mire typically appears as:
+
+* Broad peatland surfaces with mottled wetness patterns (pools, flush lines, darker saturated areas)
+* Hummocky/uneven texture at landscape scale, often with subtle patterning
+* Occurs in open upland settings and commonly forms mosaics with heath/acid grass
+* Seasonal change: winter highlights pools and saturated zones; summer shows greener flush but retains patterned texture
 
 ---
 
