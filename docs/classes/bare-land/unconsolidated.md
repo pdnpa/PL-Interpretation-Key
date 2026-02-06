@@ -78,4 +78,5 @@ The structure and extent are influenced by:
 
 ## Useful Links
 
-*useufl links to open data to help with interpretation e.g. FC Woodland Data or OS or CEH*
+* [UKHab – Habitat Definitions v1.0 (PDF)](https://ecountability.co.uk/wp-content/uploads/2018/05/UK-Habitat-Classification-Habitat-Definitions-V1.0-May-2018-1.pdf)
+* [UK BAP – Priority Habitat Descriptions (revised 2011) (PDF)](https://data.jncc.gov.uk/data/2728792c-c8c6-4b8c-9ccd-a908cb0f1432/UKBAP-PriorityHabitatDescriptions-Rev-2011.pdf)

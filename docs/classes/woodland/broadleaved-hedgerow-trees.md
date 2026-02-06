@@ -80,4 +80,5 @@ The structure and extent are influenced by:
 
 ## Useful Links
 
-*useufl links to open data to help with interpretation e.g. FC Woodland Data or OS or CEH*
+* [Hedgelink – Hedgerow management advice](https://hedgelink.org.uk/guidance/hedgerow-management-advice/)
+* [Hedgelink – Complete good hedge management guide (PDF)](https://www.hedgelink.org.uk/cms/cms_content/files/30_complete_good_hedge_management_guide_leaflet.pdf)

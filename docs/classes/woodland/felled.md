@@ -88,4 +88,5 @@ The structure and extent are influenced by:
 
 ## Useful Links
 
-*useufl links to open data to help with interpretation e.g. FC Woodland Data or OS or CEH*
+* [GOV.UK – Felling and restocking definitions](https://www.gov.uk/government/publications/definitions-of-felling-and-restocking-options/felling-and-restocking-definitions)
+* [UK Forestry Standard (UKFS) – GOV.UK collection](https://www.gov.uk/government/collections/the-uk-forestry-standard)

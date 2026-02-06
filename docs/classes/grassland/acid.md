@@ -88,4 +88,5 @@ The structure and extent are influenced by:
 
 ## Useful Links
 
-*useufl links to open data to help with interpretation e.g. FC Woodland Data or OS or CEH*
+* [JNCC – Lowland Dry Acid Grassland (UK BAP) (PDF)](https://data.jncc.gov.uk/data/902cafcb-578f-43de-8a99-7143f00d79a2/UKBAP-BAPHabitats-26-LowlandDryAcidGrass.pdf)
+* [UK BAP – Priority Habitat Descriptions (revised 2011) (PDF)](https://data.jncc.gov.uk/data/2728792c-c8c6-4b8c-9ccd-a908cb0f1432/UKBAP-PriorityHabitatDescriptions-Rev-2011.pdf)

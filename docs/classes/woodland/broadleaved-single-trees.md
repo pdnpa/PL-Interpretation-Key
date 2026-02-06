@@ -78,4 +78,5 @@ The structure and extent are influenced by:
 
 ## Useful Links
 
-*useufl links to open data to help with interpretation e.g. FC Woodland Data or OS or CEH*
+* [JNCC – Wood-pasture and parkland (UK BAP, revised 2011) (PDF)](https://data.jncc.gov.uk/data/0a8c2440-20c8-4a0c-85e7-7a8e7f4b9d4b/UKBAP-BAPHabitats-65-WoodPastureParkland-2011.pdf)
+* [UKHab – Habitat Definitions v1.0 (PDF)](https://ecountability.co.uk/wp-content/uploads/2018/05/UK-Habitat-Classification-Habitat-Definitions-V1.0-May-2018-1.pdf)

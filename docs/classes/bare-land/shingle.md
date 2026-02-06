@@ -77,4 +77,5 @@ The structure and extent are influenced by:
 
 ## Useful Links
 
-*useufl links to open data to help with interpretation e.g. FC Woodland Data or OS or CEH*
+* [JNCC – Coastal Vegetated Shingle (UK BAP) (PDF)](https://data.jncc.gov.uk/data/4b9e595b-c337-48c7-9880-b1611d02acbb/UKBAP-BAPHabitats-10-CoastVegShingle.pdf)
+* [UK BAP – Priority Habitat Descriptions (revised 2011) (PDF)](https://data.jncc.gov.uk/data/2728792c-c8c6-4b8c-9ccd-a908cb0f1432/UKBAP-PriorityHabitatDescriptions-Rev-2011.pdf)

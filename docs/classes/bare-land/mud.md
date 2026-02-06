@@ -77,4 +77,5 @@ The structure and extent are influenced by:
 
 ## Useful Links
 
-*useufl links to open data to help with interpretation e.g. FC Woodland Data or OS or CEH*
+* [JNCC – Coastal Saltmarsh (UK BAP) (PDF) (intertidal context)](https://data.jncc.gov.uk/data/6e4e3ed1-117d-423c-a57d-785c8855f28c/UKBAP-BAPHabitats-08-CoastSaltmarsh.pdf)
+* [UK BAP – Priority Habitat Descriptions (revised 2011) (PDF)](https://data.jncc.gov.uk/data/2728792c-c8c6-4b8c-9ccd-a908cb0f1432/UKBAP-PriorityHabitatDescriptions-Rev-2011.pdf)

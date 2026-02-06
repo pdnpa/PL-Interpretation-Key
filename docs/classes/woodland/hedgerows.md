@@ -87,4 +87,5 @@ The structure and extent are influenced by:
 
 ## Useful Links
 
-*useufl links to open data to help with interpretation e.g. FC Woodland Data or OS or CEH*
+* [Hedgelink – Hedgerow management advice](https://hedgelink.org.uk/guidance/hedgerow-management-advice/)
+* [JNCC – Hedgerows (UK BAP) (PDF)](https://data.jncc.gov.uk/data/ca179c55-3e9d-4e95-abd9-4edb2347c3b6/UKBAP-BAPHabitats-17-Hedgerows.pdf)

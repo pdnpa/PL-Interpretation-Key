@@ -58,4 +58,6 @@ The structure and extent are influenced by:
 
 ## Useful Links
 
-*useufl links to open data to help with interpretation e.g. FC Woodland Data or OS or CEH*
+* [JNCC – Open Mosaic Habitats on Previously Developed Land (UK BAP) (PDF)](https://data.jncc.gov.uk/data/a81bf2a7-b637-4497-a8be-03bd50d4290d/UKBAP-BAPHabitats-40-OMH-2010.pdf)
+* [Buglife – Identifying open mosaic habitat (PDF)](https://cdn.buglife.org.uk/2020/01/Identifying-open-mosaic-habitat.pdf)
+* [UKHab – Habitat Definitions v1.0 (PDF)](https://ecountability.co.uk/wp-content/uploads/2018/05/UK-Habitat-Classification-Habitat-Definitions-V1.0-May-2018-1.pdf)

@@ -89,4 +89,5 @@ The structure and extent are influenced by:
 
 ## Useful Links
 
-*useufl links to open data to help with interpretation e.g. FC Woodland Data or OS or CEH*
+* [Freshwater Habitats Trust – Identify a priority pond (guidance)](https://freshwaterhabitats.org.uk/advice-resources/survey-methods-hub/identify-a-priority-pond/)
+* [UK BAP – Priority Habitat Descriptions (revised 2011) (PDF)](https://data.jncc.gov.uk/data/2728792c-c8c6-4b8c-9ccd-a908cb0f1432/UKBAP-PriorityHabitatDescriptions-Rev-2011.pdf)

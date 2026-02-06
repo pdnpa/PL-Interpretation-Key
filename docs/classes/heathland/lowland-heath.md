@@ -120,4 +120,5 @@ Ecological condition should not be inferred directly from imagery alone.
 
 ## Useful Links
 
-*useufl links to open data to help with interpretation e.g. FC Woodland Data or OS or CEH*
+* [JNCC – Lowland Heathland (UK BAP) (PDF)](https://data.jncc.gov.uk/data/1be8bec3-0437-4758-adc8-ac866d4e0769/UKBAP-BAPHabitats-28-LowlandHeathland.pdf)
+* [UKHab – Habitat Definitions v1.0 (PDF)](https://ecountability.co.uk/wp-content/uploads/2018/05/UK-Habitat-Classification-Habitat-Definitions-V1.0-May-2018-1.pdf)

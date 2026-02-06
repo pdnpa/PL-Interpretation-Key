@@ -88,4 +88,6 @@ The structure and extent are influenced by:
 
 ## Useful Links
 
-*useufl links to open data to help with interpretation e.g. FC Woodland Data or OS or CEH*
+* [NatureScot – UK Best Practice Guidance: Bracken Management](https://www.nature.scot/doc/uk-best-practice-guidance-bracken-management)
+* [NatureScot – Bracken control: a guide to best practice (PDF)](https://www.nature.scot/sites/default/files/2024-01/Publication%202008%20-%20Bracken%20Control%20-%20A%20Guide%20to%20Best%20Practice.pdf)
+* [NatureScot – Bracken Management Plan template](https://www.nature.scot/doc/bracken-management-plan-template)

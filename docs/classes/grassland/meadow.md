@@ -124,4 +124,5 @@ The structure and extent are influenced by:
 
 ## Useful Links
 
-*useufl links to open data to help with interpretation e.g. FC Woodland Data or OS or CEH*
+* [JNCC – Lowland Meadows (UK BAP) (PDF)](https://data.jncc.gov.uk/data/f0553254-1d47-474a-98e5-37fa163a28b5/UKBAP-BAPHabitats-29-Lowland-Meadows.pdf)
+* [UKHab – Habitat Definitions v1.0 (PDF)](https://ecountability.co.uk/wp-content/uploads/2018/05/UK-Habitat-Classification-Habitat-Definitions-V1.0-May-2018-1.pdf)

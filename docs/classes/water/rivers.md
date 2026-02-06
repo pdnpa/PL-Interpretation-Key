@@ -91,4 +91,5 @@ The structure and extent are influenced by:
 
 ## Useful Links
 
-*useufl links to open data to help with interpretation e.g. FC Woodland Data or OS or CEH*
+* [JNCC – Rivers (UK BAP, revised 2011) (PDF)](https://data.jncc.gov.uk/data/01d6ab5b-6805-4c4c-8d84-16bfebe95d31/UKBAP-BAPHabitats-45-Rivers-2011.pdf)
+* [UK BAP – Priority Habitat Descriptions (revised 2011) (PDF)](https://data.jncc.gov.uk/data/2728792c-c8c6-4b8c-9ccd-a908cb0f1432/UKBAP-PriorityHabitatDescriptions-Rev-2011.pdf)

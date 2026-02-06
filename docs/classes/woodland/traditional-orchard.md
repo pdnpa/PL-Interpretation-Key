@@ -77,4 +77,5 @@ The structure and extent are influenced by:
 
 ## Useful Links
 
-*useufl links to open data to help with interpretation e.g. FC Woodland Data or OS or CEH*
+* [JNCC – Traditional Orchards (UK BAP) (PDF)](https://data.jncc.gov.uk/data/2829ce47-1ca5-41e7-bc1a-871c1cc0b3ae/UKBAP-BAPHabitats-56-TraditionalOrchards.pdf)
+* [PTES – Traditional Orchard Survey (FAQs)](https://ptes.org/get-involved/surveys/countryside/traditional-orchard-survey/traditional-orchard-survey-faqs/)

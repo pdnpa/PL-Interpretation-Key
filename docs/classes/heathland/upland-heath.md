@@ -114,4 +114,5 @@ The structure and extent are influenced by:
 
 ## Useful Links
 
-*useufl links to open data to help with interpretation e.g. FC Woodland Data or OS or CEH*
+* [JNCC – Upland Heathland (UK BAP) (PDF)](https://data.jncc.gov.uk/data/1be8bec3-0437-4758-adc8-ac866d4e0769/UKBAP-BAPHabitats-61-UplandHeathland.pdf)
+* [GOV.UK – Heather & Grass Management Code (2025)](https://www.gov.uk/government/publications/heather-and-grass-management-code/heather-and-grass-management-code-2025)

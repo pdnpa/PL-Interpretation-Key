@@ -77,4 +77,5 @@ The structure and extent are influenced by:
 
 ## Useful Links
 
-*useufl links to open data to help with interpretation e.g. FC Woodland Data or OS or CEH*
+* [Dry Stone Walling Association (resources)](https://www.dswa.org.uk/)
+* [Caring for Stone Walls (Caring for God’s Acre) (PDF)](https://www.caringforgodsacre.org.uk/wp-content/uploads/2022/09/A11-Caring-for-Stone-Walls-2022.pdf)
