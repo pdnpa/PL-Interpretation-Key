@@ -23,27 +23,5 @@ subclasses: [f1, f1a, f2, f3, f4, f4a, f4b, f5]
 
 ## Identification criteria
 
-*This class should be mapped when:*
-- XXX vegetation <5 m tall covers >XX% of the polygon
-- Vegetation has clearly defined edges
-- Dominated by XXX rather than tree canopy
+Wetland includes freshwater and coastal-influenced habitats shaped by water levels and saturation, such as fen, marsh, swamp, mire, bog, rushes, reedbeds, and saltmarsh. Aerially, wetlands are often identified by their hydrological context (ditches, pools, floodplain forms, tidal creeks) and distinctive textures, with seasonal shifts in water extent and vegetation density.
 
-## Aerial Definition
-
-*examples of aerial photography annotations etc....*
-
-## In Protected Landscapes
-
-*where and which PL's this is likely found*
-
-### Management and drivers
-
-*Dense scrub may be maintained by:*
-- Reduced grazing pressure
-- Woodland succession
-- We have no money!!!!!
-- Conservation management for species diversity
-
-## Useful Links
-
-*useufl links to open data to help with interpretation e.g. FC Woodland Data or OS or CEH*

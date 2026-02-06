@@ -23,27 +23,4 @@ subclasses: [d1, d1a, d1b, d2, d2a, d2b, d3, d4]
 
 ## Identification criteria
 
-*This class should be mapped when:*
-- XXX vegetation <5 m tall covers >XX% of the polygon
-- Vegetation has clearly defined edges
-- Dominated by XXX rather than tree canopy
-
-## Aerial Definition
-
-*examples of aerial photography annotations etc....*
-
-## In Protected Landscapes
-
-*where and which PL's this is likely found*
-
-### Management and drivers
-
-*Dense scrub may be maintained by:*
-- Reduced grazing pressure
-- Woodland succession
-- We have no money!!!!!
-- Conservation management for species diversity
-
-## Useful Links
-
-*useufl links to open data to help with interpretation e.g. FC Woodland Data or OS or CEH*
+Heath & Moorland covers open landscapes dominated by dwarf shrubs and/or grasses in upland and lowland settings, typically forming large semi-natural mosaics rather than neat field parcels. In aerial imagery it often appears as textured, irregular vegetation patterns with management signatures (burn/cut age mosaics) and strong context cues from enclosure, elevation, and adjacent peatland/grassland habitats.

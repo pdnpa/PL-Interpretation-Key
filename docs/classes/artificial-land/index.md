@@ -23,27 +23,4 @@ subclasses: [a1, a2, a3]
 
 ## Identification criteria
 
-*This class should be mapped when:*
-- XXX vegetation <5 m tall covers >XX% of the polygon
-- Vegetation has clearly defined edges
-- Dominated by XXX rather than tree canopy
-
-## Aerial Definition
-
-*examples of aerial photography annotations etc....*
-
-## In Protected Landscapes
-
-*where and which PL's this is likely found*
-
-### Management and drivers
-
-*Dense scrub may be maintained by:*
-- Reduced grazing pressure
-- Woodland succession
-- We have no money!!!!!
-- Conservation management for species diversity
-
-## Useful Links
-
-*useufl links to open data to help with interpretation e.g. FC Woodland Data or OS or CEH*
+Artificial Land covers built or heavily modified surfaces and structures, including settlements, transport infrastructure, walls, quarries, and disturbed/derelict ground. In aerial imagery it is typically defined by sharp geometric boundaries, high contrast, and limited seasonal change compared with vegetation, though disturbed sites can show patchy revegetation over time.

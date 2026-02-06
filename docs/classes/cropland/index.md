@@ -23,27 +23,4 @@ subclasses: [b1, b2, b3]
 
 ## Identification criteria
 
-*This class should be mapped when:*
-- XXX vegetation <5 m tall covers >XX% of the polygon
-- Vegetation has clearly defined edges
-- Dominated by XXX rather than tree canopy
-
-## Aerial Definition
-
-*examples of aerial photography annotations etc....*
-
-## In Protected Landscapes
-
-*where and which PL's this is likely found*
-
-### Management and drivers
-
-*Dense scrub may be maintained by:*
-- Reduced grazing pressure
-- Woodland succession
-- We have no money!!!!!
-- Conservation management for species diversity
-
-## Useful Links
-
-*useufl links to open data to help with interpretation e.g. FC Woodland Data or OS or CEH*
+Cropland includes arable and horticultural land managed for production, such as annual crops, permanent crops, and orchards. It is characterised from above by field parcels with clear boundaries and strong management patterns (rows, tramlines, harvesting), with pronounced seasonal change in colour and texture through planting, growth, and harvest cycles.
