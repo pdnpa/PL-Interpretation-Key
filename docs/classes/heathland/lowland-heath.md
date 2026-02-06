@@ -95,7 +95,7 @@ Where imagery is ambiguous, use landscape context (lowland vs upland, enclosure 
 
 !!! warning "Potential confusion with related classes"
     - [e2a Acid grassland](../grassland/acid.md)
-    - [s1 Scrub](../scrubland/scrub.md)
+    - [s1 Scrub](../woodland/scrub.md)
 
 
 ## In Protected Landscapes

@@ -66,7 +66,7 @@ associated_habitats:
 ## Overlap with other classes
 
 !!! warning "Potential confusion with related classes"
-    - [s1 Scrub](../scrubland/scrub.md)
+    - [s1 Scrub](../woodland/scrub.md)
 
 ---
 

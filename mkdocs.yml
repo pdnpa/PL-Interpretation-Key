@@ -50,7 +50,7 @@ nav:
         - a1 Urban and transport: classes/artificial-land/urban.md
         - a2 Quarries & derelict land: classes/artificial-land/quarries.md
         - a3 Open mosaic: classes/artificial-land/open-mosaic.md
-        - a4 Walls: classes/bare-land/walls.md
+        - a4 Walls: classes/artificial-land/walls.md
 
     - B Cropland:
         - Overview: classes/cropland/index.md

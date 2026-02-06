@@ -55,7 +55,7 @@ associated_habitats:
 ## Overlap with other classes
 
 !!! warning "Potential confusion with related classes"
-    - [s2 Hedgerows](../scrubland/hedgerows.md)
+    - [s2 Hedgerows](../woodland/hedgerows.md)
 
 ---
 

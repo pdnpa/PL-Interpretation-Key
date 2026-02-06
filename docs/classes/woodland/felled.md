@@ -66,7 +66,7 @@ associated_habitats:
 
 !!! warning "Potential confusion with related classes"
     - [g1 Bare ground](../bare-land/ground.md)
-    - [s1 Scrub](../scrubland/scrub.md)
+    - [s1 Scrub](../woodland/scrub.md)
 
 ---
 
