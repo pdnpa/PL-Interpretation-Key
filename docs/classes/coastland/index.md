@@ -23,27 +23,4 @@ subclasses: [h1, h2, h3]
 
 ## Identification criteria
 
-*This class should be mapped when:*
-- XXX vegetation <5 m tall covers >XX% of the polygon
-- Vegetation has clearly defined edges
-- Dominated by XXX rather than tree canopy
-
-## Aerial Definition
-
-*examples of aerial photography annotations etc....*
-
-## In Protected Landscapes
-
-*where and which PL's this is likely found*
-
-### Management and drivers
-
-*Dense scrub may be maintained by:*
-- Reduced grazing pressure
-- Woodland succession
-- We have no money!!!!!
-- Conservation management for species diversity
-
-## Useful Links
-
-*useufl links to open data to help with interpretation e.g. FC Woodland Data or OS or CEH*
+Coastland includes coastal habitats driven by marine processes and management, such as sand dunes, coastal grazing marsh, and vegetated shingle. Aerially, these habitats are strongly context-dependent (coastal setting) and are identified by distinctive landforms and sediment textures, with boundaries and extent often shifting in response to storms, tides, and coastal defences.

@@ -15,7 +15,13 @@ subclasses: []
 **Parent:** {{ parent }}  
 **Status:** {{ status }}
 
-*insert horizontal habitat image w: pix h: pix*
+<figure class="interp-figure">
+  <img src="../../../assets/images/grassland/a1.png" alt="{{ title }} ({{ code }})">
+  <figcaption>
+    Bakewell Town and road network.  
+    <br><small>Image: CC-BY, Google Maps</small>
+  </figcaption>
+</figure>
 
 ## Definition
 

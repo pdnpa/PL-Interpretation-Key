@@ -36,7 +36,15 @@ This class commonly occurs:
 
 ## Aerial Definition
 
-*examples of aerial photography annotations etc....*
+From aerial imagery, unclassified typically appears as:
+
+* Mixed or ambiguous signatures where no single habitat dominates at mapping confidence
+* Areas obscured by shadow, glare, haze, cloud edges, or strong reflection (especially near water)
+* Transitional edges (woodland–scrub–grass mosaics) below the minimum interpretable unit
+* Highly dynamic/temporary surfaces (recent disturbance, partial flooding) that do not match a stable class signature
+
+Where imagery is ambiguous, use landscape context (adjacent mapped habitats, enclosure pattern, topography, coastal vs inland setting) to support interpretation.
+
 
 ---
 

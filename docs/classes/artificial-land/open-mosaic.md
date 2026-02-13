@@ -15,7 +15,13 @@ subclasses: []
 **Parent:** {{ parent }}  
 **Status:** {{ status }}
 
-*insert horizontal habitat image w: pix h: pix*
+<figure class="interp-figure">
+  <img src="../../../assets/images/urban/a3.png" alt="{{ title }} ({{ code }})">
+  <figcaption>
+    Open Mosaic with scrub and rough grassland.  
+    <br><small>Image: CC-BY, Peak District National Park</small>
+  </figcaption>
+</figure>
 
 ## Definition
 

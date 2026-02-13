@@ -15,7 +15,13 @@ subclasses: []
 **Parent:** {{ parent }}  
 **Status:** {{ status }}
 
-*insert horizontal habitat image w: pix h: pix*
+<figure class="interp-figure">
+  <img src="../../../assets/images/urban/a2.png" alt="{{ title }} ({{ code }})">
+  <figcaption>
+    Ballidon Quarry.  
+    <br><small>Image: CC-BY, Google Maps</small>
+  </figcaption>
+</figure>
 
 ## Definition
 
