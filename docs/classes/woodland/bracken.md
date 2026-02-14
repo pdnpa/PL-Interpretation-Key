@@ -21,10 +21,10 @@ associated_habitats:
 ---
 
 <figure class="interp-figure">
-  <img src="../../../assets/images/scrubland/s3.png" alt="{{ title }} ({{ code }})">
+  <img src="../../../assets/images/woodland/c8.png" alt="{{ title }} ({{ code }})">
   <figcaption>
-    Bracken on a moorland slope displaying last years residue of dead plant material.  
-    <br><small>Image: CC-BY, Peak District National Park Chris Gilbert</small>
+    Large patch of Bracken can appear orrange late or early in the year. 
+    <br><small>Image: CC-BY, Google Maps</small>
   </figcaption>
 </figure>
 

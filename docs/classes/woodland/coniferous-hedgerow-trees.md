@@ -18,7 +18,17 @@ associated_habitats:
 **Parent:** {{ parent }}  
 **Status:** {{ status }}
 
-*insert horizontal habitat image w: pix h: pix*
+---
+
+<figure class="interp-figure">
+  <img src="../../../assets/images/woodland/c2b.png" alt="{{ title }} ({{ code }})">
+  <figcaption>
+    Coniferous single tree in grassland.  
+    <br><small>Image: CC-BY, Google Maps</small>
+  </figcaption>
+</figure>
+
+---
 
 ## Definition
 

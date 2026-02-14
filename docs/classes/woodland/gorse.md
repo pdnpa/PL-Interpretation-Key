@@ -22,16 +22,14 @@ associated_habitats:
 ---
 
 <figure class="interp-figure">
-  <img src="../../../assets/images/scrubland/s1b.png" alt="{{ title }} ({{ code }})">
+  <img src="../../../assets/images/woodland/c6a.png" alt="{{ title }} ({{ code }})">
   <figcaption>
     Gorse vergreen shrub distinctive when in bright yellow flower.  
-    <br><small>Image: CC-BY, Woodlands.co.uk</small>
+    <br><small>Image: CC-BY, Google Maps</small>
   </figcaption>
 </figure>
 
 ---
-
-#
 
 ## Definition
 

@@ -21,10 +21,10 @@ associated_habitats:
 ---
 
 <figure class="interp-figure">
-  <img src="../../../assets/images/scrubland/s1a.jpg" alt="{{ title }} ({{ code }})">
+  <img src="../../../assets/images/woodland/c6.png" alt="{{ title }} ({{ code }})">
   <figcaption>
-    Mixed scrub edge with rough grassland.  
-    <br><small>Image: CC-BY, Clive Perrin</small>
+    Mixed scrub edge with rough grassland on daleside.  
+    <br><small>Image: CC-BY, Google Maps</small>
   </figcaption>
 </figure>
 

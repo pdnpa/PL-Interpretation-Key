@@ -21,10 +21,10 @@ associated_habitats:
 ---
 
 <figure class="interp-figure">
-  <img src="../../../assets/images/woodland/c2.jpg" alt="{{ title }} ({{ code }})">
+  <img src="../../../assets/images/woodland/c2.png" alt="{{ title }} ({{ code }})">
   <figcaption>
-    Edge of a Coniferous woodland area in active management for forestry. 
-    <br><small>Image: CC-BY, Robin Webster</small>
+    Coniferous woodland area in active management for forestry. 
+    <br><small>Image: CC-BY, Google Maps</small>
   </figcaption>
 </figure>
 

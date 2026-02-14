@@ -18,9 +18,17 @@ associated_habitats:
 **Parent:** {{ parent }}  
 **Status:** {{ status }}
 
-*insert horizontal habitat image w: pix h: pix* Photo: Woodland Trust
+---
 
-#
+<figure class="interp-figure">
+  <img src="../../../assets/images/woodland/c1b.png" alt="{{ title }} ({{ code }})">
+  <figcaption>
+    Broadleaved hedgerow trees within managed grassland. 
+    <br><small>Image: CC-BY, Google Maps</small>
+  </figcaption>
+</figure>
+
+---
 
 ## Definition
 

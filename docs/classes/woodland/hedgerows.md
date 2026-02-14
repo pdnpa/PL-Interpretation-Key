@@ -21,10 +21,10 @@ associated_habitats:
 ---
 
 <figure class="interp-figure">
-  <img src="../../../assets/images/scrubland/s2.jpg" alt="{{ title }} ({{ code }})">
+  <img src="../../../assets/images/woodland/c7.png" alt="{{ title }} ({{ code }})">
   <figcaption>
-    Hawthorne hedgerow in an agricultural field.   
-    <br><small>Image: CC-BY, 35mmMan</small>
+    Hedgerow in arabale setting. 
+    <br><small>Image: CC-BY, Google Maps</small>
   </figcaption>
 </figure>
 
