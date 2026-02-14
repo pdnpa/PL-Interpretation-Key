@@ -26,10 +26,10 @@ associated_habitats:
 ---
 
 <figure class="interp-figure">
-  <img src="../../../assets/images/heathland/d3.jpg" alt="{{ title }} ({{ code }})">
+  <img src="../../../assets/images/heathland/d3.png" alt="{{ title }} ({{ code }})">
   <figcaption>
     Lowland heath dominated by calluna with complex and diverse mosaic of open dry and wet heath and wooded scrubby heath in the distance.
-    <br><small>Image: CC-BY, Dorset National Landscape</small>
+    <br><small>Image: CC-BY, Google Maps</small>
   </figcaption>
 </figure>
 

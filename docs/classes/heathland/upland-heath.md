@@ -20,11 +20,13 @@ associated_habitats:
 **Parent:** {{ parent }}  
 **Status:** {{ status }}
 
+--- 
+
 <figure class="interp-figure">
   <img src="../../../assets/images/heathland/d1.png" alt="{{ title }} ({{ code }})">
   <figcaption>
     Upland heath showing dwarf shrub dominance mainly consisting of Calluna vulgaris and uneven structure.
-    <br><small>Image: CC-BY, Peak District National Park Authority</small>
+    <br><small>Image: CC-BY, Google Maps</small>
   </figcaption>
 </figure>
 
