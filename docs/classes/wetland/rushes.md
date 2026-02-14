@@ -25,7 +25,7 @@ associated_habitats:
   <img src="../../../assets/images/wetland/f4.png" alt="{{ title }} ({{ code }})">
   <figcaption>
     Large patch of rushes on marginal ground.
-    <br><small>Image: CC-BY, Peak District National Park</small>
+    <br><small>Image: CC-BY, Google Maps</small>
   </figcaption>
 </figure>
 

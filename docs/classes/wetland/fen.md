@@ -23,7 +23,7 @@ associated_habitats:
 <figure class="interp-figure">
   <img src="../../../assets/images/wetland/f1.png" alt="{{ title }} ({{ code }})">
   <figcaption>
-    Reclaimed marshland this needs updating.
+    Reclaimed marshland and Fen.
     <br><small>Image: CC-BY, Google maps</small>
   </figcaption>
 </figure>
