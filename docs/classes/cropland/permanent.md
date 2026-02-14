@@ -18,7 +18,16 @@ associated_habitats:
 **Parent:** {{ parent }}  
 **Status:** {{ status }}
 
-*insert horizontal habitat image w: pix h: pix*
+---
+<figure class="interp-figure">
+  <img src="../../../assets/images/cropland/b2.png" alt="{{ title }} ({{ code }})">
+  <figcaption>
+    Regular row structure.
+    <br><small>Image: CC-BY, Google Maps</small>
+  </figcaption>
+</figure>
+
+---
 
 ## Definition
 

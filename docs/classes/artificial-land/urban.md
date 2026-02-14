@@ -16,7 +16,7 @@ subclasses: []
 **Status:** {{ status }}
 
 <figure class="interp-figure">
-  <img src="../../../assets/images/grassland/a1.png" alt="{{ title }} ({{ code }})">
+  <img src="../../../assets/images/urban/a1.png" alt="{{ title }} ({{ code }})">
   <figcaption>
     Bakewell Town and road network.  
     <br><small>Image: CC-BY, Google Maps</small>
