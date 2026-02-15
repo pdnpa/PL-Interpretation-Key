@@ -32,26 +32,3 @@ Heath & Moorland covers open landscapes dominated by dwarf shrubs and/or grasses
 
 > Use this flow for open “rough vegetation” land. If the area is clearly an enclosed improved field (smooth, uniform, cut/grazed), route to Grassland (E) first.
 
-
-```mermaid
-flowchart TD
-  A[Start: Open rough vegetation patch] --> B{Clearly below the enclosure line?<br/>(regular fields/hedges/walls nearby)}
-  B -->|Yes| C{Dwarf shrubs form the dominant cover?<br/>(heather-type texture, patchy dwarf shrub blocks)}
-  B -->|No (mostly unenclosed moor)| D{Dwarf shrubs cover >= about 25%?<br/>(heather-type signal obvious across the unit)}
-
-  %% Lowland branch
-  C -->|Yes| D3[d3 Lowland heath]
-  C -->|No| E1[Not D-class:<br/>consider E (grassland), C (scrub/bracken), or F (wetland)]
-
-  %% Upland branch: heath vs grass moor
-  D -->|Yes| D1[d1 Upland heath]
-  D -->|No| G{Grass/sedge dominates?<br/>(smooth-to-tussocky grass texture, few shrubs)}
-
-  %% Grass moor branch
-  G -->|No| H[Not D-class:<br/>consider C (scrub/bracken) or F (peatland/wetland)]
-  G -->|Yes| I{Wetness/degradation cues prominent?<br/>(dark flush lines, saturated patches,<br/>peat disturbance nearby, sedge-dominated zones)}
-  I -->|Yes| D2A[d2a Grass/Sedge moor (Degraded)]
-  I -->|No| J{Strong tussock / acid-grass texture?<br/>(mottled straw/green, persistent tussock pattern)}
-  J -->|Yes| D2B[d2b Acid grass / tussocks / unenclosed grass moor]
-  J -->|No| D2[d2 Upland grass moor]
-```

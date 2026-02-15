@@ -47,7 +47,6 @@ nav:
       - QA checks: guidance/qa.md
   - Classes:
     - A Artificial land:
-        - Overview: classes/artificial-land/index.md
         - a1 Urban and transport: classes/artificial-land/urban.md
         - a2 Quarries & derelict land: classes/artificial-land/quarries.md
         - a3 Open mosaic: classes/artificial-land/open-mosaic.md
@@ -60,7 +59,6 @@ nav:
         - b3 Orchards: classes/cropland/orchards.md
 
     - C Woodland & Scrubland:
-        - Overview: classes/woodland/index.md
         - c1 Broadleaved woodland: classes/woodland/broadleaved.md
         - c1a Single trees: classes/woodland/broadleaved-single-trees.md
         - c1b Hedgerow trees: classes/woodland/broadleaved-hedgerow-trees.md
@@ -75,14 +73,12 @@ nav:
         - c8 Bracken: classes/woodland/bracken.md
 
     - D Heathland & Moorland:
-        - Overview: classes/heathland/index.md
         - d1 Upland heath: classes/heathland/upland-heath.md
         - d2a Grass–sedge moorland: classes/heathland/grass-sedge.md
         - d2b Upland grass moorland: classes/heathland/grass-moor.md
         - d3 Lowland heath: classes/heathland/lowland-heath.md
 
     - E Grassland:
-        - Overview: classes/grassland/index.md
         - e1 Improved grassland: classes/grassland/improved.md
         - e2 Rough grassland: classes/grassland/rough.md
         - e2a Acid grassland: classes/grassland/acid.md
@@ -90,7 +86,6 @@ nav:
         - e2c Neutral grassland and meadow: classes/grassland/meadow.md
 
     - F Wetland:
-        - Overview: classes/wetland/index.md
         - f1 Freshwater fen, marsh and swamp: classes/wetland/fen.md
         - f1a Upland mire: classes/wetland/mire.md
         - f2 Saltmarsh: classes/wetland/saltmarsh.md
@@ -99,7 +94,6 @@ nav:
         - f5 Reedbeds: classes/wetland/reedbed.md
 
     - G Bare land:
-        - Overview: classes/bare-land/index.md
         - g1 Bare ground: classes/bare-land/ground.md
         - g2 Bare rock: classes/bare-land/rock.md
         - g3 Unconsolidated bare ground: classes/bare-land/unconsolidated.md
@@ -110,12 +104,10 @@ nav:
         - g6 Scree: classes/bare-land/scree.md
 
     - R Water:
-        - Overview: classes/water/index.md
         - r1 Inland open water: classes/water/open-water.md
         - r2 Rivers and streams: classes/water/rivers.md
 
     - H Coastland:
-        - Overview: classes/coastland/index.md
         - h1 Sand dunes: classes/coastland/sand-dunes.md
         - h2 Coastal grazing marsh: classes/coastland/grazing-marsh.md
         - h3 Vegetated shingle: classes/coastland/vegetated-shingle.md
