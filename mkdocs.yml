@@ -116,24 +116,24 @@ nav:
         - Overview: classes/unclassified/index.md
   - Primary Observable Components:
       - A Abiotic Substrates:
-        - a1 Bare soil / mineral: classes/abiotic-substrates/bare-soil-mineral.md
-        - a2 Bare rock / bedrock: classes/abiotic-substrates/bare-rock-bedrock.md
-        - a3 Scree / coarse rocky debris: classes/abiotic-substrates/scree-coarse-rocky-debris.md
-        - a4 Bare peat / eroding peat: classes/abiotic-substrates/bare-peat-eroding-peat.md
+        - a1 Bare mineral soil: classes/abiotic-substrates/bare-soil-mineral.md
+        - a2 Bare rock or bedrock: classes/abiotic-substrates/bare-rock-bedrock.md
+        - a3 Scree or coarse rocky debris: classes/abiotic-substrates/scree-coarse-rocky-debris.md
+        - a4 Bare peat & eroding peat: classes/abiotic-substrates/bare-peat-eroding-peat.md
         - a5 Sand: classes/abiotic-substrates/sand.md
         - a6 Mud: classes/abiotic-substrates/mud.md
-        - a7 Shingle / gravel: classes/abiotic-substrates/shingle-gravel.md
+        - a7 Shingle or gravel: classes/abiotic-substrates/shingle-gravel.md
       - B Built & Hard Surfaces:
         - b1 Impervious hardstanding: classes/built-hard-surfaces/impervious-hardstanding.md
-        - b2 Buildings / structures: classes/built-hard-surfaces/buildings-structures.md
+        - b2 Buildings & structures: classes/built-hard-surfaces/buildings-structures.md
         - b3 Transport surfaces: classes/built-hard-surfaces/transport-surfaces.md
-        - b4 Artificial bare / disturbed: classes/built-hard-surfaces/artificial-bare-disturbed.md
+        - b4 Artificial bare & disturbed: classes/built-hard-surfaces/artificial-bare-disturbed.md
         - b5 Wall: classes/built-hard-surfaces/wall.md
       - C Cropland Structure:
-        - c1 Annual arable bare / seedbed: classes/cropland-structure/annual-arable-bare.md
+        - c1 Annual arable bare or seedbed: classes/cropland-structure/annual-arable-bare.md
         - c2 Annual arable crop canopy: classes/cropland-structure/annual-arable-crop-canopy.md
-        - c3 Annual arable stubble / post-harvest: classes/cropland-structure/annual-arable-stubble.md
-        - c4 Permanent row crop trellis / rows: classes/cropland-structure/permanent-row-crop.md
+        - c3 Annual arable stubble: classes/cropland-structure/annual-arable-stubble.md
+        - c4 Permanent row crop trellis rows: classes/cropland-structure/permanent-row-crop.md
       - V Vegetation Structure:
         - v1 Broadleaved canopy: classes/vegetation-structure/broadleaved-canopy.md
         - v2 Conifer canopy: classes/vegetation-structure/conifer-canopy.md
