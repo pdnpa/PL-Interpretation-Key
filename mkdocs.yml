@@ -115,47 +115,47 @@ nav:
     - I Unclassified:
         - Overview: classes/unclassified/index.md
   - Primary Observable Components:
-      - B Built & Hard Surfaces:
-        - B1 Impervious hardstanding: classes/built-hard-surfaces/impervious-hardstanding.md
-        - B2 Buildings / structures: classes/built-hard-surfaces/buildings-structures.md
-        - B3 Transport surfaces: classes/built-hard-surfaces/transport-surfaces.md
-        - B4 Artificial bare / disturbed: classes/built-hard-surfaces/artificial-bare-disturbed.md
-        - B5 Wall: classes/built-hard-surfaces/wall.md
-      - W Water:
-        - W1 Open standing water: classes/water/open-standing-water.md
-        - W2 Flowing / channel water: classes/water/flowing-channel-water.md
       - A Abiotic Substrates:
-        - A1 Bare soil / mineral: classes/abiotic-substrates/bare-soil-mineral.md
-        - A2 Bare rock / bedrock: classes/abiotic-substrates/bare-rock-bedrock.md
-        - A3 Scree / coarse rocky debris: classes/abiotic-substrates/scree-coarse-rocky-debris.md
-        - A4 Bare peat / eroding peat: classes/abiotic-substrates/bare-peat-eroding-peat.md
-        - A5 Sand: classes/abiotic-substrates/sand.md
-        - A6 Mud: classes/abiotic-substrates/mud.md
-        - A7 Shingle / gravel: classes/abiotic-substrates/shingle-gravel.md
-      - V Vegetation Structure:
-        - V1 Broadleaved canopy: classes/vegetation-structure/broadleaved-canopy.md
-        - V2 Conifer canopy: classes/vegetation-structure/conifer-canopy.md
-        - V3 Hedgerow: classes/vegetation-structure/hedgerow.md
-        - V4 Scrub: classes/vegetation-structure/scrub.md
-        - V5 Gorse-dominant scrub: classes/vegetation-structure/gorse-dominant-scrub.md
-        - V6 Dwarf shrub heath structure: classes/vegetation-structure/dwarf-shrub-heath.md
-        - V7 Bracken-dominant: classes/vegetation-structure/bracken-dominant.md
-        - V8 Short / smooth grass sward: classes/vegetation-structure/short-smooth-grass.md
-        - V9 Rough / taller grass: classes/vegetation-structure/rough-taller-grass.md
-        - V10 Tussocky grass: classes/vegetation-structure/tussocky-grass.md
-        - V11 Molinia-dominant grass: classes/vegetation-structure/molinia-dominant.md
-        - V12 Peatland grass / rush mosaic: classes/vegetation-structure/peatland-grass-rush-mosaic.md
-        - V13 Rush-dominant: classes/vegetation-structure/rush-dominant.md
-        - V14 Reedbed: classes/vegetation-structure/reedbed.md
-        - V15 Tall herb fen / marsh mix: classes/vegetation-structure/tall-herb-fen-marsh.md
-        - V16 Wet bryophyte carpet: classes/vegetation-structure/wet-bryophyte-carpet.md
-        - V17 Clear-fell / brash-dominant: classes/vegetation-structure/clear-fell-brash.md
-        - V18 Young plantation (rows visible): classes/vegetation-structure/young-plantation.md
-        - V19 Tree whips / early planting: classes/vegetation-structure/tree-whips-early-planting.md
+        - a1 Bare soil / mineral: classes/abiotic-substrates/bare-soil-mineral.md
+        - a2 Bare rock / bedrock: classes/abiotic-substrates/bare-rock-bedrock.md
+        - a3 Scree / coarse rocky debris: classes/abiotic-substrates/scree-coarse-rocky-debris.md
+        - a4 Bare peat / eroding peat: classes/abiotic-substrates/bare-peat-eroding-peat.md
+        - a5 Sand: classes/abiotic-substrates/sand.md
+        - a6 Mud: classes/abiotic-substrates/mud.md
+        - a7 Shingle / gravel: classes/abiotic-substrates/shingle-gravel.md
+      - B Built & Hard Surfaces:
+        - b1 Impervious hardstanding: classes/built-hard-surfaces/impervious-hardstanding.md
+        - b2 Buildings / structures: classes/built-hard-surfaces/buildings-structures.md
+        - b3 Transport surfaces: classes/built-hard-surfaces/transport-surfaces.md
+        - b4 Artificial bare / disturbed: classes/built-hard-surfaces/artificial-bare-disturbed.md
+        - b5 Wall: classes/built-hard-surfaces/wall.md
       - C Cropland Structure:
-        - C1 Annual arable bare / seedbed: classes/cropland-structure/annual-arable-bare.md
-        - C2 Annual arable crop canopy: classes/cropland-structure/annual-arable-crop-canopy.md
-        - C3 Annual arable stubble / post-harvest: classes/cropland-structure/annual-arable-stubble.md
-        - C4 Permanent row crop trellis / rows: classes/cropland-structure/permanent-row-crop.md
+        - c1 Annual arable bare / seedbed: classes/cropland-structure/annual-arable-bare.md
+        - c2 Annual arable crop canopy: classes/cropland-structure/annual-arable-crop-canopy.md
+        - c3 Annual arable stubble / post-harvest: classes/cropland-structure/annual-arable-stubble.md
+        - c4 Permanent row crop trellis / rows: classes/cropland-structure/permanent-row-crop.md
+      - V Vegetation Structure:
+        - v1 Broadleaved canopy: classes/vegetation-structure/broadleaved-canopy.md
+        - v2 Conifer canopy: classes/vegetation-structure/conifer-canopy.md
+        - v3 Hedgerow: classes/vegetation-structure/hedgerow.md
+        - v4 Scrub: classes/vegetation-structure/scrub.md
+        - v5 Gorse-dominant scrub: classes/vegetation-structure/gorse-dominant-scrub.md
+        - v6 Dwarf shrub heath structure: classes/vegetation-structure/dwarf-shrub-heath.md
+        - v7 Brackenor fern: classes/vegetation-structure/bracken-dominant.md
+        - v8 Short smooth grass sward: classes/vegetation-structure/short-smooth-grass.md
+        - v9 Rough taller grass: classes/vegetation-structure/rough-taller-grass.md
+        - v10 Tussocky grass: classes/vegetation-structure/tussocky-grass.md
+        - v11 Molinia-dominant grass: classes/vegetation-structure/molinia-dominant.md
+        - v12 Peatland grass & rush mosaic: classes/vegetation-structure/peatland-grass-rush-mosaic.md
+        - v13 Rush-dominant: classes/vegetation-structure/rush-dominant.md
+        - v14 Reedbed: classes/vegetation-structure/reedbed.md
+        - v15 Tall herb fen & marsh mix: classes/vegetation-structure/tall-herb-fen-marsh.md
+        - v16 Wet bryophyte carpet: classes/vegetation-structure/wet-bryophyte-carpet.md
+        - v17 Clear-fell & brash-dominant: classes/vegetation-structure/clear-fell-brash.md
+        - v18 Young plantation (rows visible): classes/vegetation-structure/young-plantation.md
+        - v19 Tree whips & early planting: classes/vegetation-structure/tree-whips-early-planting.md
+      - W Water:
+        - w1 Open standing water: classes/water/open-standing-water.md
+        - w2 Flowing or channel water: classes/water/flowing-channel-water.md
       - U Unclassified:
         - Overview: classes/unclassified/index.md
