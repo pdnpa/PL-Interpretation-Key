@@ -33,6 +33,7 @@ class WmsMeta:
     date_flown: pd.Timestamp | pd.NaT
     flown_year: Optional[int]
     raw: str
+    dates_flown: tuple[pd.Timestamp, ...] = ()
 
 
 def bbox_buffered(bounds: Tuple[float, float, float, float], buffer_m: float) -> Tuple[float, float, float, float]:
@@ -91,14 +92,22 @@ def getfeatureinfo_text(index_layer: str, bbox: Tuple[float, float, float, float
 
 def parse_featureinfo(txt: str) -> WmsMeta:
     km = _RE_KM.search(txt)
-    dt = _RE_DT.search(txt)
+    dts = _RE_DT.findall(txt)
     yr = _RE_YR.search(txt)
 
     km_val = km.group(1) if km else None
-    dt_val = pd.to_datetime(dt.group(1), dayfirst=True, errors="coerce") if dt else pd.NaT
+    dt_vals = [pd.to_datetime(d, dayfirst=True, errors="coerce") for d in dts]
+    dt_vals = [d for d in dt_vals if pd.notna(d)]
+    dt_val = dt_vals[0] if dt_vals else pd.NaT
     yr_val = int(yr.group(1)) if yr else (int(dt_val.year) if pd.notna(dt_val) else None)
 
-    return WmsMeta(kmreference=km_val, date_flown=dt_val, flown_year=yr_val, raw=txt)
+    return WmsMeta(
+        kmreference=km_val,
+        date_flown=dt_val,
+        flown_year=yr_val,
+        raw=txt,
+        dates_flown=tuple(dt_vals),
+    )
 
 
 def meta_at_point(index_layer: str, pt: Point, *, buf_m: float = 200.0) -> WmsMeta:

@@ -26,12 +26,17 @@ def plot_plate_1x3(
     annotations: Optional[gpd.GeoDataFrame] = None,
     label_col: str = "Main_Class",
     draw_labels: bool = False,
+    show_third_panel: bool = True,
     title1: str = "",
     title2: str = "",
     title3: str = "",
     figsize=(14, 5),
 ):
-    fig, axes = plt.subplots(1, 3, figsize=figsize, constrained_layout=True)
+    ncols = 3 if show_third_panel else 2
+    fig, axes = plt.subplots(1, ncols, figsize=figsize, constrained_layout=True)
+
+    # Normalize axes to indexable sequence for both 2 and 3 column layouts.
+    axes = list(axes)
 
     # panel 1
     _imshow(axes[0], rgb125_bytes, bbox)
@@ -43,20 +48,21 @@ def plot_plate_1x3(
     gpd.GeoSeries([sample_geom], crs=27700).boundary.plot(ax=axes[1], linewidth=1.5)
     axes[1].set_title(title2)
 
-    # panel 3
-    _imshow(axes[2], rgb_anno_bytes, bbox)
-    gpd.GeoSeries([sample_geom], crs=27700).boundary.plot(ax=axes[2], linewidth=1.5)
+    # panel 3 (optional)
+    if show_third_panel:
+        _imshow(axes[2], rgb_anno_bytes, bbox)
+        gpd.GeoSeries([sample_geom], crs=27700).boundary.plot(ax=axes[2], linewidth=1.5)
 
-    if annotations is not None and not annotations.empty:
-        ctx = box(*bbox)
-        ann_sub = annotations[annotations.intersects(ctx)]
-        if not ann_sub.empty:
-            ann_sub.boundary.plot(ax=axes[2], linewidth=1.2, color="yellow")
-            if draw_labels and (label_col in ann_sub.columns):
-                for _, r in ann_sub.iterrows():
-                    p = r.geometry.representative_point()
-                    axes[2].text(p.x, p.y, str(r[label_col]), fontsize=9)
+        if annotations is not None and not annotations.empty:
+            ctx = box(*bbox)
+            ann_sub = annotations[annotations.intersects(ctx)]
+            if not ann_sub.empty:
+                ann_sub.boundary.plot(ax=axes[2], linewidth=1.2, color="yellow")
+                if draw_labels and (label_col in ann_sub.columns):
+                    for _, r in ann_sub.iterrows():
+                        p = r.geometry.representative_point()
+                        axes[2].text(p.x, p.y, str(r[label_col]), fontsize=9)
 
-    axes[2].set_title(title3)
+        axes[2].set_title(title3)
 
     return fig
